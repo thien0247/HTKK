@@ -1,0 +1,27 @@
+   			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.1.6
+
+1. Nâng cấp ứng dụng đáp ứng Nghị quyết số 110/2023/QH15 về giảm thuế GTGT
+Nâng cấp chức năng kê khai đối với các tờ khai 01/GTGT (TT80/2021), 04/GTGT (TT80/2021), 01/CNKD (TT40/2021), 01/TTS (TT40/2021), cụ thể như sau:
+- Sửa tên tên phụ lục PL 101/2023/QH15 khi chọn phụ lục đính kèm tờ khai thành PL_GiamThue_GTGT_23_24
+- Cập nhật hiệu lực cho phép đính kèm PL_GiamThue_GTGT_23_24 như sau:
++ Đối với tờ khai 01/GTGT (TT80/2021): Cho phép đính kèm khi chọn ngành nghề “Hoạt động sản xuất kinh doanh thông thường”, “Hoạt động thăm dò, khai thác dầu khí”, “Nhà máy sản xuất điện khác địa bàn tỉnh nơi đóng trụ sở chính” đối với các kỳ thuế:
+• Kỳ tháng: Từ tháng 06/2023 đến tháng 06/2024
+• Kỳ quý: Từ quý 2/2023 đến quý 2/2024
++ Đối với tờ khai 04/GTGT (TT80/2021): 
+• Trường hợp không tích chọn thu hộ: Kỳ tháng là từ tháng 06/2023 đến tháng 06/2024; Kỳ quý là từ quý 2/2023 đến quý 2/2024; Kỳ lần phát sinh từ ngày 01/07/2023 đến ngày 30/06/2024
+• Trường hợp tích chọn thu hộ: Kỳ tháng là từ tháng 07/2023 đến tháng 06/2024; Kỳ quý là từ quý 3/2023 đến quý 2/2024
++ Đối với tờ khai 01/CNKD (TT40/2021): 
+• Kỳ tháng: Từ tháng 07/2023 đến tháng 06/2024
+• Kỳ quý: Từ quý 3/2023 đến quý 2/2024
+• Kỳ theo lần phát sinh: Từ ngày 01/07/2023 đến ngày 30/06/2024
++ Đối với tờ khai 01/TTS (TT40/2021): 
+• Kỳ tháng: Từ tháng 07/2023 đến tháng 06/2024
+• Kỳ quý: Từ quý 3/2023 đến quý 2/2024
+• Kỳ theo lần thanh toán: Từ kỳ thanh toán” đến “Đến kỳ thanh toán” có giao với  khoảng thời gian từ 01/07/2023 đến 30/06/2024
+- Nâng cấp xử lý hiển thị tên phụ lục theo kỳ thuế kê khai:
++ Nếu kê khai kỳ thuộc năm 2023 và được đính kèm Phụ lục giảm thuế giá trị gia tăng thì hiển thị là: Phụ lục Giảm thuế Giá trị gia tăng theo Nghị quyết số 101/2023/QH15
++ Nếu kê khai kỳ thuộc năm 2024 và được đính kèm Phụ lục giảm thuế giá trị gia tăng thì hiển thị là: Phụ lục Giảm thuế Giá trị gia tăng theo Nghị quyết số 110/2023/QH15
++ Riêng đối với kỳ thanh toán vắt năm có khoảng thời gian từ ngày, đến ngày thuộc năm 2023 và 2024 và được đính kèm Phụ lục giảm thuế giá trị gia tăng thì hiển thị là: Phụ lục Giảm thuế Giá trị gia tăng theo Nghị quyết số 101/2023/QH15 và Nghị quyết số 110/2023/QH15
+Lưu ý: Đối với các tờ khai bổ sung của các tờ khai 01/GTGT (TT80/2021), 04/GTGT (TT80/2021), 01/CNKD (TT40/2021), 01/TTS (TT40/2021) có điều chỉnh dữ liệu trên PL 101/2023/QH15 đã kê khai trên ứng dụng từ phiên bản 5.1.5 trở về trước, khi sử dụng phiên bản 5.1.6 người nộp thuế nhấn nút <Tổng hợp KHBS> để hiển thị đúng tên Phụ lục điều chỉnh trên 01-1/KHBS theo tên mới là PL_GiamThue_GTGT_23_24
+2. Nâng cấp Tờ khai khấu trừ thuế thu nhập cá nhân – mẫu 01/XSBHĐC (TT40/2021)
+- Cập nhật cảnh báo đúng tại trường dữ liệu không hợp lệ khi tải bảng kê excel 01-1/XSBHĐC lên ứng dụng.

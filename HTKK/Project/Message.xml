@@ -637,9 +637,12 @@
 	<Infor ID="0630" Msg="Nếu chọn Hoạt động sản xuất kinh doanh thông thường bao gồm Casino thì chỉ cho nhập tại CQT quản lý"/>
 	<Infor ID="0631" Msg="Trong kỳ đã tồn tại tờ khai đối với 1 ngành nghề khác. Để thay đổi ngành nghề kê khai, vui lòng xóa tờ khai cùng kỳ đang có trong hệ thống tại chức năng tra cứu"/>
 	<Infor ID="0632" Msg="Ngày Lệnh hoàn thuế phải >= Ngày quyết định hoàn"/>
-	<Infor ID="0633" Msg="Không cho phép khai mới nếu khai khác khoảng thời gian 01/01 đến 31/01"/>
+	<Infor ID="0633" Msg="Văn bản này chỉ được phép kê khai và nộp đến CQT từ ngày 01/01 đến ngày 31/01 của năm hiện tại"/>
 	<Infor ID="0634" Msg="Đã hết thời hạn nộp Giấy đề nghị gia hạn"/>
 	<Infor ID="0635" Msg="Phải chọn mã dự án đầu tư thuộc CQT đó quản lý cùng với CQT nộp tờ khai"/>
-	<Infor ID="0636" Msg="Không được đính kèm phụ lục PL 101/2023/QH15 đối với các trường hợp tổ chức, cá nhân khai thuế thay, nộp thuế thay"/>
+	<Infor ID="0636" Msg="Không được đính kèm phụ lục PL_GiamThue_GTGT_23_24 đối với các trường hợp tổ chức, cá nhân khai thuế thay, nộp thuế thay"/>
 	<Infor ID="0637" Msg="Tờ khai có hiệu lực từ ngày 31/10/2022"/>
+	<Infor ID="0638" Msg="Năm áp dụng >= Năm hiện tại"/>
+	<Infor ID="0639" Msg="- Chỉ tích chọn &quot;Thu nhập cá nhân&quot; nếu NNT đã đăng ký khai thuế GTGT theo kỳ quý; hoặc không thuộc trường hợp phải khai thuế GTGT
+						- Tích chọn đồng thời &quot;Thu nhập cá nhân&quot; và &quot;Giá trị gia tăng&quot; nếu NNT chưa đăng ký khai thuế GTGT theo kỳ quý; hoặc NNT là HKD, CNKD nộp thuế theo phương pháp kê khai"/>
 </Message>

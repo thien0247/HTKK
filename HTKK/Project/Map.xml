@@ -815,7 +815,7 @@
 		<Validity StartDate="01/01/2016" DataFile="01_LPMB_TT80,KHBS_01_01_LPMB_TT80,KHBS_01_1_01_LPMB_TT80" ThueKhauTru="" ThuePhaiNop="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/tong">
 		</Validity>
 	</Map>
-	<Map ID="L11" Caption="Tờ khai lệ phí môn bài – 01/LPMB (TT80/2021)- Cơ sở mới thành lập" Year="1" Month="0" ThreeMonth="1" Day="0" FinanceYear="0" LoaiTK="D" Prefix="CSM">
+	<Map ID="L11" Caption="Tờ khai lệ phí môn bài – 01/LPMB (TT80/2021)- Khai cho ĐĐKD mới thành lập trong năm" Year="1" Month="0" ThreeMonth="1" Day="0" FinanceYear="0" LoaiTK="D" Prefix="CSM">
 		<Validity StartDate="01/01/2016" DataFile="01_LPMB_TT80,KHBS_01_01_LPMB_TT80,KHBS_01_1_01_LPMB_TT80" ThueKhauTru="" ThuePhaiNop="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/tong">
 		</Validity>
 	</Map>
@@ -1142,6 +1142,10 @@
 	</Map>
 	<Map ID="O6" FinanceYear="1" Year="1" Month="0" ThreeMonth="1" Day="1" Caption="TK số thu chênh lệch VCSH lớn hơn VĐL (01/CLVCSH-VDL) (TT57/2022)" LoaiTK="D">
 		<Validity StartDate="14/06/2006" DataFile="01_CLVCSH_VDL_TT57,KHBS_01_01_CLVCSH_VDL_TT57,KHBS_01_1_01_CLVCSH_VDL_TT57" ThueKhauTru="" ThuePhaiNop="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/ct11"/>
+	</Map>
+	
+	<Map ID="M1" FinanceYear="1" Year="1" Month="0" ThreeMonth="1" Day="1" Caption="VB đề nghị thay đổi kỳ tính thuế từ tháng sang quý (01/DK-TĐKTT)" LoaiTK="Y">
+		<Validity StartDate="01/01/1900" DataFile="01_DK_TDKTT_TT80" ThueKhauTru="" ThuePhaiNop=""/>
 	</Map>
 	
 </Root>

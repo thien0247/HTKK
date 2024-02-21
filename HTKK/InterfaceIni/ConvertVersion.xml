@@ -62,6 +62,7 @@
 	  <Item DataFileName="02_GTGT" VersionXmlOld="241" VersionXmlNew="270" VersionXmlKHBSOld="241" VersionXmlKHBSNew="270"  ConvertType="2" VersionApp="511"/>
 	  <Item DataFileName="01_9_MGT_GTGT_TT80" VersionXmlOld="268" VersionXmlNew="268" VersionXmlKHBSOld="268" VersionXmlKHBSNew="268"  ConvertType="5" VersionApp="513"/>
 	  <Item DataFileName="01_4_CNKD_TT40" VersionXmlOld="268" VersionXmlNew="268" VersionXmlKHBSOld="268" VersionXmlKHBSNew="268"  ConvertType="5" VersionApp="514"/>
+	  <Item DataFileName="01_LPMB_TT80" VersionXmlOld="251" VersionXmlNew="272" VersionXmlKHBSOld="251" VersionXmlKHBSNew="272"  ConvertType="2" VersionApp="517"/>	  
     </Items>
   </Section>
 </Sections>

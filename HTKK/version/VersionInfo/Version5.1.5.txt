@@ -1,0 +1,23 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.1.5
+
+1. Cập nhật danh mục thuế bảo vệ môi trường đáp ứng Nghị Quyết số 42/2023/UBTVQH15 
+Cập nhật mức thuế có hiệu lực từ ngày 01/01/2024 đến ngày 31/12/2024 đối với các hàng hóa sau:
+	- Thuế bảo vệ môi trường mặt hàng xăng (trừ etanol) bán ra trong nước (Mã 020201): 2.000 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng dầu diezel bán ra trong nước (Mã 020202): 1.000 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng dầu hỏa bán ra trong nước (Mã 020203): 600 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng nhiên liệu bay bán ra trong nước (Mã 020205): 1.000 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng xăng E5 RON92 (trừ etanol) bán ra trong nước (Mã 020206): 2.000 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng dầu mazut bán ra trong nước (Mã 020207): 1.000 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng dầu nhờn bán ra trong nước (Mã 020208): 1.000 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng mỡ nhờn bán ra trong nước (Mã 020209): 1.000 (đồng)
+Cập nhật mức thuế có hiệu lực từ ngày 01/01/2025 đối với các hàng hóa sau:
+	- Thuế bảo vệ môi trường mặt hàng xăng (trừ etanol) bán ra trong nước (Mã 020201): 4.000 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng dầu diezel bán ra trong nước (Mã 020202): 2.000 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng dầu hỏa bán ra trong nước (Mã 020203): 1.000 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng nhiên liệu bay bán ra trong nước (Mã 020205): 3.000 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng xăng E5 RON92 (trừ etanol) bán ra trong nước (Mã 020206): 4.000 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng dầu mazut bán ra trong nước (Mã 020207): 2.000 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng dầu nhờn bán ra trong nước (Mã 020208): 2.000 (đồng) 
+	- Thuế bảo vệ môi trường mặt hàng mỡ nhờn bán ra trong nước (Mã 020209): 2.000 (đồng)
+2. Nâng cấp Tờ khai phí bảo vệ môi trường – mẫu 01/PBVMT (TT80/2021) 
+	- Cập nhật tổng hợp đúng dữ liệu lên 01-1/KHBS khi thay đổi thông tin “Số lượng đất đá bốc xúc thải” và “Số lượng quặng khoáng sản nguyên khai khai thác” trên tờ khai 01/PBVMT.

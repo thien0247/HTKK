@@ -235,10 +235,10 @@
 		<Item  Dynamic="1" SheetIndex="5" SheetName="PL 43/2022/QH15" MCT="[05]" MCTPath="thueSuatSauGiam" Caption="[05] - Thuế suất/Tỷ lệ tính thuế GTGT sau giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ43_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
 		<Item  Dynamic="1" SheetIndex="5" SheetName="PL 43/2022/QH15" MCT="[06]" MCTPath="thueGTGTDuocGiam" Caption="[06] - Thuế GTGT được giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ43_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
 		
-		<Item  Dynamic="1" SheetIndex="6" SheetName="PL 101/2023/QH15" MCT="[03]" MCTPath="giaTriHHDV" Caption="[03] - Giá trị hàng hóa, dịch vụ chưa có thuế GTGT" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4" PrefixPath=""/>
-		<Item  Dynamic="1" SheetIndex="6" SheetName="PL 101/2023/QH15" MCT="[04]" MCTPath="thueSuatTheoQuyDinh" Caption="[04] - Thuế suất theo quy định" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4" PrefixPath=""/>
-		<Item  Dynamic="1" SheetIndex="6" SheetName="PL 101/2023/QH15" MCT="[05]" MCTPath="thueSuatSauGiam" Caption="[05] - Thuế suất sau giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4" PrefixPath=""/>
-		<Item  Dynamic="1" SheetIndex="6" SheetName="PL 101/2023/QH15" MCT="[06]" MCTPath="thueGTGTDuocGiam" Caption="[06] - Thuế GTGT được giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4" PrefixPath=""/>
+		<Item  Dynamic="1" SheetIndex="6" SheetName="PL_GiamThue_GTGT_23_24" MCT="[03]" MCTPath="giaTriHHDV" Caption="[03] - Giá trị hàng hóa, dịch vụ chưa có thuế GTGT" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4" PrefixPath=""/>
+		<Item  Dynamic="1" SheetIndex="6" SheetName="PL_GiamThue_GTGT_23_24" MCT="[04]" MCTPath="thueSuatTheoQuyDinh" Caption="[04] - Thuế suất theo quy định" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4" PrefixPath=""/>
+		<Item  Dynamic="1" SheetIndex="6" SheetName="PL_GiamThue_GTGT_23_24" MCT="[05]" MCTPath="thueSuatSauGiam" Caption="[05] - Thuế suất sau giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4" PrefixPath=""/>
+		<Item  Dynamic="1" SheetIndex="6" SheetName="PL_GiamThue_GTGT_23_24" MCT="[06]" MCTPath="thueGTGTDuocGiam" Caption="[06] - Thuế GTGT được giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4" PrefixPath=""/>
 
 	</Map>
 	<Map ID="D2" type="1" ChonMCTTruoc="1"  MauToKhai="02/GTGT">
@@ -295,10 +295,10 @@
 		<Item  Dynamic="1" SheetIndex="1" SheetName="01/PL-NQ43" MCT="[05]" MCTPath="thueSuatSauGiam" Caption="[05] - Thuế suất/Tỷ lệ tính thuế GTGT sau giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ43_GTGT/BangKeTenHHDV" LoaiChiTieu="4" PrefixPath=""/>
 		<Item  Dynamic="1" SheetIndex="1" SheetName="01/PL-NQ43" MCT="[06]" MCTPath="thueGTGTDuocGiam" Caption="[06] - Thuế GTGT được giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ43_GTGT/BangKeTenHHDV" LoaiChiTieu="4" PrefixPath=""/>
 
-		<Item  Dynamic="1" SheetIndex="2" SheetName="PL 101/2023/QH15" MCT="[03]" MCTPath="giaTriHHDV" Caption="[03] - Giá trị hàng hóa, dịch vụ chưa có thuế GTGT/ Doanh thu hàng hoá, dịch vụ chịu thuế" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
-		<Item  Dynamic="1" SheetIndex="2" SheetName="PL 101/2023/QH15" MCT="[04]" MCTPath="thueSuatTheoQuyDinh" Caption="[04] - Thuế suất/ Tỷ lệ tính thuế GTGT theo quy định" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
-		<Item  Dynamic="1" SheetIndex="2" SheetName="PL 101/2023/QH15" MCT="[05]" MCTPath="thueSuatSauGiam" Caption="[05] - Thuế suất/ Tỷ lệ tính thuế GTGT sau giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
-		<Item  Dynamic="1" SheetIndex="2" SheetName="PL 101/2023/QH15" MCT="[06]" MCTPath="thueGTGTDuocGiam" Caption="[06] - Thuế GTGT được giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
+		<Item  Dynamic="1" SheetIndex="2" SheetName="PL_GiamThue_GTGT_23_24" MCT="[03]" MCTPath="giaTriHHDV" Caption="[03] - Giá trị hàng hóa, dịch vụ chưa có thuế GTGT/ Doanh thu hàng hoá, dịch vụ chịu thuế" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
+		<Item  Dynamic="1" SheetIndex="2" SheetName="PL_GiamThue_GTGT_23_24" MCT="[04]" MCTPath="thueSuatTheoQuyDinh" Caption="[04] - Thuế suất/ Tỷ lệ tính thuế GTGT theo quy định" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
+		<Item  Dynamic="1" SheetIndex="2" SheetName="PL_GiamThue_GTGT_23_24" MCT="[05]" MCTPath="thueSuatSauGiam" Caption="[05] - Thuế suất/ Tỷ lệ tính thuế GTGT sau giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
+		<Item  Dynamic="1" SheetIndex="2" SheetName="PL_GiamThue_GTGT_23_24" MCT="[06]" MCTPath="thueGTGTDuocGiam" Caption="[06] - Thuế GTGT được giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
 	</Map>
 	<Map ID="D5" type="1" ChonMCTTruoc="1"  MauToKhai="05/GTGT">
 		<Item  Dynamic="0" SheetIndex="0" SheetName="05/GTGT" MCT="[21]" MCTPath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/KeKhaiNVThue/HDXayDung/ct21" Caption="Doanh thu chưa có thuế giá trị gia tăng - Hoạt động xây dựng" LoaiThue="" ToSheetIndex="01-1" LoaiChiTieu="2"/>
@@ -929,9 +929,11 @@
 		<Item  Dynamic="0" SheetIndex="0" SheetName="01/CNKD" MCT="[31d]" MCTPath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/KKThueGTGT_TNCN/SoThueTNCN/ct31" Caption="Hoạt động kinh doanh khác " LoaiThue="" ToSheetIndex="01-1" LoaiChiTieu="2"/>
 
 		<Item  Dynamic="0" SheetIndex="0" SheetName="01/CNKD" MCT="[32a]" MCTPath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/KKThueGTGT_TNCN/DoanhThuThueGTGT/ct32" Caption="Tổng cộng Doanh thu - Thuế GTGT" LoaiThue="" ToSheetIndex="01-1" LoaiChiTieu="2"/>
-		<Item  Dynamic="0" SheetIndex="0" SheetName="01/CNKD" MCT="[32b]" MCTPath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/KKThueGTGT_TNCN/SoThueGTGT/ct32" Caption="Tổng cộng Doanh thu - Thuế GTGT" LoaiThue="0" ToSheetIndex="01-1" LoaiChiTieu="2"/>
-		<Item  Dynamic="0" SheetIndex="0" SheetName="01/CNKD" MCT="[32c]" MCTPath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/KKThueGTGT_TNCN/DoanhThuThueTNCN/ct32" Caption="Tổng cộng Doanh thu - Thuế GTGT" LoaiThue="" ToSheetIndex="01-1" LoaiChiTieu="2"/>
-		<Item  Dynamic="0" SheetIndex="0" SheetName="01/CNKD" MCT="[32d]" MCTPath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/KKThueGTGT_TNCN/SoThueTNCN/ct32" Caption="Tổng cộng Doanh thu - Thuế GTGT" LoaiThue="0" ToSheetIndex="01-1" LoaiChiTieu="2"/>
+		<Item  Dynamic="0" SheetIndex="0" SheetName="01/CNKD" MCT="[32b]" MCTPath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/KKThueGTGT_TNCN/SoThueGTGT/ct32" Caption="Tổng cộng Số thuế - Thuế GTGT" LoaiThue="0" ToSheetIndex="01-1" LoaiChiTieu="2"/>
+		<Item  Dynamic="0" SheetIndex="0" SheetName="01/CNKD" MCT="[32c]" MCTPath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/KKThueGTGT_TNCN/DoanhThuThueTNCN/ct32" Caption="Tổng cộng Doanh thu - Thuế TNCN" LoaiThue="" ToSheetIndex="01-1" LoaiChiTieu="2"/>
+		<Item  Dynamic="0" SheetIndex="0" SheetName="01/CNKD" MCT="[32d]" MCTPath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/KKThueGTGT_TNCN/SoThueTNCN/ct32" Caption="Tổng cộng Số thuế - Thuế TNCN" LoaiThue="0" ToSheetIndex="01-1" LoaiChiTieu="2"/>
+
+
 
 		<Item  Dynamic="1" SheetIndex="0" SheetName="01/CNKD" MCT="(3)" MCTPath="ct3" Caption="(3) - Mã chỉ tiêu" LoaiThue="" ToSheetIndex="01-1" TCTPath="ct2_ten" MaTCTPath="ct2_ma"  TablePath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/KKhaiThueTTDB/CTietKKhaiThueTTDB" LoaiChiTieu="1"/>
 		<Item  Dynamic="1" SheetIndex="0" SheetName="01/CNKD" MCT="(4)" MCTPath="ct4" Caption="(4) - Đơn vị tính" LoaiThue="" ToSheetIndex="01-1" TCTPath="ct2_ten" MaTCTPath="ct2_ma"  TablePath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/KKhaiThueTTDB/CTietKKhaiThueTTDB" LoaiChiTieu="1"/>
@@ -986,10 +988,10 @@
 		<Item  Dynamic="1" SheetIndex="3" SheetName="PL 43/2022/QH15" MCT="[05]" MCTPath="thueSuatSauGiam" Caption="[05] - Thuế suất/Tỷ lệ tính thuế GTGT sau giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV###nganhNghe_ten" MaTCTPath=""  TablePath="PL_ND15_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
 		<Item  Dynamic="1" SheetIndex="3" SheetName="PL 43/2022/QH15" MCT="[06]" MCTPath="thueGTGTDuocGiam" Caption="[06] - Thuế GTGT được giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV###nganhNghe_ten" MaTCTPath=""  TablePath="PL_ND15_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
 				
-		<Item  Dynamic="1" SheetIndex="4" SheetName="PL 101/2023/QH15" MCT="[03]" MCTPath="giaTriHHDV" Caption="[03] - Doanh thu hàng hoá, dịch vụ chịu thuế" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
-		<Item  Dynamic="1" SheetIndex="4" SheetName="PL 101/2023/QH15" MCT="[04]" MCTPath="thueSuatTheoQuyDinh" Caption="[04] - Tỷ lệ tính thuế GTGT theo quy định" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
-		<Item  Dynamic="1" SheetIndex="4" SheetName="PL 101/2023/QH15" MCT="[05]" MCTPath="thueSuatSauGiam" Caption="[05] - Tỷ lệ tính thuế GTGT sau giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
-		<Item  Dynamic="1" SheetIndex="4" SheetName="PL 101/2023/QH15" MCT="[06]" MCTPath="thueGTGTDuocGiam" Caption="[06] - Thuế GTGT được giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
+		<Item  Dynamic="1" SheetIndex="4" SheetName="PL_GiamThue_GTGT_23_24" MCT="[03]" MCTPath="giaTriHHDV" Caption="[03] - Doanh thu hàng hoá, dịch vụ chịu thuế" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
+		<Item  Dynamic="1" SheetIndex="4" SheetName="PL_GiamThue_GTGT_23_24" MCT="[04]" MCTPath="thueSuatTheoQuyDinh" Caption="[04] - Tỷ lệ tính thuế GTGT theo quy định" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
+		<Item  Dynamic="1" SheetIndex="4" SheetName="PL_GiamThue_GTGT_23_24" MCT="[05]" MCTPath="thueSuatSauGiam" Caption="[05] - Tỷ lệ tính thuế GTGT sau giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
+		<Item  Dynamic="1" SheetIndex="4" SheetName="PL_GiamThue_GTGT_23_24" MCT="[06]" MCTPath="thueGTGTDuocGiam" Caption="[06] - Thuế GTGT được giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="pathStt###tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
 
 	</Map>	
 	<Map ID="G7" type="1" ChonMCTTruoc="1" NhieuDonViTien="0"  MauToKhai="01/TTS" >		
@@ -1048,10 +1050,10 @@
 		<Item  Dynamic="1" SheetIndex="3" SheetName="PL 43/2022/QH15" MCT="[05]" MCTPath="thueSuatSauGiam" Caption="[05] - Thuế suất/Tỷ lệ tính thuế GTGT sau giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_ND15_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
 		<Item  Dynamic="1" SheetIndex="3" SheetName="PL 43/2022/QH15" MCT="[06]" MCTPath="thueGTGTDuocGiam" Caption="[06] - Thuế GTGT được giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_ND15_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
 		
-		<Item  Dynamic="1" SheetIndex="4" SheetName="PL 101/2023/QH15" MCT="[03]" MCTPath="giaTriHHDV" Caption="[03] - Doanh thu hàng hoá, dịch vụ chịu thuế" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
-		<Item  Dynamic="1" SheetIndex="4" SheetName="PL 101/2023/QH15" MCT="[04]" MCTPath="thueSuatTheoQuyDinh" Caption="[04] - Tỷ lệ tính thuế GTGT theo quy định" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
-		<Item  Dynamic="1" SheetIndex="4" SheetName="PL 101/2023/QH15" MCT="[05]" MCTPath="thueSuatSauGiam" Caption="[05] - Tỷ lệ tính thuế GTGT sau giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
-		<Item  Dynamic="1" SheetIndex="4" SheetName="PL 101/2023/QH15" MCT="[06]" MCTPath="thueGTGTDuocGiam" Caption="[06] - Thuế GTGT được giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
+		<Item  Dynamic="1" SheetIndex="4" SheetName="PL_GiamThue_GTGT_23_24" MCT="[03]" MCTPath="giaTriHHDV" Caption="[03] - Doanh thu hàng hoá, dịch vụ chịu thuế" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
+		<Item  Dynamic="1" SheetIndex="4" SheetName="PL_GiamThue_GTGT_23_24" MCT="[04]" MCTPath="thueSuatTheoQuyDinh" Caption="[04] - Tỷ lệ tính thuế GTGT theo quy định" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
+		<Item  Dynamic="1" SheetIndex="4" SheetName="PL_GiamThue_GTGT_23_24" MCT="[05]" MCTPath="thueSuatSauGiam" Caption="[05] - Tỷ lệ tính thuế GTGT sau giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
+		<Item  Dynamic="1" SheetIndex="4" SheetName="PL_GiamThue_GTGT_23_24" MCT="[06]" MCTPath="thueGTGTDuocGiam" Caption="[06] - Thuế GTGT được giảm" LoaiThue="" ToSheetIndex="01-1" TCTPath="tenHHDV" MaTCTPath=""  TablePath="PL_NQ101_GTGT/BangKeTenHHDV" LoaiChiTieu="4"/>
 	</Map>
 	<Map ID="G6" type="1" ChonMCTTruoc="1" NhieuDonViTien="0"  MauToKhai="01/TKN-CNKD" >
 		<Item  Dynamic="0" SheetIndex="0" SheetName="01/TKN-CNKD" MCT="[15a]" MCTPath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/TongDoanhThuTrongNam/ct15" Caption="Hoạt động đại lý xổ số" LoaiThue=""  ToSheetIndex="01-1" LoaiChiTieu="2"  />

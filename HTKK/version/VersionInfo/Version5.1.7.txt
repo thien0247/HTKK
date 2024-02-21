@@ -1,0 +1,8 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.1.7
+
+1. Nâng cấp bổ sung mẫu biểu Văn bản đề nghị thay đổi kỳ tính thuế từ tháng sang quý – mẫu 01/DK-TĐKTT (TT80/2021)	
+	- Bổ sung mẫu Văn bản đề nghị thay đổi kỳ tính thuế từ tháng sang quý – mẫu 01/DK-TĐKTT: Cho phép nhập, sửa, in, kết xuất XML, kết xuất Excel, nhập tờ khai XML. 
+2. Nâng cấp Tờ khai lệ phí môn bài – mẫu 01/LPMB (TT80/2021)
+	- Nâng cấp cho phép NNT kê khai nhiều tờ khai 01/LPMB trong một năm nếu có phát sinh các địa điểm kinh doanh tại các thời điểm khác nhau: Bổ sung trường thông tin “Ngày thành lập địa điểm kinh doanh” tại màn hình nhập kỳ tính thuế. Nếu tích chọn “Khai cho địa điểm kinh doanh mới thành lập trong năm” thì bắt buộc nhập “Ngày thành lập địa điểm kinh doanh”.
+
+Lưu ý: Đối với các tờ khai Lệ phí môn bài có tích chọn “Khai cho địa điểm kinh doanh mới thành lập trong năm” đã kê khai trên ứng dụng từ phiên bản 5.1.6 trở về trước, do không có thông tin “Ngày thành lập địa điểm kinh doanh” nên khi sử dụng phiên bản 5.1.7 người nộp thuế vui lòng nhập lại thông tin tờ khai.

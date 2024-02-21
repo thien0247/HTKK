@@ -223,6 +223,7 @@
 	<Button ID="E8" ThemPhuLuc="1" Xoa="1" TaiToKhai="0" NhapLai="1" Ghi="1" In="1" KiemTra="0" KetXuat="1" NhapTuXML="1" Dong="1"/>
 	<Button ID="K5" ThemPhuLuc="0" Xoa="1" TaiToKhai="0" NhapLai="1" Ghi="1" In="1" KiemTra="0" KetXuat="1" NhapTuXML="1" Dong="1"/>
 	<Button ID="J2" ThemPhuLuc="1" Xoa="1" TaiToKhai="0" NhapLai="1" Ghi="1" In="1" KiemTra="0" KetXuat="1" NhapTuXML="1" Dong="1"/>
+	<Button ID="M1" ThemPhuLuc="0" Xoa="1" TaiToKhai="0" NhapLai="1" Ghi="1" In="1" KiemTra="0" KetXuat="1" NhapTuXML="1" Dong="1"/>
 	<Button ID="O1" ThemPhuLuc="0" Xoa="1" TaiToKhai="0" NhapLai="1" Ghi="1" In="1" KiemTra="0" KetXuat="1" NhapTuXML="1" Dong="1"/>
 	<Button ID="O2" ThemPhuLuc="0" Xoa="1" TaiToKhai="0" NhapLai="1" Ghi="1" In="1" KiemTra="0" KetXuat="1" NhapTuXML="1" Dong="1"/>
 	<Button ID="O3" ThemPhuLuc="0" Xoa="1" TaiToKhai="0" NhapLai="1" Ghi="1" In="1" KiemTra="0" KetXuat="1" NhapTuXML="1" Dong="1"/>

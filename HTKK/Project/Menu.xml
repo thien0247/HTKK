@@ -44,7 +44,7 @@
 			<Sheet ID="01_6" RowTTDLT="" SheetName="01-6/GTGT (CSSX)" MaHoSo="002603" Active="1" DataFile="01_6_GTGT_CSSX_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/Pluc_01_6_GTGT_CSSX" Period_DefaultValue="1" Period_DefaultLock="1"/>
 			<Sheet ID="01_6_2" RowTTDLT="" SheetName="01-6/GTGT (ĐTVT)" MaHoSo="002605" Active="1" DataFile="01_6_GTGT_DVVT_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/Pluc_01_6_GTGT_DVVT" Period_DefaultValue="1" Period_DefaultLock="1"/>		
 			<Sheet ID="01-8" RowTTDLT="" SheetName="PL 43/2022/QH15" Active="1" MaHoSo="002604" DataFile="01_8_MGT_GTGT_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL_NQ43_GTGT"/>
-			<Sheet ID="01-9" RowTTDLT="" SheetName="PL 101/2023/QH15" Active="1" MaHoSo="002608" DataFile="01_9_MGT_GTGT_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL_NQ101_GTGT"/>
+			<Sheet ID="01-9" RowTTDLT="" SheetName="PL_GiamThue_GTGT_23_24" Active="1" MaHoSo="002608" DataFile="01_9_MGT_GTGT_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL_NQ101_GTGT"/>
 			<Sheet ID="01-KHBS" RowTTDLT="" SheetName="01-KHBS" Active="1" DataFile="KHBS_01_01_GTGT_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL01_KHBS"/>
 			<Sheet ID="01-1-KHBS" RowTTDLT="" SheetName="01-1/KHBS" Active="1" DataFile="KHBS_01_1_01_GTGT_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL01_1_KHBS"/>
 		</Validity>
@@ -86,7 +86,7 @@
 		<Validity StartDate="01/01/1900" EndDate="" FolderName="04_GTGT_TT80" CatalogueID="01">
 			<Sheet ID="01" RowTTDLT="" SheetName="Tờ khai" MaHoSo="0029" Active="1" DataFile="04_GTGT_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh" />
 			<Sheet ID="01-1" RowTTDLT="" SheetName="PL 43/2022/QH15" MaHoSo="0029" Active="1" DataFile="04_1_MGT_GTGT_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL_NQ43_GTGT"/>
-			<Sheet ID="01-2" RowTTDLT="" SheetName="PL 101/2023/QH15" MaHoSo="002902" Active="1" DataFile="04_2_MGT_GTGT_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL_NQ101_GTGT"/>
+			<Sheet ID="01-2" RowTTDLT="" SheetName="PL_GiamThue_GTGT_23_24" MaHoSo="002902" Active="1" DataFile="04_2_MGT_GTGT_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL_NQ101_GTGT"/>
 			<Sheet ID="01-KHBS" RowTTDLT="" SheetName="01-KHBS" Active="1" DataFile="KHBS_01_04_GTGT_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL01_KHBS"/>
 			<Sheet ID="01-1-KHBS" RowTTDLT="" SheetName="01-1/KHBS" Active="1" DataFile="KHBS_01_1_04_GTGT_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL01_1_KHBS"/>
 		</Validity>
@@ -1015,7 +1015,7 @@
 		</Validity>
 	</Menu>
 	
-	<Menu ID="L1" PopID="101" ParentID="101_9" UseDate="0" PeriodTypeValue="3" KieuKHBS="3" NopTheoTinhCQT="2" Caption="Tờ khai lệ phí môn bài (01/LPMB) (TT80/2021)" FormName="" FinanceYear="0" TenToKhai="TỜ KHAI LỆ PHÍ MÔN BÀI (01/LPMB)" MoTaBieuMau="(Ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ trưởng Bộ Tài chính)" Icon="..\Pictures\tk_tndn.png" KieuKy="36" SignNode="HSoKhaiThue" MaFile="01_LPMB_TT80" VersionXML="2.5.1" VersionKHBS="2.5.1" MaToKhai="824" Class="Lpmb01TT80" XsdSchema="01_LPMB_TT80">
+	<Menu ID="L1" PopID="101" ParentID="101_9" UseDate="0" PeriodTypeValue="3" KieuKHBS="3" NopTheoTinhCQT="2" Caption="Tờ khai lệ phí môn bài (01/LPMB) (TT80/2021)" FormName="" FinanceYear="0" TenToKhai="TỜ KHAI LỆ PHÍ MÔN BÀI (01/LPMB)" MoTaBieuMau="(Ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ trưởng Bộ Tài chính)" Icon="..\Pictures\tk_tndn.png" KieuKy="36" SignNode="HSoKhaiThue" MaFile="01_LPMB_TT80" VersionXML="2.7.2" VersionKHBS="2.7.2" MaToKhai="824" Class="Lpmb01TT80" XsdSchema="01_LPMB_TT80">
 		<Validity StartDate="01/01/1900" EndDate="" FolderName="01_LPMB_TT80" CatalogueID="01">
 			<Sheet ID="01" RowTTDLT="" SheetName="Tờ khai" MaHoSo="0041" Active="1" DataFile="01_LPMB_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh"/>
 			<Sheet ID="01-KHBS" RowTTDLT="" SheetName="01-KHBS" Active="1" DataFile="KHBS_01_01_LPMB_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL01_KHBS"/>
@@ -1060,11 +1060,11 @@
 	</Menu>
 	<Menu ID="G7" PopID="101" ParentID="101_15" UseDate="0" PeriodTypeValue="3" KieuKHBS="3"   NopTheoTinhCQT="2" Caption="01/TTS Tờ khai thuế đối với hoạt động cho thuê tài sản (TT40/2021)" Icon="..\Pictures\tk_tndn.png" TenToKhai="TỜ KHAI THUẾ ĐỐI VỚI HOẠT ĐỘNG CHO THUÊ TÀI SẢN (01/TTS)" MoTaBieuMau="(Ban hành kèm theo Thông tư số 40/2021/TT-BTC ngày 01/6/2021 của Bộ trưởng Bộ Tài Chính)" KieuKy="42" SignNode="HSoKhaiThue" MaFile="01_TTS_TT40" VersionXML="2.6.8" VersionKHBS="2.6.8" MaToKhai="470" Class="Tts01TT40" XsdSchema="01_TTS_TT40">
 		<Validity StartDate="01/01/1900" FolderName="01_TTS_TT40" CatalogueID="01">
-			<Sheet ID="01" RowTTDLT="29_39" SheetName="Tờ khai" MaHoSo="0133" Active="1" DataFile="01_TTS_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh" />
+			<Sheet ID="01" RowTTDLT="_" SheetName="Tờ khai" MaHoSo="0133" Active="1" DataFile="01_TTS_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh" />
 			<Sheet ID="01-1" RowTTDLT="_" SheetName="01-1/BK-TTS" MaHoSo="013301" Active="1" DataFile="01_1_TTS_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PLuc_01_BK_TTS" />
 			<Sheet ID="01-2" RowTTDLT="_" SheetName="01-2/BK-TTS" MaHoSo="013302" Active="1" DataFile="01_2_TTS_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PLuc_02_BK_TTS" />
 			<Sheet ID="01-3" RowTTDLT="" SheetName="PL 43/2022/QH15" Active="1" MaHoSo="013303" DataFile="01_3_TTS_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL_ND15_GTGT"/>
-			<Sheet ID="01-4" RowTTDLT="" SheetName="PL 101/2023/QH15" Active="1" MaHoSo="013304" DataFile="01_4_TTS_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL_NQ101_GTGT"/>
+			<Sheet ID="01-4" RowTTDLT="" SheetName="PL_GiamThue_GTGT_23_24" Active="1" MaHoSo="013304" DataFile="01_4_TTS_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL_NQ101_GTGT"/>
 			<Sheet ID="01-KHBS" RowTTDLT="" SheetName="01-KHBS"  Active="1" DataFile="KHBS_01_01_TTS_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL01_KHBS"/>
 			<Sheet ID="01-1-KHBS" RowTTDLT="" SheetName="01-1/KHBS" Active="1" DataFile="KHBS_01_1_01_TTS_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL01_1_KHBS"/>
 			
@@ -1085,7 +1085,7 @@
 			<Sheet ID="01-1" RowTTDLT="15_17" SheetName="01-1/BK-CNKD" MaHoSo="010501" Active="1" DataFile="01_1_CNKD_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PLuc_01_1_BK_CNKD" />
 			<Sheet ID="01-2" RowTTDLT="15_17" SheetName="01-2/BK-HĐKD" MaHoSo="010502" Active="1" DataFile="01_2_CNKD_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PLuc_01_2_BK_CNKD" />
 			<Sheet ID="01-3" RowTTDLT="" SheetName="PL 43/2022/QH15" Active="1" MaHoSo="010503" DataFile="01_3_CNKD_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL_ND15_GTGT"/>
-			<Sheet ID="01-4" RowTTDLT="" SheetName="PL 101/2023/QH15" Active="1" MaHoSo="010504" DataFile="01_4_CNKD_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL_NQ101_GTGT"/>
+			<Sheet ID="01-4" RowTTDLT="" SheetName="PL_GiamThue_GTGT_23_24" Active="1" MaHoSo="010504" DataFile="01_4_CNKD_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL_NQ101_GTGT"/>
 			<Sheet ID="01-KHBS" RowTTDLT="" SheetName="01-KHBS" Active="1" DataFile="KHBS_01_01_CNKD_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL01_KHBS"/>
 			<Sheet ID="01-1-KHBS" RowTTDLT="" SheetName="01-1/KHBS" Active="1" DataFile="KHBS_01_1_01_CNKD_TT40" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL01_1_KHBS"/>			
 		</Validity>
@@ -1588,6 +1588,14 @@
 			<Sheet ID="01-1" RowTTDLT="" SheetName="01-1/KTTSBĐ" MaHoSo="020701" Active="1" DataFile="01_1_KTTSBD_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PLuc_01_1_KTTSBD" />
 			<Sheet ID="01-KHBS" RowTTDLT="" SheetName="01-KHBS" Active="1" DataFile="KHBS_01_01_KTTSBD_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL01_KHBS"/>
 			<Sheet ID="01-1-KHBS" RowTTDLT="" SheetName="01-1/KHBS" Active="1" DataFile="KHBS_01_1_01_KTTSBD_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/PLuc/PL01_1_KHBS"/>
+		</Validity>
+	</Menu>
+	
+	<Menu ID="101_33" PopID="" ParentID="101" Caption="Thay đổi kỳ tính thuế GTGT/TNCN từ tháng sang quý" FormName="" Year="0" FinanceYear="0" Icon="..\Pictures\1kekhai.gif"/>
+	<Menu ID="M1" PopID="101" ParentID="101_33" UseDate="0" PeriodTypeValue="5" KieuKHBS="" Caption="VB đề nghị thay đổi kỳ tính thuế từ tháng sang quý (01/DK-TĐKTT)" Icon="..\Pictures\tk_tndn.png" TenToKhai="VĂN BẢN ĐỀ NGHỊ THAY ĐỔI KỲ TÍNH THUẾ TỪ THÁNG SANG QUÝ (01/DK-TĐKTT)" MoTaBieuMau="(Ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ trưởng Bộ Tài chính)" KieuKy="24" SignNode="HSoKhaiThue" MaFile="01_DK_TDKTT_TT80" VersionXML="2.7.2" VersionKHBS="2.7.2" MaToKhai="997" Class="DkTdKtt01TT80" XsdSchema="01_DK_TDKTT_TT80">
+		<Validity StartDate="01/01/1900" FolderName="01_DK_TDKTT_TT80" CatalogueID="01">
+			<Sheet ID="01" RowTTDLT="" SheetName="Tờ khai" MaHoSo="" Active="1" DataFile="01_DK_TDKTT_TT80" XMLnode="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh" />
+			<Sheet ID="KHBS" RowTTDLT="_" SheetName="KHBS" Active="0" DataFile="KHBS"/>
 		</Validity>
 	</Menu>
 	<Menu ID="101_34" PopID="" ParentID="101" Caption="Thương mại điện tử" FormName="" Year="0" FinanceYear="0" Icon="..\Pictures\1kekhai.gif"/>
