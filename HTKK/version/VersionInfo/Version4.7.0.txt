@@ -1,0 +1,14 @@
+   			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.7.0
+
+1. Tờ khai thuế giá trị gia tăng (01/GTGT):
+- Cập nhật không bắt buộc nhập chỉ tiêu [09] trong trường hợp người nộp thuế không nộp tờ khai đến tỉnh nơi khác trụ sở chính.
+2. Tờ khai thuế thu nhập cá nhân (06/TNCN)
+- Cập nhật không bắt buộc nhập chỉ tiêu [27] – Số thuế được giảm theo hiệp định tránh đánh thuế hai lần trên phụ lục 06-1/BK-TNCN
+3. Tờ khai Báo cáo dự kiến sản lượng dầu khí khai thác và tỷ lệ tạm nộp thuế (01/BCTL-DK)
+- Cập nhật không bắt buộc nhập chỉ tiêu (8) – Tỷ lệ lãi nước chủ nhà nộp NSNN
+4. Tờ khai thuế tiêu thụ đặc biệt (01/TTĐB)
+- Tại mục III.Hàng hóa thuộc trường hợp không phải chịu thuế TTĐB: Cập nhật khóa, không có dữ liệu tại các cột từ (6) đến (11)
+5. Tờ khai thuế nhà thầu nước ngoài (01/NTNN)
+- Tại chức năng kê khai: cho phép kê khai các dòng cùng tên nhà thầu, cùng ngành nghề, cùng hợp đồng, cùng ngày thanh toán nhưng khác tỷ lệ % tính thuế
+- Cập nhật hiển thị đúng mã khi chọn ngành nghề ‘Thương mại: phân phối, cung cấp hàng hóa, nguyên liệu, vật tư, máy móc, thiết bị; phân phối, cung cấp hàng hóa, nguyên liệu, vật tư, máy móc, thiết bị gắn với dịch vụ tại Việt Nam {bao gồm cả cung cấp hàng hóa theo hình thức xuất nhập khẩu tại chỗ (trừ trường hợp gia công hàng hóa cho tổ chức, cá nhân nước ngoài); cung cấp hàng hóa theo điều kiện giao hàng của Các điều khoản thương mại quốc tế - Incoterms}’ trên bảng kê excel
+

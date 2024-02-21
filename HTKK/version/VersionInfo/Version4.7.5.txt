@@ -1,0 +1,12 @@
+			THÔNG BÁO NÂNG CẤP HTKK 4.7.5
+ 
+1. Cập nhật tờ khai quyết toán thuế TNCN (mẫu 02/QTT-TNCN):
+- Cập nhật tổng hợp chỉ tiêu [27] – Cho những người phụ thuộc được giảm trừ từ bảng kê 02-1/BK-QTT.
+2. Cập nhật tờ khai quyết toán thuế TNCN (mẫu 05/QTT-TNCN):
+- Cập nhật thay đổi ràng buộc chỉ tiêu [21] phải nhỏ hơn hoặc bằng chỉ tiêu ([16] – [20]) thay cho ràng buộc chỉ tiêu [21] phải nhỏ hơn hoặc bằng chỉ tiêu [18].
+-  Cập nhật nhận đúng giá trị chỉ tiêu [17] – Tổng số tiền giảm trừ gia cảnh từ bảng kê excel, không cảnh báo đỏ trong trường hợp giá trị [17] nhỏ hơn hoặc bằng số giảm trừ bản thân cộng số tiền giảm trừ người phụ thuộc.
+- Cập nhật bổ sung thông báo trong trường hợp nhập sai định dạng mã số thuế người phụ thuộc trên bảng kê 05-3/BK-TNCN.
+3. Cập nhật tờ khai thuế giá trị gia tăng (mẫu 01/GTGT):
+- Cập nhật các chỉ tiêu [23], [23a], [24], [24a], [25], [26], [29], [30], [32], [32a]: chỉ cho phép nhập số dương.
+4. Cập nhật tờ khai quyết toán thuế tài nguyên (mẫu 02/TAIN):
+- Cập nhật cho phép kết xuất XML tờ khai trong trường hợp cột chênh lệch giữa số quyết toán với số đã kê khai nhận giá trị âm.

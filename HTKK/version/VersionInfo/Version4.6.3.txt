@@ -1,0 +1,13 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.6.3 
+
+1. Nâng cấp các mẫu biểu tờ khai đáp ứng Thông tư số 105/2020/TT-BTC
+- Nâng cấp mẫu biểu Tờ khai đăng ký thuế tổng hợp của cá nhân có thu nhập từ tiền lương, tiền công (05-ĐK-TH-TCT)
+- Bổ sung mẫu biểu Tờ khai đăng ký thuế tổng hợp người phụ thuộc của cá nhân có thu nhập từ tiền lương, tiền công (20-ĐK-TH-TCT)
+2. Nâng cấp các mẫu biểu tờ khai đáp ứng Thông tư số 40/2021/TT-BTC
+- Nâng cấp mẫu biểu Tờ khai khấu trừ thuế thu nhập cá nhân (01/XSBHĐC)
+- Nâng cấp mẫu biểu Tờ khai thuế năm (01/TKN-CNKD)
+- Nâng cấp mẫu biểu Tờ khai thuế đối với hoạt động kinh doanh, cá nhân kinh doanh (01/CNKD)
+- Nâng cấp mẫu biểu Tờ khai thuế đối với hoạt động cho thuê tài sản (01/TTS)
+3. Nâng cấp ứng dụng đáp ứng việc thành lập Cục Thuế Doanh nghiệp lớn
+- Cập nhật danh mục Cơ quan thuế, bổ sung như sau:
+	+ Cục Thuế Doanh nghiệp lớn

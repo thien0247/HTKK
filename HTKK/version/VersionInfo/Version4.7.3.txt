@@ -1,0 +1,11 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.7.3
+
+	Nâng cấp phần mềm ứng dụng HTKK phiên bản 4.7.3 đáp ứng yêu cầu khai, nộp và xử lý một số mẫu hồ sơ quyết toán thuế của kỳ tính thuế năm 2021 theo mẫu biểu quy định tại Thông tư số 80/2021/TT-BTC ngày 29/09/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế, cụ thể như sau:
+1.Nâng cấp đáp ứng yêu cầu khai, nộp các các mẫu hồ sơ quyết toán thuế theo quy định tại Thông tư số 80/2021/TT-BTC, bao gồm:
+-Tờ khai quyết toán thuế tài nguyên mẫu 02/TAIN.
+-Tờ khai quyết toán thuế thu nhập doanh nghiệp mẫu 03/TNDN, 04/TNDN.
+-Tờ khai quyết toán phí mẫu 02/PH.
+-Tờ khai quyết toán thuế nhà thầu nước ngoài mẫu 02/NTNN, 04/NTNN.
+-Tờ khai quyết toán thuế thu nhập cá nhân mẫu 05/QTT-TNCN.
+-Tờ khai quyết toán thuế thu nhập cá nhân mẫu 02/QTT-TNCN
+

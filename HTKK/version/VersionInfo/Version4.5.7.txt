@@ -1,0 +1,6 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.5.7
+
+1. Cập nhật tờ khai quyết toán thuế thu nhập doanh nghiệp (03/TNDN) đáp ứng Thông tư số 03/2021/TT-BTC
+- Bổ sung bảng kê ưu đãi thuế thu nhập doanh nghiệp đối với doanh nghiệp khoa học và công nghệ (đính kèm tờ khai 03/TNDN): Hiệu lực áp dụng đối với kỳ kê khai từ năm 2019.
+2. Bổ sung kê khai mẫu biểu Giấy đề nghị gia hạn nộp thuế và tiền thuê đất đáp ứng Nghị định số 52/2021/NĐ-CP
+- Bổ sung chức năng kê khai mẫu biểu Giấy đề nghị gia hạn nộp thuế và tiền thuê đất: Hỗ trợ nhập, xóa, sửa, in, nhập lại, kết xuất XML, kết xuất Excel, tải tờ khai từ XML, tra cứu hướng dẫn kê khai từng chỉ tiêu.

@@ -1,0 +1,11 @@
+		NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.8.8
+
+1. Giấy đề nghị gia hạn nộp thuế và tiền thuê đất (NĐ 34/2022):
+	- Cập nhật mẫu giấy đề nghị gia hạn nộp thuế và tiền thuê đất bổ sung thông tin “Số thông báo (số, ký hiệu)” và bắt buộc nhập khi tích chọn loại thuế gia hạn là “Tiền thuê đất”
+2. Tờ khai thuế giá trị gia tăng (04/GTGT)
+	- Cập nhật tính chỉ tiêu [35] – Thuế giá trị gia tăng phải nộp trong trường hợp tích chọn thu hộ, nếu đính kèm phụ lục giảm thuế theo Nghị quyết 43/2022 thì [35] = ([33] x [34]) – Thuế GTGT được giảm trên PL giảm thuế
+3. Cập nhật ràng buộc các tờ khai thuế GTGT
+	- Tờ khai 01/GTGT (TT80/2021): chỉ tiêu 23, 24, 25, 26, 29, 30, 31, 32, 32a cho phép nhập âm dương và bỏ ràng buộc 23a<=23, 24a<=24
+	- Tờ khai 02/GTGT (TT80/2021): chỉ tiêu 22, 23 cho phép nhập âm dương
+	- Tờ khai 03/GTGT (TT80/2021): chỉ tiêu 22, 23 cho phép nhập âm dương
+	- Tờ khai 04/GTGT (TT80/2021): chỉ tiêu 21, 22, 24, 26, 28, 33 cho phép nhập âm dương

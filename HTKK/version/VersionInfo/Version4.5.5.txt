@@ -1,0 +1,11 @@
+					NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.5.5
+1. Cập nhật bộ báo cáo tài chính hợp nhất theo mẫu Thông tư số 200/2014/TT-BTC thành bộ báo cáo tài chính hợp nhất theo mẫu Thông tư số  202/2014/TT-BTC, cụ thể:
+- Bổ sung các chỉ tiêu trong Bảng cân đối kế toán hợp nhất:
+    + Bổ sung chỉ tiêu “Lợi thế thương mại”- Mã số 269 trong phần “Tài sản” để phản ánh lợi thế thương mại phát sinh trong giao dịch hợp nhất kinh doanh;
+    + Bổ sung chỉ tiêu “Lợi ích cổ đông không kiểm soát” - Mã số 429 và được trình bày là một chỉ tiêu thuộc phần vốn chủ sở hữu để phản ánh giá trị lợi ích của cổ đông không kiểm soát trong các công ty con.
+- Bổ sung các chỉ tiêu trong Báo cáo kết quả hoạt động kinh doanh hợp nhất:
+    + Bổ sung chỉ tiêu “Phần lãi hoặc lỗ trong công ty liên doanh, liên kết” – Mã số 24 để phản ánh phần lãi hoặc lỗ thuộc sở hữu của nhà đầu tư trong lãi hoặc lỗ của công ty liên doanh, liên kết khi nhà đầu tư áp dụng phương pháp vốn chủ sở hữu.
+    + Bổ sung chỉ tiêu “Lợi nhuận sau thuế của công ty mẹ” - Mã số 61 để phản ánh giá trị phần lợi nhuận sau thuế thuộc cổ đông mẹ trong kỳ.
+    + Bổ sung chỉ tiêu “Lợi nhuận sau thuế của cổ đông không kiểm soát” - Mã số 62 để phản ánh giá trị phần lợi nhuận sau thuế của cổ đông không kiểm soát trong kỳ. 
+2. Cập nhật Bộ Báo cáo tài chính năm theo TT200/2014/TT-BTC, Báo cáo tài chính giữa niên độ theo TT200/2014/TT-BTC, Báo cáo tài chính giữa niên độ đầy đủ hợp nhất theo TT200/2014/TT-BTC, Báo cáo tài chính hợp nhất theo TT202/2014/TT-BTC
+- Cập nhật chỉ tiêu [22] – Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác: Cho phép nhập âm dương

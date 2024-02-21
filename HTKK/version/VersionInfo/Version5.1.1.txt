@@ -1,0 +1,17 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.1.1
+
+1. Nâng cấp tờ khai 01/PBVMT (TT80/2021), 02/PBVMT (TT80/2021), 01/CNKD (TT40/2021)
+	- Cập nhật danh mục phí bảo vệ môi trường đáp ứng Nghị định số 27/2023/NĐ-CP
+	- Bổ sung kiểm tra ràng buộc: Mức thu tối thiểu <= Mức phí theo từng loại khoáng sản <= Mức thu tối đa
+2. Nâng cấp tờ khai 02/GTGT (TT156/2013)
+	- Nâng cấp thông tin “Địa chỉ thực hiện dự án” như sau:
+		+ Tỉnh/thành phố: bắt buộc chọn trong danh mục
+		+ Quận/huyện: Bắt buộc chọn trong danh mục Quận/huyện thuộc Tỉnh/thành phố đã chọn
+		+ Xã/phường: Bắt buộc chọn trong danh mục Xã/phường thuộc Quận/huyện đã chọn
+		+ Số nhà/đường phố: Bắt buộc nhập
+3. Cập nhật tờ khai 01/CNKD (TT40/2021)
+	- Cập nhật in đúng giá trị chỉ tiêu [23] Mã số thuế trên tờ khai 01/CNKD
+4. Cập nhật tờ khai 01/KTTSBĐ (TT80/2021)
+	- Tại phụ lục 01-1/KTTSBĐ, mục II. Kê khai thay cho người nộp thuế có tài sản bảo đảm là cá nhân: Cập nhật đúng tên tiêu đề của nhóm chỉ tiêu (11) và (12) là “Thuế thu nhập cá nhân”.
+5. Cập nhật tờ khai 02/GTGT (TT80/2021)
+	- Cập nhật không kiểm tra ràng buộc: Chỉ tiêu [09] Quận/Huyện phải tương ứng với Huyện của Chi cục Thuế nộp tờ khai

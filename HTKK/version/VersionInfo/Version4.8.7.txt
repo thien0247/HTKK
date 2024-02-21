@@ -1,0 +1,6 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.8.7
+
+1. Tờ khai quyết toán thuế thu nhập cá nhân (02/QTT-TNCN) (TT92/2015):
+   - Bổ sung chỉ tiêu “Tên tổ chức chi trả thu nhập” và “Mã số thuế”: Bắt buộc nhập nếu Cơ quan thuế nộp tờ khai là Cục Thuế Doanh nghiệp lớn
+2. Cập nhật địa bàn hành chính trực thuộc tỉnh Thái Bình
+   - Cập nhật Thị trấn Vũ Quý thành Xã Vũ Quý, huyện Kiến Xương, tỉnh Thái Bình.

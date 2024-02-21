@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections Version="488">
+  <Section Dynamic="0" MaxRows="0">
+    <Items>	
+		<Item ID="G7" Dynamic="1" SheetIndex="2"  TablePath="PLuc_02_BK_TTS/CTietBKeHDongTTS"  CtPath = "ct06a_ten"  CtPathMa="ct06a_ma"/>	
+		<Item ID="G7" Dynamic="1" SheetIndex="2"  TablePath="PLuc_02_BK_TTS/CTietBKeHDongTTS"  CtPath = "ct15_ten"  CtPathMa="ct15_ma"/>
+		<Item ID="G7" Dynamic="1" SheetIndex="2"  TablePath="PLuc_02_BK_TTS/CTietBKeHDongTTS"  CtPath = "ct29_ten"  CtPathMa="ct29_ma"/>		
+		<Item ID="I9" Dynamic="1" SheetIndex="0"  TablePath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/BKThueNTNN/ThueNTNN" CtPath="ct1b" CtPathMa="ct1b_ma"/>	
+		<Item ID="T3" Dynamic="1" SheetIndex="0"  TablePath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/TTNCCNN/CTietThongTinNCCNN" CtPath="ten_DonViTT" CtPathMa="ma_DonViTT"/>
+		<Item ID="T3" Dynamic="1" SheetIndex="0"  TablePath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/TTNCCNN/CTietThongTinNCCNN" CtPath="ten_QuocGia" CtPathMa="ma_QuocGia"/>
+		<Item ID="G3" Dynamic="1" SheetIndex="0"  TablePath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/NOIDUNG_DANHSACH_CTIET/ROW_CTIET" CtPath="pathLoaiGiayTo" CtPathMa="TTIN_GIAYTO/GIAYTO/LOAI_GIAYTO"/>
+		<Item ID="G3" Dynamic="1" SheetIndex="0"  TablePath="HSoThueDTu/HSoKhaiThue/CTieuTKhaiChinh/NOIDUNG_DANHSACH_CTIET/ROW_CTIET" CtPath="pathLoaiKH" CtPathMa="LOAI_KH"/>
+    </Items>
+  </Section>
+</Sections>

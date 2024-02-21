@@ -1,0 +1,64 @@
+   			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.0.4
+
+
+1. Cập nhật địa bàn hành chính tỉnh An Giang đáp ứng Nghị quyết số 721/NQ-UBTVQH15
+     - Đổi tên huyện Tịnh Biên thành thị xã Tịnh Biên (Mã 80513), đổi tên các Xã/Thị trấn thành Phường thuộc Thị xã Tịnh Biên như sau:
+	+ Đối tên Thị trấn Tịnh Biên thành Phường Tịnh Biên (Mã 8051321)
+	+ Đổi tên Thị trấn Nhà Bàng thành Phường Nhà Bàng (Mã 8051313)
+	+ Đổi tên Thị trấn Chi Lăng thành Phường Chi Lăng (Mã 8051315)
+	+ Đổi tên Xã An Phú thành Phường An Phú (Mã 8051319)
+	+ Đổi tên Xã Nhơn Hưng thành Phường Nhơn Hưng (Mã 8051317)
+	+ Đổi tên Xã Núi Voi thành Phường Núi Voi (Mã 8051301)
+	+ Đổi tên Xã Thới Sơn thành Phường Thới Sơn (Mã 8051303)
+     - Đổi tên Xã Đa Phước thuộc Huyện An Phú thành Thị trấn Đa Phước (Mã 8050525)
+     - Đổi tên Xã Hội An thuộc Huyện Chợ Mới thành Thị trấn Hội An (Mã 8051711)
+2. Cập nhật địa bàn hành chính tỉnh Bắc Kạn đáp ứng Nghị quyết số 722/NQ-UBTVQH15
+     - Đổi tên Xã Vân Tùng, Huyện Ngân Sơn thành Thị trấn Vân Tùng (Mã 2070519)
+3. Cập nhật địa bàn hành chính tỉnh Bắc Ninh đáp ứng Nghị quyết số 723/NQ-UBTVQH15
+     - Đối tên Huyện Thuận Thành thành Thị xã Thuận Thành (Mã 22309), đổi tên các Xã/Thị trấn thành Phường thuộc Thị xã Thuận Thành như sau:
+	+ Đổi tên Thị trấn Hồ thành Phường Hồ (Mã 2230927)
+	+ Đổi tên Xã An Bình thành Phường An Bình (Mã 2230909)
+	+ Đổi tên Xã Song Hồ thành Phường Song Hồ (Mã 2230929)
+	+ Đổi tên Xã Gia Đông thành Phường Gia Đông (Mã 2230931)
+	+ Đổi tên Xã Thanh Khương thành Phường Thanh Khương (Mã 2230913)
+	+ Đổi tên Xã Hà Mãn thành Phường Hà Mãn (Mã 2230933)
+	+ Đổi tên Xã Trạm Lộ thành Phường Trạm Lộ (Mã 2230925)
+	+ Đổi tên Xã Trí Quả thành Phường Trí Quả (Mã 2230911)
+	+ Đổi tên Xã Xuân Lâm thành Phường Xuân Lâm (Mã 2230915)
+	+ Đổi tên Xã Ninh Xá thành Phường Ninh Xá (Mã 2230935)
+     - Đổi tên Huyện Quế Võ thành Thị xã Quế Võ (Mã 22305), đổi tên các Xã/Thị trấn thành Phường thuộc Thị xã Quế Võ như sau:
+	+ Đổi tên Thị trấn Phố Mới thành Phường Phố Mới (Mã 2230537)
+	+ Đổi tên Xã Việt Hùng thành Phường Việt Hùng (Mã 2230535)
+	+ Đổi tên Xã Bằng An thành Phường Bằng An (Mã 2230539)
+	+ Đổi tên Xã Phượng Mao thành Phường Phượng Mao (Mã 2230515)
+	+ Đổi tên Xã Phương Liễu thành Phường Phương Liễu (Mã 2230507)
+	+ Đổi tên Xã Đại Xuân thành Phường Đại Xuân (Mã 2230501)
+	+ Đổi tên Xã Nhân Hòa thành Phường Nhân Hòa (Mã 2230505)
+	+ Đổi tên Xã Quế Tân thành Phường Quế Tân (Mã 2230509)
+	+ Đổi tên Xã Phù Lương thành Phường Phù Lương (Mã 2230541)
+	+ Đổi tên Xã Bồng Lai thành Phường Bồng Lai (Mã 2230545)
+	+ Đổi tên Xã Cách Bi thành Phường Cách Bi (2230521)
+4. Cập nhật địa bàn hành chính tỉnh Bến Tre đáp ứng Nghị quyết số 724/NQ-UBTVQH15
+     - Đổi tên Xã Tiên Thủy, Huyện Châu Thành thành Thị trấn Tiên Thủy (Mã 8110343)
+     - Đổi tên Xã An Thủy, Huyện Ba Tri thành Thị trấn Tiệm Tôm (Mã 8111305)
+     - Đổi tên Xã Phước Mỹ Trung, Huyện Mỏ Cày Bắc thành Thị trấn Phước Mỹ Trung (Mã 8110811)
+5. Cập nhật địa bàn hành chính tỉnh Bình Dương đáp ứng Nghị quyết số 725/NQ-UBTVQH15
+     - Đổi tên Thị xã Tân Uyên thành Thành phố Tân Uyên (Mã 71105)
+6. Cập nhật địa bàn hành chính tỉnh Đắk Lắk đáp ứng Nghị quyết số 726/NQ-UBTVQH15
+     - Đổi tên Xã Pơng Drang, Huyện Krông Buk thành Thị trấn Pơng Drang (Mã 6053911)
+7. Cập nhật địa bàn hành chính tỉnh Quảng Nam đáp ứng Nghị quyết số 727/NQ-UBTVQH15
+     - Đổi tên Xã Điện Thắng Bắc, Thị Xã Điện Bàn thành Phường Điện Thắng Bắc (Mã 5030915)
+     - Đổi tên Xã Điện Thắng Trung, Thị Xã Điện Bàn thành Phường Điện Thắng Trung (Mã 5030917)
+     - Đổi tên Xã Điện Thắng Nam, Thị Xã Điện Bàn thành Phường Điện Thắng Nam (Mã 5030919)
+     - Đổi tên Xã Điện Minh, Thị Xã Điện Bàn thành Phường Điện Minh (Mã 5030937)
+     - Đổi tên Xã Điện Phương, Thị Xã Điện Bàn thành Phường Điện Phương (Mã 5030939)
+     - Đổi tên Xã Quế Trung, Huyện Nông Sơn thành Thị trấn Trung Phước (Mã 5031805)
+8. Cập nhật địa bàn hành chính tỉnh Thái Nguyên đáp ứng Nghị quyết số 729/NQ-UBTVQH15
+     - Đổi tên Xã Hóa Thượng, Huyện Đồng Hỷ thành Thị trấn Hóa Thượng (Mã 2151121)
+     - Cập nhật Xã Quân Chu (Mã 2151361), Huyện Đại Từ thành Thị trấn Quân Chu (Mã 2151303)
+9. Cập nhật địa bàn hành chính tỉnh Vĩnh Phúc đáp ứng Nghị quyết số 730/NQ-UBTVQH15
+     - Đổi tên Xã Kim Long, Huyện Tam Dương thành Thị trấn Kim Long (Mã 2190505)
+     - Đổi tên Xã Tam Hồng, Huyện Yên Lạc thành Thị trấn Tam Hồng (Mã 2190929)
+     - Đổi tên Xã Định Trung, Thành phố Vĩnh Yên thành Phường Định Trung (Mã 2190107)
+10. Tờ khai thuế tài nguyên – mẫu 01/TAIN (TT80/2021)
+     - Cập nhật tính đúng Số thuế phải nộp cho từng tỉnh trên Phụ lục 01-1/TAIN trong trường hợp nhật tỷ lệ phân bổ trước, sau đó nhập số thuế phải nộp của nhà máy.

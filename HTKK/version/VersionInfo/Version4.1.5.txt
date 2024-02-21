@@ -1,0 +1,17 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.1.5
+
+1.	Cập nhật yêu cầu nghiệp vụ phát sinh Tờ khai quyết toán của tổ chức, cá nhân (05/QTT-TNCN)
+	-	Cập nhật tại màn hình Kỳ tính thuế:
+		+	Từ tháng phải thuộc kỳ tính thuế, từ tháng >= tháng 1 của năm tính thuế,
+		+	Đến tháng <= tháng 12 của năm tính thuế,
+		+	Kiểm tra từ tháng, đến tháng  không được lớn hơn ngày hiện tại.
+		+	Từ tháng, đến tháng phải thuộc kỳ tính thuế
+	-	Cập nhật chức năng kê khai Bảng kê thông tin người phụ thuộc giảm trừ gia cảnh (05-3BK-QTT-TNCN):
+	+	Cập nhật chỉ tiêu [22] – Đến tháng: Thông tin bắt buộc nhập, nhập kiểu mm/yyyy, kiểm tra Đến tháng [22] >= Từ tháng [21] và đến tháng phải thuộc kỳ tính thuế (<= đến tháng tại màn hình kỳ tính thuế)
+2.	Nâng cấp một số nội dung của ứng dụng HTKK phiên bản 4.1.4
+ 2.1	Chức năng kê khai Tờ khai quyết toán của tổ chức, cá nhân (05/QTT-TNCN): 
+	-	Cập nhật cho phép sửa chỉ tiêu [22] – Trong đó: cá nhân cư trú có hợp đồng lao động.
+	-	Cập nhật tổng hợp dữ liệu lên chỉ tiêu [33], [34] trên tờ khai chính.
+ 2.2	Chức năng kê khai Tờ khai thuế nhà thầu nước ngoài (01/NTNN): Cập nhật nguyên tắc làm tròn dữ liệu khi kiểm tra ràng buộc chỉ tiêu [11] phải nhỏ hơn hoặc bằng chỉ tiêu [9] x [10].
+ 2.3	Chức năng kê khai Tờ khai Quyết toán của cá nhân (02/QTT-TNCN): Cập nhật ràng buộc cột Ngày sinh [11] – Từ tháng [16] cho phép Ngày sinh <= Từ tháng.
+ 2.4	Chức năng kê khai Quyết toán TNDN năm (03/TNDN): Cập nhật không bắt ràng buộc chỉ tiêu [8] phải nhỏ hơn hoặc bằng chỉ tiêu ([4] + [5] – [6] – [7]) tại Phụ lục 02 của tờ khai 03/TNDN.

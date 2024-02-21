@@ -1,0 +1,11 @@
+    			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.9.8 
+
+1. Tờ khai thuế thu nhập cá nhân (04/CNV-TNCN) (TT80/2021)
+	- Cập nhật hiển thị cảnh báo đỏ nếu nhập Mã số thuế sai cấu trúc (chỉ tiêu [25] trên tờ khai 04/CNV-TNCN và chỉ tiêu [11] trên phụ lục 04-1/CNV-TNCN).
+2. Tờ khai thuế bảo vệ môi trường (01/TBVMT) (TT80/2021) 
+	- Cập nhật không báo đỏ “Mã không đúng” khi nhập chỉ tiêu (4) – Huyện, (5) – Tỉnh trên phụ lục 01-2/TBVMT
+	- Cập nhật các chỉ tiêu sau thành định dạng số thập phân 6 số sau dấu phẩy.
+		+ Trên phụ lục 01-1/TBVMT: chỉ tiêu (10)
+		+ Trên phụ lục 01-2/TBVMT: chỉ tiêu (9), (10)
+3. Danh sách số hiệu tài khoản thanh toán (NĐ 126/2020)
+	- Cập nhật chức năng kết xuất XML tờ khai trống đúng định dạng xsd (trong trường hợp không phát sinh tài khoản mới).

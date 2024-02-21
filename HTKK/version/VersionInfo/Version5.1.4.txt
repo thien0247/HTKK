@@ -1,0 +1,25 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.1.4
+
+1. Cập nhật địa bàn hành chính tỉnh Bà Rịa – Vũng Tàu đáp ứng Nghị Quyết số 492/NQ-UBTVQH14 ngày 12/04/2018 của Ủy ban Thường vụ Quốc Hội 
+Đổi tên địa bàn hành chính thuộc Thị xã Phú Mỹ, tỉnh Bà Rịa - Vũng Tàu như sau:
+	- Đổi tên “Xã Hắc Dịch” thành “Phường Hắc Dịch”;
+	- Đổi tên “Xã Mỹ Xuân” thành “Phường Mỹ Xuân”;
+	- Đổi tên “Thị trấn Phú Mỹ” thành “Phường Phú Mỹ”;
+	- Đổi tên “Xã Phước Hòa” thành “Phường Phước Hòa”;
+	- Đổi tên “Xã Tân Phước” thành “Phường Tân Phước”;
+2. Cập nhật địa bàn hành chính tỉnh Lâm Đồng
+	- Đổi tên “Xã B- Lá” thành “Xã B'Lá”, Huyện Bảo Lâm, tỉnh Lâm Đồng;
+	- Đổi tên “Phường B-Lao” thành “Phường B'Lao”, Thành phố Bảo Lộc, tỉnh Lâm Đồng.
+3. Nâng cấp chức năng kết xuất tờ khai 
+	- Cập nhật kết xuất đủ tên người nộp thuế trong trường hợp tên người nộp thuế có ký tự đặc biệt “&”.
+4. Nâng cấp Tờ khai đăng ký thuế tổng hợp của cá nhân có thu nhập từ tiền công, tiền lương (Mẫu 05-ĐK-TH-TCT) 
+	- Cập nhật hướng dẫn sử dụng tại sheet “HDSD” của mẫu bảng kê đúng với ràng buộc trên tờ khai: Bắt buộc nhập ngày sinh và giới tính (cho cả trường hợp đăng ký mới và thay đổi thông tin đăng ký thuế).
+5. Nâng cấp tờ khai lệ phí môn bài (Mẫu 01/MBAI)
+	- Cập nhật khi kê khai tờ khai bổ sung lần 2 ứng dụng hỗ trợ hiển thị lên đúng dữ liệu của tờ khai bổ sung lần 1.
+6. Nâng cấp Tờ khai thuế đối với hộp kinh doanh, cá nhân kinh doạnh – mẫu 01/CNKD (TT40/2021) 
+	- Cập nhật tổng hợp đúng dữ liệu lên 01-1/KHBS khi không thay đổi giá trị trên PL 101/2023/QH15.
+7. Nâng cấp Tờ khai đăng ký thuế tổng hợp người phụ thuộc của cá nhân có thu nhập từ tiền công, tiền lương (Mẫu 20-ĐK-TH-TCT) 
+	- Cập nhật kết xuất đủ thông tin Mã quốc tịch khi chọn Quốc tịch tại mục II. Người phụ thuộc đăng ký thuế bằng giấy khai sinh.
+8. Nâng cấp tờ khai thuế giá trị gia tăng – Mẫu 01/GTGT (TT80/2021)
+	- Cập nhật tờ khai bổ sung lần 2 hiển thị đủ thông tin PL 43/2022/QH15 mà NNT đã kê khai ở tờ khai bổ sung lần 1;
+	- Cập nhật tổng hợp các thay đổi của PL 43/2022/QH15 lên 01-1/KHBS.

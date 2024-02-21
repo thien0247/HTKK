@@ -1,0 +1,11 @@
+   		NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.8.2
+
+1. Bổ sung Tờ Danh sách số hiệu tài khoản thanh toán đáp ứng Nghị định 126/2020/NĐ-CP
+	- Bổ sung chức năng kê khai mẫu biểu Danh sách số hiệu tài khoản thanh toán
+2. Cập nhật các nội dung phát sinh
+2.1. Tờ khai 01/GTGT
+	- Cập nhật hiển thị đúng tên chỉ tiêu [24] - Thuế GTGT của Hàng hóa dịch vụ mua vào trên phụ lục 01-1/KHBS đối với tờ khai bổ sung có điều chỉnh giá trị của chỉ tiêu này.
+2.2. Tờ khai 01/TAIN và tờ khai 02/TAIN
+	- Cập nhật tại phụ lục 01-1/TAIN: Bắt buộc nhập cột Loại chỉ tiêu
+2.3. Tờ khai 01/CNKD
+	- Cập nhật hiển thị đúng dữ liệu chỉ tiêu [28], [29], [30], [31], [32] tại cột b, d khi mở lại tờ khai

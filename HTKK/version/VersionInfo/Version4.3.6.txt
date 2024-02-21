@@ -1,0 +1,9 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.3.6
+
+1.	Nâng cấp ứng dụng bổ sung yêu cầu phát sinh
+-	Chức năng kê khai tờ khai đăng ký thuế cho cá nhân qua cơ quan chi trả có thu nhập (mẫu 05-ĐK-TH-TCT): Cập nhật chức năng tải bảng kê: hỗ trợ kiểm tra dữ liệu trường “Giới tính” và “Loại giấy tờ”, nếu dữ liệu nhận vào có mã không thuộc danh mục thì ứng dụng cảnh báo đỏ.
+2.	Cập nhật một số lỗi phát sinh của ứng dụng HTKK 4.3.5
+-	Cập nhật địa bàn hành chính trực thuộc Thị xã Duy Tiên, tỉnh Hà Nam theo Nghị quyết số 829/NQ-UBTVQH14: hiển thị các địa bàn hành chính thuộc Thị xã Duy Tiên, tỉnh Hà Nam:
++       Cập nhật các địa bàn chưa hết hiệu lực bao gồm: Phường Bạch Thượng, phường Châu Giang, phường Duy Hải, phường Duy Minh, phường Đồng Văn, phường Hòa Mạc, phường Hoàng Đông, phường Tiên Nội, phường Yên Bắc.
++       Cập nhật các địa bàn hết hiệu lực bao gồm: Xã Đọi Sơn, Xã Tiên Phong.
+

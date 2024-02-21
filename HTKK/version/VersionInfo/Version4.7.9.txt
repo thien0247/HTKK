@@ -1,0 +1,24 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.7.9 
+
+1. Cập nhật địa bàn hành chính đáp ứng Nghị quyết số 469/NQ-UBTVQH15 ngày 15/02/2022:
+- Cập nhật địa bàn hành chính đáp ứng thành lập 09 phường thuộc thị xã Phổ Yên, tỉnh Thái Nguyên như sau
++ Cập nhật xã Đắc Sơn thành phường Đắc Sơn
++ Cập nhật xã Đông Cao thành phường Đông Cao
++ Cập nhật xã Hồng Tiến thành phường Hồng Tiến
++ Cập nhật xã Nam Tiến thành phường Nam Tiến
++ Cập nhật xã Tân Hương thành phường Tân Hương
++ Cập nhật xã Tân Phú thành phường Tân Phú
++ Cập nhật xã Thuận Thành thành phường Thuận Thành
++ Cập nhật xã Tiên Phong thành phường Tiên Phong
++ Cập nhật xã Trung Thành thành phường Trung Thành
+- Cập nhật Thị xã Phổ Yên thành Thành phố Phổ Yên, tỉnh Thái Nguyên
+2. Cập nhật một số nội dung phát sinh
+- Cập nhật tờ khai thuế đối với hoạt động cho thuê tài sản (01/TTS):
++ Cập nhật không hiển thị cảnh báo đỏ chỉ tiêu “Mã hợp đồng” khi kê khai bằng MST 13 số.
+- Cập nhật Báo cáo tình hình sử dụng hóa đơn (BC26/AC):
++ Cập nhật tính đúng cột “Số lượng” trên Phụ lục mẫu 3.12 – Kỳ báo cáo cuối cùng trong trường hợp nhập “Từ số” bằng “Đến số”
+- Cập nhật tờ khai thuế thu nhập cá nhân (05/KK-TNCN):
++ Cập nhật không cảnh báo đỏ “Bắt buộc nhập” tại mục II trên bảng kê 05-1/BK-PBT-TNCN
+- Cập nhật tờ khai thuế thu nhập doanh nghiệp tạm tính đối với dầu khí (01/TNDN-DK):
++ Cập nhật kết xuất đúng định dạng chỉ tiêu [09] trên phụ lục 01/PL-DK
++ Cập nhật không hiển thị cảnh báo đỏ trong trường hợp nhập đúng dữ liệu tổng cột (5) bằng chỉ tiêu [09] trên phụ lục 01/PL-DK

@@ -1,0 +1,3 @@
+NỘI DUNG NÂNG CẤP HTKK 4.2.7
+1	Cập nhật địa bàn hành chính trực thuộc tỉnh Thanh Hóa
+-	Cập nhật Thị trấn Sơn Lữ thành Thị trấn Sơn Lư, huyện Quan Sơn, tỉnh Thanh Hóa

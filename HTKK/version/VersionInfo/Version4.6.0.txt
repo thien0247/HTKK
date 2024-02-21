@@ -1,0 +1,16 @@
+  NỘI DUNG NÂNG CẤP HTKK 4.6.0
+1. Nâng cấp ứng dụng đáp ứng Nghị định số 92/2021/NĐ-CP
+- Bổ sung mẫu biểu Đề nghị miễn tiền chậm nộp (01/MTCN)
+- Bổ sung Phụ lục thuế thu nhập doanh nghiệp được giảm theo Nghị quyết số 406/NQ-UBTVQH đính kèm tờ khai 02/TNDN, 04/TNDN theo lần phát sinh đối với kỳ tính thuế từ ngày 01/01/2021 đến ngày 31/12/2021.
+2. Cập nhật các nội dung phát sinh
+2.1. Cập nhật thay đổi địa bàn hành chính đáp ứng Nghị quyết số 387/NQ-UBTVQH15 ngày 22/09/2021 của Ủy ban Thường vụ Quốc hội
+- Cập nhật thay đổi “Thị xã Từ Sơn, tỉnh Bắc Ninh” thành “Thành phố Từ Sơn, tỉnh Bắc Ninh” 
+2.2. Cập nhật danh mục thuế tài nguyên đáp ứng Phiếu đề nghị số 4686 Vụ KK&KTT gửi ngày 21/9/2021
+- Bổ sung danh mục thuế tài nguyên:
++ Than antraxit hầm lò - Than cám 8a, 8b, 8c (mã II160309), hiệu lực từ 01/10/2019
++ Than cám chất lượng thấp (mã II160310), hiệu lực từ 01/10/2019
++ Đá base (mã II2020310), hiệu lực từ 01/03/2020
+2.3. Cập nhật Chức năng lập Báo cáo tình hình nhận in hóa đơn (BC01/AC)
+- Cập nhật không bắt buộc nhập các thông tin từ cột “Mã hóa đơn” đến cột “Đến số”. Nếu nhập 1 trong các chỉ tiêu này thì bắt buộc nhập tất cả các chỉ tiêu đáp ứng yêu cầu kê khai của Tổ chức cung ứng phần mềm in hóa đơn
+2.4. Chức năng kê khai tờ khai thuế đối với cá nhân kinh doanh (01/CNKD)
+- Cập nhật sửa lỗi chức năng in tờ khai 01/CNKD hiển thị thiếu thông tin Tổ chức kê khai thay.

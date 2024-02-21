@@ -1,0 +1,16 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.1.7
+
+1.	Cập nhật yêu cầu nghiệp vụ phát sinh Tờ khai quyết toán của tổ chức, cá nhân (05/QTT-TNCN) 
+	-	Cập nhật độ rộng của các chỉ tiêu: 
+		+ Các chỉ tiêu trên tờ khai chính không phải chỉ tiêu hạch toán mở rộng cho phép tối đa 16 ký tự, bao gồm: 28 -> 33, 37-> 40, 43, 44.
+		+ Các chỉ tiêu trên tờ khai chính là chỉ tiêu hoạch toán chặn cho phép tối đa 13 ký tự, bao gồm: chỉ tiêu 34, 35, 36, 41, 45, 46.
+2.	Nâng cấp một số nội dung của ứng dụng HTKK 4.1.6
+  2.1.	Chức năng kê khai tờ khai quyết toán của tổ chức, cá nhân (05/QTT-TNCN)
+	-	Cập nhật kỳ tính thuế của tờ khai: yêu cầu nhập từ tháng, đến tháng đúng định dạng mm/yyyy.
+  2.2.	Chức năng lập Báo cáo tình hình nhận in hóa đơn (BC01/AC)
+	-	Cập nhật kỳ tính thuế kiểu kỳ: kỳ 1 mặc định từ 01/01/YYYY đến 30/06/YYYY, kỳ 2 mặc định là từ 01/07/YYYY đến 31/12/YYYY, không cho sửa (trong đó YYYY là năm kê khai).
+  2.3.	Chức năng kê khai tờ khai quyết toán thuế TNDN đối với dầu khí (02/TNDN-DK)
+	-	Cập nhật hiển thị đúng tờ khai khi tích chọn loại ngành nghề là Condensate hoặc Khí thiên thiên.
+  2.4.	Chức năng kê khai tờ khai quyết toán TNDN năm (03/TNDN)
+	-	Cập nhật hiển thị phương pháp xác định giá khi chọn P2.2 (Phương pháp giá vốn cộng lãi) trên cột [6] và cột [10] tại Mục III – Phụ lục GDLK 01 sau khi mở lại tờ khai đã ghi.
+	-	Cập nhật lỗi hiển thị dữ liệu chỉ tiêu [L2] trong trường hợp không tích chọn [L1] (Đối tượng được gia hạn) khi kết xuất dữ liệu XML tờ khai.

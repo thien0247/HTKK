@@ -1,0 +1,26 @@
+		NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.8.0
+
+1. Tờ khai thuế thu nhập cá nhân (05/KK-TNCN):
+- Cập nhật chức năng in: in đúng kiểu kỳ tính thuế trong trường hợp kê khai theo quý
+2. Cập nhật tờ khai quyết toán lợi nhuận sau thuế còn lại (01/QT-LNCL)
+- Cập nhật tên ngành nghề “Hoạt động xổ số điện toán” thành “Hoạt động xổ số kiến thiết, xổ số điện toán”.
+- Cập nhật tiểu mục hạch toán của ngành nghề “Hoạt động xổ số điện toán” thành 1153
+3. Cập nhật tờ khai thuế giá trị gia tăng (01/GTGT)
+- Cập nhật chỉ tiêu [26] – Hàng hóa, dịch vụ bán ra không chịu thuếgiá trị gia tăng: cho phép nhập tối đa 15 ký tự
+4. Cập nhật tờ khai thuế thu nhập cá nhân (02/KK-TNCN)
+- Cập nhật cho phép kết xuất XML thành công nếu để trống chỉ tiêu [13] – Mã số thuế của tổ chức chi trả thu nhập
+- Cập nhật cho phép sửa chỉ tiêu [23] – giảm trừ cho bản thân
+5. Cập nhật chức năng kê khai Tờ khai phí bảo vệ môi trường (01/PBVMT, 02/PBVMT)
+- Cập nhật cảnh báo đỏ giữa các dòng nếu kê khai đồng thời trùng các cột (2), (7), (8)
+6. Cập nhật tờ khai phụ thu tạm tính (01/PTHU-DK)
+- Cập nhật chỉ tiêu [23] – Sản lượng dầu lãi được chia tạm tính: Cho phép nhập định dạng số thập phân 2 số sau dấu phẩy
+- Cập nhật tính đúng công thức chỉ tiêu [27] 
+7. Cập nhật tờ khai quyết toán thuế thu nhập cá nhân (02/QTT-TNCN)
+- Cập nhật tính đúng công thức chỉ tiêu [44] – Tổng số thuế nộp thừa trong kỳ
+8. Cập nhật tờ khai thuế thu nhập doanh nghiệp (04/TNDN)
+- Cập nhật đối với tờ khai theo lần phát sinh không cho phép chọn Trường hợp quyết toán
+9. Cập nhật tờ khai thuế thu nhập doanh nghiệp (02/TNDN)
+- Cập nhật trường hợp chọn nộp tờ khai về Cục Thuế Doanh nghiệp lớn thì cho chọn [09d] trong danh mục
+10. Cập nhật tờ quyết toán thuế thu nhập cá nhân (05/QTT-TNCN)
+- Cập nhật nguyên tắc tổng hợp chỉ tiêu [41], tăng [41] thì cột (7) nhận giá trị âm, giảm [41] thì cột (7) nhận giá trị dương
+

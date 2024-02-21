@@ -1,0 +1,17 @@
+   				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.8.4
+1. Nâng cấp bổ sung Văn bản đề nghị xử lý số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa (01/ĐNXLNT) đáp ứng Thông tư số 80/2021/TT-BTC
+- Bổ sung chức năng kê khai mẫu biểu Văn bản đề nghị xử lý số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa
+2. Cập nhật tên địa bàn hành chính thuộc tỉnh Thái Bình
+- Cập nhật “Xã Vũ Quí” thành “Thị trấn Vũ Quý” - Huyện Kiến Xương – tỉnh Thái Bình
+3. Tờ khai quyết toán thuế thu nhập doanh nghiệp đối với hãng vận tải nước ngoài (01/VTNN)
+- Cập nhật chức năng kết xuất xml: Kết xuất đủ thông tin Tổng cộng của các cột dữ liệu trên bảng kê 01-1/VTNN
+4. Tờ khai quyết toán thuế thu nhập doanh nghiệp (03/TNDN)
+- Cập nhật mã Hồ sơ của phụ lục 03-3A/TNDN là 00660601, phụ lục 03-3B/TNDN là 00660801
+5. Tờ khai thuế tài nguyên (01/TAIN)
+- Cập nhật hiển thị thông tin Số thứ tự của nhà máy thứ nhất trên bảng kê 01-1/TAIN
+6. Tờ khai quyết toán thuế nhà thầu nước ngoài (02/NTNN, 04/NTNN)
+- Cập nhật kiểm tra trên phụ lục 02-2/NTNN: Kiểm tra các cột (2), (4), (6), (7), (8) không được phép đồng thời trùng nhau giữa các dòng
+7. Tờ khai khấu trừ thuế thu nhập cá nhân (01/XSBHĐC) theo Thông tư 92/2015/TT-BTC
+- Cập nhật cho phép xóa phụ lục 01-1/PL-CNKD khi kê khai tờ khai bổ sung
+
+

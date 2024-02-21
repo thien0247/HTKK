@@ -1,0 +1,13 @@
+NỘI DUNG NÂNG CẤP HTKK 4.2.6
+1.	Cập nhật danh mục địa bàn hành chính của các chức năng liên quan trên ứng dụng HTKK:
+-	Cập nhật địa bàn hành chính cấp huyện, cấp xã thuộc tỉnh Thanh Hóa đáp ứng Nghị quyết số 786/NQ-UBTVQH14 ngày 16/10/2019:
++  Nâng cấp: Hết hiệu lực 99 xã/phường/thị trấn; Lập mới 73 xã/phường/thị trấn
+-	Cập nhật địa bàn hành chính cấp huyện, cấp xã thuộc tỉnh Bắc Ninh đáp ứng Nghị quyết số 787/NQ-UBTVQH14 ngày 16/10/2019:
++  Nâng cấp: Hết hiệu lực 3 xã; Lập mới 3 phường thuộc thành phố Bắc Ninh
+-	Cập nhật địa bàn hành chính cấp huyện, cấp xã thuộc tỉnh Hải Dương đáp ứng Nghị quyết số 788/NQ-UBTVQH14 ngày 16/10/2019:
++  Nâng cấp: Đổi tên 02 xã; Hết hiệu lực 44 xã; Lập mới 30 xã/phường
+2.	Cập nhật một số lỗi và yêu cầu phát sinh của ứng dụng HTKK 4.2.5
+2.1	Chức năng kê khai Tờ khai phí bảo vệ môi trường (01/BVMT), Tờ khai quyết toán phí bảo vệ môi trường (02/BVMT)
+-	Cập nhật bổ sung cảnh báo: "Lưu ý: NNT tự xác định hệ số tính phí theo phương pháp khai thác (hệ số K) khi tính số phí phải nộp trong kì".
+2.2	Chức năng kê khai Tờ khai lệ phí môn bài (01/MBAI)
+-	Cập nhật chức năng in tờ khai mã vạch: cập nhật in đúng dữ liệu mã vạch tại chỉ tiêu [05].

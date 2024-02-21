@@ -1,0 +1,5 @@
+NỘI DUNG NÂNG CẤP HTKK 4.4.0
+
+ Nâng cấp ứng dụng Hỗ trợ kê khai (HTKK) phiên bản 4.4.0 đáp ứng yêu cầu về hợp nhất Chi cục Thuế trực thuộc Cục Thuế Thành phố Hồ Chí Minh theo Quyết định số 170/QĐ-BTC ngày 07/02/2020 của Bộ trưởng Bộ Tài chính, cụ thể như sau:
+-	Cập nhật Chi cục Thuế Quận 12 thành Quận 12 - Chi cục Thuế khu vực Quận 12 – huyện Hóc Môn
+-	Cập nhật Chi cục Thuế Huyện Hóc Môn thành Huyện Hóc Môn - Chi cục Thuế khu vực Quận 12 – huyện Hóc Môn

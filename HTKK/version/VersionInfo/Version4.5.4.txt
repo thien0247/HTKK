@@ -1,0 +1,5 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.5.4
+
+- Cập nhật sửa lỗi kết xuất tờ khai 02/QTT-TNCN, 05/QTT-TNCN khi nộp vào hệ thống icanhan báo lỗi “Tờ khai không đúng định dạng”;
+- Cập nhật sửa lỗi kết xuất tờ khai 05-ĐK-TH-TCT (để trống thông tin Email) khi nộp vào hệ thống eTax báo lỗi “Email không đúng định dạng”;
+- Cập nhật sửa lỗi không kết xuất được tờ khai Báo cáo tình hình sử dụng hóa đơn (BC26/AC).

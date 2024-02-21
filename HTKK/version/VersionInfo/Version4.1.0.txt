@@ -1,0 +1,12 @@
+﻿NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.1.0
+
+1.	Cập nhật danh mục địa bàn hành chính
+-	Đổi tên xã Đạm Bri thành xã ĐamBri – thành phố Bảo Lộc – tỉnh Lâm Đồng.
+-	Đổi tên xã Quảng Cư thành Phường Quảng Cư  – thành phố Sầm Sơn – tỉnh Thanh Hóa.
+2.	Cập nhật một số lỗi của ứng dụng HTKK phiên bản 4.0.9
+-	Chức năng kê khai Quyết toán thuế thu nhập cá nhân (02/QTT-TNCN): Cập nhật hiển thị dữ liệu tự động tính chỉ tiêu [30] – Cho những người phụ thuộc được giảm trừ.
+-	Chức năng lập Thông báo kết quả hủy hóa đơn (TB03/AC): Cập nhật tên tờ khai khi kết xuất dữ liệu ra file XML.
+-	Cập nhật chức năng Hỗ trợ in quyết toán thuế cho cá nhân (TT92/2015): Cập nhật sửa lỗi chức năng in.
+-	Cập nhật chức năng kê khai Tờ khai Hoàn thuế (01/ĐNHT): Cập nhật kỳ kê khai khi kết xuất dữ liệu ra file XML.
+
+

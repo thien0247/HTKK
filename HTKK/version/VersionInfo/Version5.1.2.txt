@@ -1,0 +1,11 @@
+					NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.1.2
+
+1. Nâng cấp các tờ khai đáp ứng yêu cầu quyết toán theo năm tài chính
+- Nâng cấp các tờ khai 02/PBVMT (TT80/2021), 02/PH (TT80/2021), 04/TNDN (TT80/2021), 02/TAIN (TT80/2021) đáp ứng yêu cầu quyết toán theo năm tài chính:
+	+ Kỳ quyết toán từ: Cập nhật nhập định dạng ngày (dd/mm/yyyy), mặc định là ngày bắt đầu năm tài chính, cho phép sửa.
+	+ Kỳ quyết toán đến: Cập nhật nhập định dạng ngày (dd/mm/yyyy), mặc định là ngày kết thúc năm tài chính, cho phép sửa trừ trường hợp “Quyết toán định kỳ”.
+	+ Bổ sung trường hợp quyết toán “Chuyển đổi kỳ tài chính” đối với các tờ khai 02/PH (TT80/2021), 02/PBVMT (TT80/2021).
+2. Nâng cấp cập nhật địa bàn hành chính tỉnh Đắk Lắk đáp ứng Quyết định số 132/QD-UBND tỉnh Đắk Lắk ngày 17/01/2020
+- Cập nhật đổi tên huyện Huyện Krông Pắk thành Huyện Krông Pắc, tỉnh Đắk Lắk.
+3. Cập nhật tờ khai 01/GTGT (TT26/2015)
+- Cập nhật kết xuất đúng giá trị Mã cơ quan thuế quản lý – chỉ tiêu [11] trên Phụ lục 01-6/GTGT.

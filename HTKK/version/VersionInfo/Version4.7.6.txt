@@ -1,0 +1,14 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.7.6
+
+1. Nâng cấp bổ sung các mẫu hồ sơ quyết toán thuế còn lại theo quy định tại Thông tư số 80/2021/TT-BTC, bao gồm:
+- Tờ khai quyết toán phí: mẫu 02/PBVMT, 02/PHLPNG.
+- Tờ khai thuế vận tải nước ngoài: mẫu 01/VTNN.
+- Tờ khai quyết toán dầu khí: mẫu 02/LNCN-PSC, 02/LNCN-VSP, 02/TAIN-VSP, 01/ĐCĐB-VSP, 02/PTHU-VSP, 02/TNDN-VSP, 02/PTHU-DK, 03/PTHU-DK, 02/TAIN-DK, 02/TNDN-DK, 01/QT-LNCL.
+- Tờ khai quyết toán lợi nhuận còn lại: mẫu 01/QT-LNCL
+2.Cập nhật tờ khai quyết toán thuế tài nguyên (mẫu 02/TAIN)
+- Cập nhật chức năng kết xuất XML đối với trường hợp nhập từ 2 nhà máy trở lên trên phụ lục 01-1/TAIN
+3.Cập nhật tờ khai quyết toán thuế thu nhập cá nhân (05/QTT-TNCN)
+- Cập nhật chức năng in: in đúng tên bảng kê 05-2/BK-TNCN là “Bảng kê chi tiết cá nhân thuộc diện tính thuế theo thuế suất toàn phần”.
+- Cập nhật hiển thị đủ dữ liệu trên 05/QTT-TNCN đã kê khai trong hệ thống khi cập nhật HTKK lên phiên bản mới.
+
+

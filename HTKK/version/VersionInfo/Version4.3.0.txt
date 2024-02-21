@@ -1,0 +1,19 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.3.0
+
+1.	Nâng cấp ứng dụng bổ sung mẫu biểu:
+Nâng cấp ứng dụng bổ sung chức năng lập Báo cáo tài chính theo Thông tư số 24/2017/TT-BTC và Thông tư số 107/2017/TT-BTC: Hỗ trợ nhập, xóa, sửa, in, nhập lại, kết xuất XML, kết xuất Excel, tải báo cáo từ XML, tra cứu hướng dẫn kê khai từng chỉ tiêu cho các bộ Báo cáo tài chính bao gồm:
+-	Bộ Báo cáo tài chính đầy đủ (TT107/2017/TT-BTC)
+-	Bộ Báo cáo tài chính đơn giản (TT107/2017/TT-BTC)
+-	Bộ Báo cáo tài chính năm (TT24/2017/TT-BTC)
+-	Bộ Báo cáo tài chính năm (TT24/2017/TT-BTC) (BCTHTC B01a – TT133/2016/TT-BTC)
+-	Bộ Báo cáo tài chính năm (TT24/2017/TT-BTC) (BCTHTC B01b – TT133/2016/TT-BTC)
+2.	Cập nhật một số nội dung phát sinh của ứng dụng HTKK 4.2.9
+a.	Cập nhật Tên cơ quan thuế
+-	Cập nhật  “CCT khu vực Hạ Long – Hoành Bồ” thành “Chi cục Thuế Thành phố Hạ Long”, cụ thể:
++	Cập nhật Thành phố Hạ Long – CCT khu vực Hạ Long – Hoành Bồ thành  Thành phố Hạ Long - Chi cục Thuế Thành phố Hạ Long.
++	Cập nhật Huyện Hoành Bồ - Chi cục Thuế khu vực Hạ Long - Hoành Bồ thành Huyện Hoành Bồ - Chi cục Thuế Thành phố Hạ Long
+b.	Tờ khai Thuế tài nguyên (dành cho cơ sở sản xuất thủy điện) (03/TĐ-TAIN)
+-	Cập nhật hiển thị thuế suất (chỉ tiêu [22]) đối với các tờ khai có kỳ kê khai năm 2020.
+c.	Tờ khai đăng ký thuế tổng hợp cho cá nhân có thu nhập từ tiền công, tiền lương thông qua cơ quan chi trả thu nhập (05-DK-TH-TCT)
+-	Cập nhật chức năng in tờ khai: Hiển thị đủ MST của doanh nghiệp đối với trường hợp MST là 13 ký tự
+

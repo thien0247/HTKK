@@ -1,0 +1,8 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.3.3
+
+1.	Cập nhật tên Chi cục Thuế trực thuộc Cục Thuế tỉnh Phú Thọ
+-	Cập nhật Huyện Lâm Thao - Chi cục Thuế khu vực Phù Ninh - Lâm Thao (mã 21721) thành Huyện Lâm Thao - Chi cục Thuế khu vực Lâm Thao - Phù Ninh (mã 21721)
+-	Cập nhật Huyện Phù Ninh - Chi cục Thuế khu vực Phù Ninh - Lâm Thao (mã 21711) thành Huyện Phù Ninh - Chi cục Thuế khu vực Lâm Thao - Phù Ninh (mã 21711)
+2.	Cập nhật tên Chi cục Thuế trực thuộc Cục Thuế Thành phố Hồ Chí Minh
+-	Cập nhật Huyện Hóc Môn - Chi cục Thuế khu vực Quận 12 - Hóc Môn (mã  70137) thành Chi cục Thuế Huyện Hóc Môn (mã 70137)
+-	Cập nhật Quận 12 - Chi cục Thuế khu vực Quận 12 - Hóc Môn (mã 70123) thành Chi cục Thuế Quận 12 (mã 70123)

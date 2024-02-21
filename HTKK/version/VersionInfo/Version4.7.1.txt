@@ -1,0 +1,12 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.7.1
+
+1. Tờ khai thuế giá trị gia tăng (01/GTGT)
+ Cập nhật phụ lục 01-6/GTGT đối với đơn vị phụ thuộc, địa điểm kinh doanh là cơ sở sản xuất
+- Cập nhật công thức tính cột [17] – Số thuế phải nộp cho từng tỉnh nơi có cơ sở sản xuất và cột [21] - Số thuế phải nộp cho từng tỉnh nơi có cơ sở sản xuất trong trường hợp [06] < ([19] + [20])
+- Cập nhật không bắt buộc nhập cột [14] – Doanh thu sản phẩm sản xuất của cơ sở sản xuất (chưa có thuế GTGT) đối với Hàng hóa chịu thuế 5%
+2. Tờ khai thuế giá trị gia tăng (05/GTGT)
+- Cập nhật không bắt buộc mục II - Kê khai thông tin của hợp đồng xây dựng.
+3. Tờ khai thuế tiêu thụ đặc biệt (01/TTĐB)
+- Cập nhật không bắt buộc nhập cột (4) – Số lượng tiêu thụ trong kỳ và cột (5) – Doanh thu bán (chưa có thuế GTGT)
+4. Tờ khai thuế thu nhập cá nhân (06/TNCN)
+- Cập nhật kết xuất đủ dữ liệu các trường ‘Người ký’, ‘Ngày ký’

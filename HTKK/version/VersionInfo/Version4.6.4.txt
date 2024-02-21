@@ -1,0 +1,12 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.6.4
+
+1. Cập nhật thay đổi cơ quan thuế
+- Hết hiệu lực các Chi cục Thuế sau: 
++ Chi cục Thuế Quận 2
++ Chi cục Thuế Quận 9
++ Chi cục Thuế Quận Thủ Đức
+- Thêm mới: Chi cục Thuế thành phố Thủ Đức
+- Thêm mới: Cục Thuế Doanh nghiệp lớn.
+2. Cập nhật thay đổi địa bàn hành chính
+- Cập nhật hết hiệu lực các địa bàn hành chính thuộc Quận 2, Quận 9, Quận Thủ Đức – Thành phố Hồ Chí Minh
+- Thêm mới các địa bàn hành chính trực thuộc Thành phố Thủ Đức, thành phố Hồ Chí Minh

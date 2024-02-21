@@ -1,0 +1,7 @@
+﻿NỘI DUNG NÂNG CẤP ỨNG DỤNG HỖ TRỢ KÊ KHAI PHIÊN BẢN 4.0.2
+
+1. Cập nhật danh mục biểu thuế tài nguyên, biểu thuế bảo vệ môi trường và biểu phí, lệ phí tương ứng với các tiểu mục mới theo Thông tư số 324/2016/TT-BTC ngày 21/12/2016 của Bộ Tài chính quy định hệ thống mục lục ngân sách Nhà nước và công văn số 1225/TCT-KK ngày 09/4/2018 của Tổng cục Thuế
+2. Bổ sung chức năng kê khai và tra cứu Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước (mẫu 01/ĐNHT – dành cho hoàn thuế GTGT - ban hành kèm theo Thông tư 156/2013/TT-BTC ngày 06/11/2013).
+3. Nâng cấp chức năng kê khai tờ khai mẫu 01/GTGT: Bổ sung kiểm tra ràng buộc chỉ tiêu [40] - Thuế GTGT còn phải nộp trong kỳ trên tờ khai và chỉ tiêu số thuế trên các phụ lục phân bổ mẫu 01-6/GTGT, 01-7/GTGT,  01-2/TĐ-GTGT.. 
+4. Nâng cấp chức năng kê khai tờ khai 03/TNDN: Bổ sung kiểm tra ràng buộc trong trường hợp kê khai chỉ tiêu [C1] – chỉ tiêu [C2] <= 0 thì các chỉ tiêu [C3a], [C3b], [C5] phải bằng 0.
+5. Nâng cấp ứng dụng cập nhật một số lỗi liên quan đến các chức năng kê khai tờ khai 05/QTT-TNCN (trong trường hợp khai bổ sung, in tờ khai, tải dữ liệu từ file excel) và tờ khai 01/GTGT (trong trường hợp khai bổ sung).

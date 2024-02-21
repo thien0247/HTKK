@@ -1,0 +1,19 @@
+		NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.4.7
+
+1. Cập nhật ngày lập tờ khai bổ sung (KHBS) trên tờ khai 03/TNDN, 02/TAIN:
+- Áp dụng đối với các tờ khai có kỳ quyết toán đến >= kỳ tháng 06/2020
+1.1. Đối với tờ khai 03/TNDN
+- Ngày lập tờ khai bổ sung (KHBS) > Hạn nộp tờ khai chính thức. Hạn nộp tờ khai chính thức thay đổi như sau:
++ Nếu Kỳ quyết toán đến = Kỳ tài chính đến: Hạn nộp tờ khai chính thức là ngày cuối cùng của tháng thứ 3 kể từ ngày kết thúc năm tài chính, dịch sang ngày tiếp theo nếu rơi vào ngày nghỉ.
++ Nếu kỳ quyết toán đến <> kỳ tài chính đến (Áp dụng cho trường hợp quyết toán bất thường giữa năm tài chính: giải thể, phá sản, chia tách sáp nhập, chuyển đổi năm tài chính, chuyển đổi loại hình doanh nghiệp…): Hạn nộp tờ khai chính thức là ngày cuối cùng của kỳ quyết toán đến + 45 ngày, dịch sang ngày tiếp theo nếu rơi vào ngày nghỉ.
+1.2. Đối với tờ khai 02/TAIN
+- Ngày lập tờ khai bổ sung (KHBS) > Hạn nộp tờ khai chính thức. Hạn nộp tờ khai chính thức thay đổi như sau: 
++ Nếu Kỳ tính thuế đến = 31/12: Hạn nộp tờ khai chính thức là ngày cuối cùng của tháng thứ 3 kể từ khi kết thúc năm dương lịch, dịch sang ngày tiếp theo nếu rơi vào ngày nghỉ
++ Nếu Kỳ tính thuế đến <> 31/12: Hạn nộp tờ khai chính thức là ngày cuối cùng kỳ quyết toán đến + 45 ngày, dịch sang ngày tiếp theo nếu rơi vào ngày nghỉ
+2. Cập nhật tên địa bàn hành chính
+2.1. Đổi tên địa bàn hành chính thuộc Tỉnh Yên Bái
+- Đổi tên xã Khau Phạ thành xã Cao Phạ, huyện Mù Cang Chải, tỉnh Yên Bái.
+2.2. Đổi tên địa bàn hành chính thuộc tỉnh Đồng Tháp
+- Đổi tên Thị xã Hồng Ngự thành Thành phố Hồng Ngự, tỉnh Đồng Tháp
++ Đổi tên Xã An Bình A thành Phường An Bình A thuộc Thành phố Hồng Ngự, tỉnh Đồng Tháp
++ Đổi tên Xã An Bình B thành Phường An Bình B thuộc Thành phố Hồng Ngự, tỉnh Đồng Tháp

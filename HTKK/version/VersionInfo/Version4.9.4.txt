@@ -1,0 +1,29 @@
+	          NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.9.4
+
+	Nâng cấp các mẫu của Thông tư số 80/2021/TT-BTC và Thông tư số 40/2021/TT-BTC như sau:
+1. Tờ khai thuế giá trị gia tăng (05/GTGT)
+- Cập nhật bỏ ràng buộc bắt buộc nhập doanh thu chưa có thuế giá trị gia tăng [21] của 1 trong 2 hoạt động tại mục “Kê khai nghĩa vụ thuế”.
+2. Tờ khai thuế tài nguyên tạm tính đối với dầu khí (01/TAIN-DK)
+- Cập nhật khi kê khai tờ khai theo lần phát sinh thì ứng dụng thực hiện in đúng kỳ kê khai.
+3. Danh sách số hiệu tài khoản thanh toán
+- Cập nhật cho phép kết xuất tờ khai trong trường hợp để trống dữ liệu của bảng “Danh sách số hiệu tài khoản thanh toán của khách hàng là người nộp thuế”.
+4. Tờ khai thuế nhà thầu nước ngoài (01/NTNN)
+- Cập nhật chức năng <Nhập xml> hiển thị đủ thông tin “Tỷ lệ thuế GTGT” và “Tỷ lệ thuế TNDN”.
+5. Tờ khai thuế thu nhập doanh nghiệp (05/TNDN)
+- Cập nhật ứng dụng cho phép kê khai tờ khai bổ sung lần 2 trong trường hợp đã tồn tại tờ khai lần 1.
+6. Tờ khai cá nhân kinh doanh (01/CNKD)
+- Cập nhật nếu tích chọn tổ chức, cá nhân khai thuế thay, nộp thuế thay thì cho phép sửa [28b], [29b], [30b], [31b].
+7. Tờ khai quyết toán thuế thu nhập doanh nghiệp (03/TNDN)
+- Cập nhật đối với loại chỉ tiêu “Cơ sở sản xuất khác tỉnh là nhà máy thủy điện nằm trên nhiều tỉnh” thì không tổng hợp thay đổi lên 01/KHBS.
+8. Tờ khai thuế giá trị gia tăng (01/GTGT)
+- Cập nhật tại phụ lục 01-6/GTGT (dành cho CSSX): Bắt buộc nhập chỉ tiêu [14] hoặc [15]
+9. Tờ khai thuế tiêu thụ đặc biệt (01/TTĐB)
+- Cập nhật ràng buộc tại phụ lục 01-3/TTĐB như sau:
++ Đối với dòng kê khai "Đơn vị phụ thuộc", "địa điểm kinh doanh": Bắt buộc nhập chỉ tiêu [09], [10].
++ Đối với loại chỉ tiêu "Nơi không có đơn vị phụ thuộc, địa điểm kinh doanh": Không bắt buộc nhập chỉ tiêu [09], [10].
+10. Văn bản đề nghị hủy hồ sơ đề nghị hoàn thuế (01/ĐNHUY)
+- Bổ sung mẫu biểu kê khai Văn bản đề nghị hủy hồ sơ đề nghị hoàn thuế.
+11. Cập nhật địa bàn hành chính trực thuộc tỉnh Bình Phước và tỉnh Cao Bằng.
+- Cập nhật xã Thành Tâm thành phường Thành Tâm, xã Minh Hưng thành phường Minh Hưng, xã Minh Long thành phường Minh Long, xã Minh Thành thành phường Minh Thành, thị trấn Chơn Thành thành phường Hưng Long, tỉnh Bình Phước.
+- Cập nhật xã Phong Nậm thành xã Phong Nặm, huyện Trùng Khánh, tỉnh Cao Bằng.
+

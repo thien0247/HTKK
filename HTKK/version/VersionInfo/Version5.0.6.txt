@@ -1,0 +1,9 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.0.6
+
+1. Bổ sung mẫu Giấy đề nghị gia hạn nộp thuế và tiền thuê đất đáp ứng Nghị định số 12/2023/NĐ-CP
+	- Bổ sung mẫu Giấy đề nghị gia hạn nộp thuế và tiền thuê đất (NĐ số 12/2023/NĐ-CP): Cho phép nhập, sửa, in, kết xuất XML, kết xuất Excel, nhập tờ khai XML
+2. Nâng cấp Tờ khai thuế đối với hoạt động khai thác tài sản bảo đảm trong thời gian chờ xử lý – mẫu 01/KTTSBĐ (TT80/2021)
+	- Cập nhật tại phụ lục 01-1/KTTSBĐ: Chỉ bắt buộc nhập mục I hoặc mục II.
+3. Nâng cấp Bộ Báo cáo tài chính năm (B01-CTCK) (TT334/2016/TT-BTC)
+	- Tại mẫu Báo cáo tính hình biến động vốn chủ sở hữu: 
+		+Chỉ tiêu 1.3 - Thặng dư vốn cổ phần: Cập nhật cho nhập kiểu số âm, dương

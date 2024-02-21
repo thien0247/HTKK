@@ -1,0 +1,10 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.3.5
+
+1.	Nâng cấp ứng dụng bổ sung các yêu cầu nghiệp vụ phát sinh
+-	Chức năng kê khai Tờ khai quyết toán của cá nhân (02/QTT-TNCN)
++ Chỉ tiêu [09] Điện thoại và chỉ tiêu [11] Email: bắt buộc nhập
++ Chỉ tiêu [24], chỉ tiêu [42]: không cho phép nhập từ kỳ kê khai có từ tháng >=8/2018 hoăc kỳ năm >=2019.
+-	Chức năng kê khai Tờ khai quyết toán của tổ chức, CN (05/QTT-TNCN)
++ Chỉ tiêu [37] trên tờ khai 05/QTT-TNCN; Chỉ tiêu [12], chỉ tiêu [21] trên BK 05-1/BK-QTT-TNCN; Chỉ tiêu [13], chỉ tiêu [17] trên BK 05-2/ BK-QTT-TNCN: không cho phép nhập từ kỳ kê khai có từ tháng >=8/2018 hoăc kỳ năm >=2019.
+2.	Cập nhật lỗi trên phiên bản HTKK4.3.4
+-	Đăng ký người phụ thuộc giảm trừ gia cảnh: Cho phép chọn địa bàn Xã có tên trống thuộc Huyện Lý Sơn, Tỉnh Quảng Ngãi.

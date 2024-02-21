@@ -1,0 +1,4 @@
+							NỘI DUNG NÂNG CẤP HTKK 4.3.8
+
+-	Nâng cấp ứng dụng bổ sung chức năng lập “Giấy đề nghị gia hạn nộp thuế và tiền thuê đất”: Hỗ trợ nhập, xóa, sửa, in, nhập lại, kết xuất XML, kết xuất Excel, tải báo cáo từ XML, tra cứu hướng dẫn kê khai từng chỉ tiêu.
+-	Cập nhật chức năng kết xuất tờ khai Báo cáo tình hình sử dụng biên lai thu phí, lệ phí (BC7/AC): Cập nhật tên file khi kết xuất XML, kết xuất Excel

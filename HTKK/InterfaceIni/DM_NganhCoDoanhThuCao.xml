@@ -1,0 +1,96 @@
+﻿<Sections Version="463">
+	<Section Dynamic="0" MaxRows="0">
+		<Items>
+			<Item Ma="000" Ten="000 - Không phát sinh doanh thu" />
+			<Item Ma="A01" Ten="A01 - Nông nghiệp và hoạt động dịch vụ có liên quan" />
+			<Item Ma="A02" Ten="A02 - Lâm nghiệp và hoạt động dịch vụ có liên quan" />
+			<Item Ma="A03" Ten="A03 - Khai thác, nuôi trồng thuỷ sản" />
+			<Item Ma="B05" Ten="B05 - Khai thác than cứng và than non" />
+			<Item Ma="B06" Ten="B06 - Khai thác dầu thô và khí đốt tự nhiên" />
+			<Item Ma="B07" Ten="B07 - Khai thác quặng kim loại" />
+			<Item Ma="B08" Ten="B08 - Khai khoáng khác" />
+			<Item Ma="B09" Ten="B09 - Hoạt động dịch vụ hỗ trợ khai khoáng" />
+			<Item Ma="C10" Ten="C10 - Sản xuất, chế biến thực phẩm" />
+			<Item Ma="C11" Ten="C11 - Sản xuất đồ uống" />
+			<Item Ma="C12" Ten="C12 - Sản xuất sản phẩm thuốc lá" />
+			<Item Ma="C13" Ten="C13 - Dệt" />
+			<Item Ma="C14" Ten="C14 - Sản xuất trang phục" />
+			<Item Ma="C15" Ten="C15 - Sản xuất da và các sản phẩm có liên quan" />
+			<Item Ma="C16" Ten="C16 - Chế biến gỗ và sản xuất sản phẩm từ gỗ, tre, nứa (trừ giường, tủ, bàn, ghế); sản xuất sản phẩm từ rơm, rạ và vật liệu tết bện" />
+			<Item Ma="C17" Ten="C17 - Sản xuất giấy và sản phẩm từ giấy" />
+			<Item Ma="C18" Ten="C18 - In, sao chép bản ghi các loại" />
+			<Item Ma="C19" Ten="C19 - Sản xuất than cốc, sản phẩm dầu mỏ tinh chế" />
+			<Item Ma="C20" Ten="C20 - Sản xuất hoá chất và sản phẩm hoá chất" />
+			<Item Ma="C21" Ten="C21 - Sản xuất thuốc, hoá dược và dược liệu" />
+			<Item Ma="C22" Ten="C22 - Sản xuất sản phẩm từ cao su và plastic" />
+			<Item Ma="C23" Ten="C23 - Sản xuất sản phẩm từ khoáng phi kim loại khác" />
+			<Item Ma="C24" Ten="C24 - Sản xuất kim loại" />
+			<Item Ma="C25" Ten="C25 - Sản xuất sản phẩm từ kim loại đúc sẵn (trừ máy móc, thiết bị)" />
+			<Item Ma="C26" Ten="C26 - Sản xuất sản phẩm điện tử, máy vi tính và sản phẩm quang học" />
+			<Item Ma="C27" Ten="C27 - Sản xuất thiết bị điện" />
+			<Item Ma="C28" Ten="C28 - Sản xuất máy móc, thiết bị chưa được phân vào đâu" />
+			<Item Ma="C29" Ten="C29 - Sản xuất ô tô và xe có động cơ khác" />
+			<Item Ma="C30" Ten="C30 - Sản xuất phương tiện vận tải khác" />
+			<Item Ma="C31" Ten="C31 - Sản xuất giường, tủ, bàn, ghế" />
+			<Item Ma="C32" Ten="C32 - Công nghiệp chế biến, chế tạo khác" />
+			<Item Ma="C33" Ten="C33 - Sửa chữa, bảo dưỡng và lắp đặt máy móc và thiết bị" />
+			<Item Ma="D35" Ten="D35 - Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hoà không khí" />
+			<Item Ma="E36" Ten="E36 - Khai thác, xử lý và cung cấp nước" />
+			<Item Ma="E37" Ten="E37 - Thoát nước và xử lý nước thải" />
+			<Item Ma="E38" Ten="E38 - Hoạt động thu gom, xử lý và tiêu huỷ rác thải; tái chế phế liệu" />
+			<Item Ma="E39" Ten="E39 - Xử lý ô nhiễm và hoạt động quản lý chất thải khác" />
+			<Item Ma="F41" Ten="F41 - Xây dựng nhà các loại" />
+			<Item Ma="F42" Ten="F42 - Xây dựng công trình kỹ thuật dân dụng" />
+			<Item Ma="F43" Ten="F43 - Hoạt động xây dựng chuyên dụng" />
+			<Item Ma="G45" Ten="G45 - Bán, sửa chữa ô tô, mô tô, xe máy và xe có động cơ khác" />
+			<Item Ma="G46" Ten="G46 - Bán buôn (trừ ô tô, mô tô, xe máy và xe có động cơ khác)" />
+			<Item Ma="G47" Ten="G47 - Bán lẻ (trừ ô tô, mô tô, xe máy và xe có động cơ khác)" />
+			<Item Ma="H49" Ten="H49 - Vận tải đường sắt, đường bộ và vận tải đường ống" />
+			<Item Ma="H50" Ten="H50 - Vận tải đường thủy" />
+			<Item Ma="H51" Ten="H51 - Vận tải hàng không" />
+			<Item Ma="H52" Ten="H52 - Kho bãi và các hoạt động hỗ trợ cho vận tải" />
+			<Item Ma="H53" Ten="H53 - Bưu chính và chuyển phát" />
+			<Item Ma="I55" Ten="I55 - Dịch vụ lưu trú" />
+			<Item Ma="I56" Ten="I56 - Dịch vụ ăn uống" />
+			<Item Ma="J58" Ten="J58 - Hoạt động xuất bản" />
+			<Item Ma="J59" Ten="J59 - Hoạt động điện ảnh, sản xuất chương trình truyền hình, ghi âm và xuất bản âm nhạc" />
+			<Item Ma="J60" Ten="J60 - Hoạt động phát thanh, truyền hình" />
+			<Item Ma="J61" Ten="J61 - Viễn thông" />
+			<Item Ma="J62" Ten="J62 - Lập trình máy vi tính, dịch vụ tư vấn và các hoạt động khác liên quan đến máy vi tính" />
+			<Item Ma="J63" Ten="J63 - Hoạt động dịch vụ thông tin" />
+			<Item Ma="K64" Ten="K64 - Hoạt động dịch vụ tài chính (trừ bảo hiểm và bảo hiểm xã hội)" />
+			<Item Ma="K65" Ten="K65 - Bảo hiểm, tái bảo hiểm và bảo hiểm xã hội (trừ bảo đảm xã hội bắt buộc)" />
+			<Item Ma="K66" Ten="K66 - Hoạt động tài chính khác" />
+			<Item Ma="L68" Ten="L68 - Hoạt động kinh doanh bất động sản" />
+			<Item Ma="M69" Ten="M69 - Hoạt động pháp luật, kế toán và kiểm toán" />
+			<Item Ma="M70" Ten="M70 - Hoạt động của trụ sở văn phòng; hoạt động tư vấn quản lý" />
+			<Item Ma="M71" Ten="M71 - Hoạt động kiến trúc; kiểm tra và phân tích kỹ thuật" />
+			<Item Ma="M72" Ten="M72 - Nghiên cứu khoa học và phát triển công nghệ" />
+			<Item Ma="M73" Ten="M73 - Quảng cáo và nghiên cứu thị trường" />
+			<Item Ma="M74" Ten="M74 - Hoạt động chuyên môn, khoa học và công nghệ khác" />
+			<Item Ma="M75" Ten="M75 - Hoạt động thú y" />
+			<Item Ma="N77" Ten="N77 - Cho thuê máy móc, thiết bị (không kèm người điều khiển); cho thuê đồ dùng cá nhân và gia đình; cho thuê tài sản vô hình phi tài chính" />
+			<Item Ma="N78" Ten="N78 - Hoạt động dịch vụ lao động và việc làm" />
+			<Item Ma="N79" Ten="N79 - Hoạt động của các đại lý du lịch, kinh doanh tua du lịch và các dịch vụ hỗ trợ, liên quan đến quảng bá và tổ chức tua du lịch" />
+			<Item Ma="N80" Ten="N80 - Hoạt động điều tra bảo đảm an toàn" />
+			<Item Ma="N81" Ten="N81 - Hoạt động dịch vụ vệ sinh nhà cửa, công trình và cảnh quan" />
+			<Item Ma="N82" Ten="N82 - Hoạt động hành chính, hỗ trợ văn phòng và các hoạt động hỗ trợ kinh doanh khác" />
+			<Item Ma="O84" Ten="O84 - Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước, an ninh quốc phòng, đối ngoại và bảo đảm xã hội bắt buộc" />
+			<Item Ma="P85" Ten="P85 - Giáo dục và đào tạo" />
+			<Item Ma="Q86" Ten="Q86 - Hoạt động y tế" />
+			<Item Ma="Q87" Ten="Q87 - Hoạt động chăm sóc, điều dưỡng tập trung" />
+			<Item Ma="Q88" Ten="Q88 - Hoạt động trợ giúp xã hội không tập trung" />
+			<Item Ma="R90" Ten="R90 - Hoạt động sáng tác, nghệ thuật và giải trí" />
+			<Item Ma="R91" Ten="R91 - Hoạt động của thư viện, lưu trữ, bảo tàng và các hoạt động văn hoá khác" />
+			<Item Ma="R9201" Ten="R9201 - Hoạt động xổ số" />
+			<Item Ma="R9202" Ten="R9202 - Hoạt động cá cược và đánh bạc" />
+			<Item Ma="R93" Ten="R93 - Hoạt động thể thao, vui chơi và giải trí" />
+			<Item Ma="S94" Ten="S94 - Hoạt động của các hiệp hội, tổ chức khác" />
+			<Item Ma="S95" Ten="S95 - Sửa chữa máy vi tính, đồ dùng cá nhân và gia đình" />
+			<Item Ma="S96" Ten="S96 - Hoạt động dịch vụ phục vụ cá nhân khác" />
+			<Item Ma="T97" Ten="T97 - Hoạt động làm thuê công việc gia đình trong các hộ gia đình" />
+			<Item Ma="T98" Ten="T98 - Hoạt động sản xuất sản phẩm vật chất và dịch vụ tự tiêu dùng của hộ gia đình" />
+			<Item Ma="U99" Ten="U99 - Hoạt động của các tổ chức và cơ quan quốc tế" />
+		</Items>
+	</Section>	
+</Sections>

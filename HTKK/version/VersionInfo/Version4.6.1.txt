@@ -1,0 +1,4 @@
+		NỘI DUNG NÂNG CẤP HTKK 4.6.1
+
+- Nâng cấp ứng dụng bổ sung chức năng kê khai tờ khai “Dữ liệu hóa đơn, chứng từ hàng hóa, dịch vụ bán ra (03/DL-HĐĐT)”: 
+Hỗ trợ nhập, sửa, xóa, in, nhập lại, kết xuất XML, kết xuất Excel, tải báo cáo từ XML, tra cứu hướng dẫn kê khai từng chỉ tiêu.

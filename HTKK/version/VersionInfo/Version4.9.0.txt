@@ -1,0 +1,23 @@
+		NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.9.0
+
+1. Cập nhật mức thuế bảo vệ môi trường đáp ứng Nghị quyết số 20/2022/UBTVQH15
+	- Cập nhật mức thuế bảo vệ môi trường đối với xăng, dầu, mỡ nhờn từ ngày 11/07/2022 đến hết ngày 31/12/2022 như sau: 
+		+ Thuế bảo vệ môi trường mặt hàng xăng (trừ etanol) bán ra trong nước: 1.000 đồng
+		+ Thuế bảo vệ môi trường mặt hàng dầu diezel bán ra trong nước: 500 đồng
+		+ Thuế bảo vệ môi trường mặt hàng dầu hỏa bán ra trong nước: 300 đồng
+		+ Thuế bảo vệ môi trường mặt hàng nhiên liệu bay bán ra trong nước: 1.000 đồng
+		+ Thuế bảo vệ môi trường mặt hàng xăng E5 RON92 (trừ etanol) bán ra trong nước: 1.000 đồng
+		+ Thuế bảo vệ môi trường mặt hàng dầu mazut bán ra trong nước: 300 đồng
+		+ Thuế bảo vệ môi trường mặt hàng dầu nhờn bán ra trong nước: 300 đồng
+		+ Thuế bảo vệ môi trường mặt hàng mỡ nhờn bán ra trong nước: 300 đồng
+	- Cập nhật mức thuế bảo vệ môi trường đối với xăng, dầu, mỡ nhờn từ ngày 01/01/2023 như sau:
+		+ Thuế bảo vệ môi trường mặt hàng xăng (trừ etanol) bán ra trong nước: 4.000 đồng
+		+ Thuế bảo vệ môi trường mặt hàng dầu diezel bán ra trong nước: 2.000 đồng
+		+ Thuế bảo vệ môi trường mặt hàng dầu hỏa bán ra trong nước: 1.000 đồng
+		+ Thuế bảo vệ môi trường mặt hàng nhiên liệu bay bán ra trong nước: 3.000 đồng
+		+ Thuế bảo vệ môi trường mặt hàng xăng E5 RON92 (trừ etanol) bán ra trong nước: 4.000 đồng
+		+ Thuế bảo vệ môi trường mặt hàng dầu mazut bán ra trong nước: 2.000 đồng
+		+ Thuế bảo vệ môi trường mặt hàng dầu nhờn bán ra trong nước: 2.000 đồng
+		+ Thuế bảo vệ môi trường mặt hàng mỡ nhờn bán ra trong nước: 2.000 đồng
+2. Danh sách theo dõi số tiền chuyển cho các nhà cung cấp ở nước ngoài (04/NCCNN)
+	- Bổ sung chức năng tải bảng kê 

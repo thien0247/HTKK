@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSchedule>
+  <Task>
+    <UrlAutoUpdates>C5ldk7jQuHycqITtFJNd95fvkDYOw7xWU5pD3K3DIkM1IaVlda4TDmI80oKnfSzz</UrlAutoUpdates>
+    <IsProxy>0</IsProxy>
+    <IsUser>0</IsUser>
+    <Proxy>mjbclG9pLCw=</Proxy>
+    <Port>mjbclG9pLCw=</Port>
+    <UserName>mjbclG9pLCw=</UserName>
+    <PassWord>mjbclG9pLCw=</PassWord>
+    <SvnVersion>
+    </SvnVersion>
+    <AppVersion>5.1.4</AppVersion>
+    <Interval>
+    </Interval>
+    <TimeExcute>04/01/2024 21:19:56</TimeExcute>
+    <Status>1</Status>
+  </Task>
+</AppSchedule>

@@ -1,0 +1,12 @@
+		NỘI DUNG NÂNG CẤP HTKK 4.7.4 
+
+1. Cập nhật tờ khai quyết toán thuế TNCN (mẫu 02/QTT-TNCN):
+- Đối với các tờ khai có chỉ tiêu [46] – Số thuế hoàn trả cho người nộp thuế lớn hơn 5 triệu thì không cho phép hoàn trả theo hình thức “Tiền mặt”.
+2. Cập nhật tờ khai quyết toán thuế TNCN (mẫu 05/QTT-TNCN):
+- Cập nhật không bắt buộc nhập “Ngày sinh người phụ thuộc trên bảng kê 05-3/BK-TNCN”
+- Cập nhật không cảnh báo đỏ tại chỉ tiêu “Tổng số tiền giảm trừ gia cảnh” trong trường hợp nhập đúng số tiền so với số lượng người phụ thuộc trên bảng kê 05-3/QTT-TNCN
+3. Cập nhật tờ khai quyết toán thuế TNDN (mẫu số 03/TNDN):
+- Cập nhật cho phép chọn địa bàn phân bổ trên bảng kê phân bổ 03-8/TNDN
+- Cập nhật không cảnh báo đỏ tại phụ lục 03-3A trong trường hợp nhập dữ liệu hợp lệ
+- Cập nhật chỉ tiêu C1 cho phép nhận giá trị âm
+

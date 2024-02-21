@@ -1,0 +1,12 @@
+﻿NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.1.1
+
+1. Nâng cấp ứng dụng đáp ứng việc hợp nhất Chi cục Thuế:
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Cà Mau trong danh mục cơ quan thuế của các chức năng liên quan trên ứng dụng HTKK theo Quyết định số 1868/QĐ-BTC ngày 12/10/2018 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Năm Căn thành Huyện Năm Căn - Chi cục Thuế khu vực I 
+	+ Cập nhật Chi cục Thuế huyện Ngọc Hiển thành Huyện Ngọc Hiển- Chi cục Thuế khu vực I 
+
+2. Cập nhật một số lỗi và yêu cầu nghiệp vụ phát sinh của ứng dụng HTKK phiên bản 4.1.0
+- Chức năng kê khai Tờ khai lệ phí môn bài: Cập nhật kỳ tính thuế cho phép kê khai tờ khai năm lớn hơn năm hiện tại.
+- Chức năng kê khai Tờ khai thuế nhà thầu nước ngoài (01/NTNN, 03/NTNN): Cập nhật chức năng trợ giúp hướng dẫn kê khai chỉ tiêu “Ngày thanh toán”./.
+
+

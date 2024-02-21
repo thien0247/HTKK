@@ -1,0 +1,17 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.0.7
+
+1.	Nâng cấp và cập nhật một số yêu cầu thay đổi trên HTKK 4.0.7
+-	Chức năng Kê khai Tờ khai thuế thu nhập doanh nghiệp 06/TNDN (dành cho doanh nghiệp kê khai thuế TNDN từ hoạt động bán toàn bộ Công ty TNHH một thành viên do tổ chức làm chủ sở hữu dưới hình thức chuyển nhượng vốn có gắn với bất động sản): Cập nhật ràng buộc không bắt buộc nhập Mã số thuế của bên nhận chuyển nhượng (chỉ tiêu [13]) đối với trường hợp bên nhận chuyển nhượng là doanh nghiệp nước ngoài.
+-	Chức năng Kê khai Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước 01/ĐNHT: Cập nhật mã loại hoàn thuế khi kết xuất tờ khai và danh mục lý do đề nghị hoàn trả.
+-	Cập nhật danh mục địa bàn hành chính:
+		+ Đổi tên xã Tứ Trừng thành thị trấn Tứ Trưng – huyện Vĩnh Tường – tỉnh Vĩnh Phúc
+		+ Đổi tên xã Tân Thành thành thị trấn Tân Thành – huyện Bắc Tân Uyên – tỉnh Bình Dương 
+		+ Đổi tên xã Lai Uyên thành thị trấn Lai Uyên – huyện Bàu Bàng – tỉnh Bình Dương. 
+-	Nâng cấp ứng dụng đáp ứng một số yêu cầu kỹ thuật về an toàn bảo mật (không yêu cầu chỉnh sửa registry và User Account Control của hệ điều hành trên máy tính) khi cài đặt ứng dụng. Người sử dụng phải dùng user có quyền administrator để đăng nhập vào ứng dụng trong lần đầu tiên sau khi cài đặt HTKK 4.0.7. Trường hợp sử dụng tài khoản không có quyền admin thì trên màn hình sẽ hiển thị yêu cầu đăng nhập bằng tài khoản admin. Từ các lần tiếp theo, người sử dụng có thể dùng user đã được phân quyền đối với thư mục cài đặt HTKK để đăng nhập mà không bắt buộc phải là user có quyền administrator. Đối với các máy tính đã cài đặt ứng dụng HTKK 4.0.X, sử dụng chức năng “Cấu hình cập nhật” để tự động nâng cấp lên phiên bản 4.0.7 thì người nộp thuế có thể sử dụng bình thường, không yêu cầu phải đăng nhập bằng user có quyền administrator trong lần đăng nhập đầu tiên sau khi nâng cấp.
+2.	Cập nhật một số lỗi của ứng dụng HTKK phiên bản 4.0.6:
+-	Chức năng Kê khai Tờ khai quyết toán thuế NTNN (04/NTNN): Cập nhật kỳ tính thuế, cho phép nhập kỳ tính thuế lớn hơn 15 tháng.
+-	Chức năng Kê khai Đăng ký người phụ thuộc giảm trừ gia cảnh: Cập nhật ràng buộc đã nhập thông tin chứng minh thư thì không bắt buộc nhập thông tin giấy khai sinh.
+-	Chức năng Lập Báo cáo tình hình sử dụng hóa đơn BC26/AC: Cập nhật ràng buộc không bắt buộc nhập cơ quan thuế chuyển đến trên phụ lục mẫu 3.12 đính kèm BC26/AC đối với trường hợp là kỳ báo cáo cuối cùng. 
+-	Chức năng Kê khai Tờ khai quyết toán của tổ chức, cá nhân 05/QTT-TNCN, trên bảng kê 05-1/BK-QTT-TNCN: Cập nhật ràng buộc bắt buộc nhập mã số thuế hoặc chứng minh nhân dân và cảnh báo đỏ khi nhập mã số thuế không đúng cấu trúc.
+-	Chức năng In tờ khai thuế tiêu thụ đặc biệt 01/TTĐB: Cập nhật lỗi in tờ khai đối với trường hợp tờ khai có dữ liệu lớn.
+-	Chức năng In tờ khai đối với các tờ khai có dữ liệu lớn: Cập nhật độ phân giải mã vạch của các tờ khai đảm bảo có thể quét được bằng thiết bị đọc mã vạch./.

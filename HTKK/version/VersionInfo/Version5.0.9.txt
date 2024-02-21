@@ -1,0 +1,8 @@
+					NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.0.9
+
+1. Nâng cấp ứng dụng bổ sung phụ lục giảm thuế giá trị gia tăng đáp ứng Nghị quyết số 101/2023/QH15
+	Nâng cấp ứng dụng bổ sung phụ lục giảm thuế GTGT đối với các tờ khai 01/GTGT (TT80/2021), 04/GTGT (TT80/2021), 01/CNKD (TT40/2021), 01/TTS (TT40/2021) hiệu lực thi hành từ ngày 01 tháng 7 năm 2023 đến hết ngày 31 tháng 12 năm 2023.
+2. Nâng cấp danh mục phí – lệ phí đáp ứng Thông tư số 44/2023/TT-BTC
+	- Cập nhật danh mục bổ sung các loại phí - lệ phí được giảm theo Thông tư số 44/2023/TT-BTC
+3. Nâng cấp tờ khai quyết toán thuế thu nhập doanh nghiệp – mẫu 03/TNDN (TT80/2021)
+	- Cập nhật cột (6) Tổng giá trị phát sinh từ hoạt động kinh doanh trong kỳ của chỉ tiêu (5) Lợi nhuận gộp về bán hàng và cung cấp dịch vụ tại mục IV.1 – Phụ lục GDLK theo Nghị định số 132/2020/NĐ-CP: Cho phép nhập số âm, dương.

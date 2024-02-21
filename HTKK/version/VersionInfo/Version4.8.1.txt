@@ -1,0 +1,13 @@
+  			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.8.1
+
+1. Cập nhật bổ sung phụ lục giảm thuế giá trị gia tăng theo nghị quyết số 43/2022/QH15
+- Bổ sung phụ lục giảm thuế giá trị gia tăng theo nghị quyết số 43/2022/QH15 đính kèm các tờ khai 01/TTS và tờ khai 01/CNKD đối với các kỳ tính thuế từ ngày 01/02/2022
+2. Cập nhật các nội dung phát sinh
+2.1. Tờ khai 01/CNKD
+- Tại bảng kê 01-2/BK-HĐKD: Cập nhật định dạng các cột [08], [10], [12], [14] cho phép nhập định dạng số thập phân, tối đa 3 số sau dấu phẩy
+2.2. Tờ khai 01/QT-LNCL
+- Cập nhật nếu chỉ tiêu [17] trên tờ khai lớn hơn 0 thì không bắt buộc phải đính kèm phụ lục 01-1/QT-LNCL  
+2.3. Tờ khai 01/TTĐB
+- Cập nhật cột (10) – Số thuế TTĐB đã nộp trên 1 đơn vị hang hóa nhập khẩu tại mục II của Phụ lục 01-2/TTĐB: Vẫn tính theo công thức, mở cho phép sửa định dạng số >=0
+2.4. Tờ khai 04/GTGT
+- Bổ sung chức năng tải bảng kê đối với Phụ lục giảm thuế giá trị gia tăng theo Nghị quyết số 43/2022/QH15

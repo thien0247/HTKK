@@ -1,0 +1,17 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.0.8
+
+1.	Nâng cấp ứng dụng đáp ứng việc hợp nhất Chi cục Thuế trực thuộc Cục Thuế tỉnh Quảng Ninh theo Quyết định số 1686/QĐ-BTC ngày 25/09/2018 của Bộ trưởng Bộ Tài chính 
+Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Quảng Ninh trong danh mục cơ quan thuế của các chức năng liên quan trên ứng dụng, cụ thể như sau:
+
+- Cập nhật Chi cục Thuế thành phố Uông Bí thành Thành phố Uông Bí - Chi cục Thuế khu vực Uông Bí - Quảng Yên 
+- Cập nhật Chi cục Thuế thị xã Quảng Yên thành Thị xã Quảng Yên - Chi cục Thuế khu vực Uông Bí - Quảng Yên
+- Cập nhật Chi cục Thuế huyện Tiên Yên thành Huyện Tiên Yên - Chi cục Thuế khu vực Tiên Yên - Bình Liêu - Ba Chẽ
+- Cập nhật Chi cục Thuế huyện Bình Liêu thành Huyện Bình Liêu - Chi cục Thuế khu vực Tiên Yên - Bình Liêu - Ba Chẽ 
+- Cập nhật Chi cục Thuế huyện Ba Chẽ thành Huyện Ba Chẽ - Chi cục Thuế khu vực Tiên Yên - Bình Liêu - Ba Chẽ 
+- Cập nhật Chi cục Thuế huyện Hải Hà thành Huyện Hải Hà - Chi cục Thuế khu vực Hải Hà - Đầm Hà
+- Cập nhật Chi cục Thuế huyện Đầm Hà thành Huyện Đầm Hà - Chi cục Thuế khu vực Hải Hà - Đầm Hà
+
+2.	Cập nhật một số lỗi và yêu cầu nghiệp vụ phát sinh của ứng dụng HTKK phiên bản 4.0.7
+- Cập nhật danh mục địa bàn hành chính: Đổi tên huyện Tân Thành thành thị xã Phú Mỹ - tỉnh Bà Rịa - Vũng Tàu.
+- Chức năng Kê khai tờ khai thuế TNCN (dành cho cá nhân cư trú và cá nhân không cư trú khai thuế trực tiếp với cơ quan thuế) mẫu 02/KK-TNCN: Cập nhật định dạng số nguyên đối với chỉ tiêu [31] khi đưa vào mã vạch trên tờ khai.
+- Chức năng Lập Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước 01/ĐNHT: Cập nhật định dạng một số chỉ tiêu liên quan đến kỳ tính thuế đề nghị hoàn, kỳ nộp hồ sơ hoàn khi kết xuất tờ khai ra file XML gửi qua hệ thống Khai thuế qua mạng (iHTKK) hoặc Thuế điện tử (eTax) phục vụ trả trạng thái hồ sơ khai thuế./.

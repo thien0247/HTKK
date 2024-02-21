@@ -1,0 +1,18 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.0.7
+
+1. Nâng cấp tờ khai Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước – mẫu 01/HT (TT80/2021)
+	- Cho phép kê khai Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước (mẫu 01/HT) đối với các trường hợp hoàn thuế mới như sau:
+		+ Hoàn ODA
+		+ Hoàn viện trợ không thuộc hỗ trợ phát triển chính thức
+		+ Hoàn viện trợ quốc tế khẩn cấp
+		+ Hoàn thuế cho đối tượng hưởng ưu đãi miễn trừ ngoại giao
+		+ Hoàn thuế đối với NHTM là đại lý hoàn thuế GTGT cho khách xuất cảnh
+		+ Hoàn thuế theo quyết định của cơ quan có thẩm quyền
+		+ Hoàn khi chuyển đổi sở hữu, chuyển đổi doanh nghiệp, sáp nhập, hợp nhất, chia, tách, giải thể, phá sản, chấm dứt hoạt động
+2. Nâng cấp bổ sung tờ khai Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước đối với xăng sinh học – mẫu 01a/ĐNHT đáp ứng Thông tư số 80/2021/TT-BTC
+	- Bổ sung tờ khai Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước đối với xăng sinh học – mẫu 01a/ĐNHT: Cho phép nhập, sửa, in, kết xuất XML, kết xuất Excel, nhập tờ khai XML.
+3. Nâng cấp Tờ khai đăng ký thuế tổng hợp của cá nhân có thu nhập từ tiền lương, tiền công – mẫu 05-ĐK-TH-TCT đáp ứng chuẩn hóa mã số thuế cá nhân
+	- Đối với trường hợp tích chọn <Thay đổi thông tin ĐKT> thì bắt buộc nhập các thông tin sau: Mã số thuế, Ngày sinh, Giới tính, Quốc tịch, Loại giấy tờ tùy thân, Số giấy tờ, Ngày cấp, Nơi cấp
+4. Nâng cấp ứng dụng bổ sung chức năng kê khai thông tin dự án đầu tư
+	- Bổ sung chức năng “Kê khai thông tin DAĐT cho TK 02/GTGT và 01/HT”: cho phép nhập, sửa, xóa, tra cứu thông tin danh mục dự án đầu tư đã kê khai.
+	- Nâng cấp tờ khai 02/GTGT và tờ khai 01/HT (trường hợp hoàn dự án đầu tư): Đối với thông tin “Mã hồ sơ khai dự án đầu tư” cho phép chọn trong danh mục các mã đã khai trong chức năng “Kê khai thông tin DAĐT cho TK 02/GTGT và 01/HT”, các thông tin của dự án đầu tư sẽ được hiển thị thông tin tương ứng với mã đã chọn.

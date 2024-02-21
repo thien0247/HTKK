@@ -1,0 +1,5 @@
+				NỘI DUNG NÂNG CẤP HTKK PHIÊN BẢN 4.4.9
+
+-	Tờ khai 03/TNDN: Sửa hướng dẫn nhập (F1) tại chỉ tiêu [5] trên PL 03-8/TNDN đang hiển thị là: "Chỉ tiêu [05] Tổng số thuế phải nộp trên tờ khai quyết toán: lấy từ chỉ tiêu [E1] của tờ khai 03/TNDN sang" thành "Chỉ tiêu [05] Tổng số thuế phải nộp trên tờ khai quyết toán: lấy từ chỉ tiêu [D1] của tờ khai 03/TNDN sang”
+-	Tờ khai 01/TTĐB: Hiển thị danh mục "Tên hàng hóa, dịch vụ" và cho phép chọn khi NNT chọn kỳ tính thuế từ ngày 01/03/2020.
+-	Tờ khai 02/QTT-TNCN: Trường hợp quyết toán năm 2019 NNT có đăng ký giảm trừ cho người phụ thuộc không đủ 12 tháng, sửa cách tính tại chỉ tiêu [30] Khoản giảm trừ cho những người phụ thuộc được giảm trừ trên tờ khai chính = số tháng giảm trừ của tổng số người phụ thuộc * 3.600.000Đ.

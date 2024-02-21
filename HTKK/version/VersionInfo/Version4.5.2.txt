@@ -1,0 +1,46 @@
+    NỘI DUNG NÂNG CẤP HTKK PHIÊN BẢN 4.5.2 
+
+1. Cập nhật yêu cầu đáp ứng Nghị định số 126/2020/NĐ-CP
+1.1. Cập nhật tờ khai thuế giá trị gia tăng (01/GTGT) 
+- Cập nhật danh mục ngành nghề tại màn hình kỳ tính thuế:
+    + Đối với tờ khai tháng có kỳ tính thuế từ tháng 01/2021, tờ khai quý có kỳ tính thuế từ quý 1/2021 trở đi, danh mục ngành nghề bao gồm:
+	• Hoạt động sản xuất kinh doanh thông thường
+	• Xổ số kiến thiết, xổ số điện toán
+	• Hoạt động thăm dò, khai thác dầu khí
+	• Chuyển nhượng DAĐT CS hạ tầng, nhà khác tỉnh với nơi có trụ sở chính
+	• Nhà máy sản xuất điện khác tỉnh với nơi có trụ sở chính
+    + Đối với tờ khai tháng có kỳ tính thuế từ tháng 12/2020, tờ khai quý có kỳ tính thuế từ quý 4/2020 trở về trước, danh mục ngành nghề bao gồm:
+	• Ngành hàng sản xuất, kinh doanh thông thường
+	• Hoạt động thăm dò, phát triển mỏ và khai thác dầu, khí thiên nhiên
+	• Hoạt động xổ số kiến thiết của các công ty xổ số kiến thiết
+- Cho phép mỗi ngành nghề được phép kê khai 1 tờ khai 01/GTGT của 1 kỳ tính thuế đối với kỳ tính thuế từ tháng 01/2021 trở đi.
+1.2. Cập nhật tờ khai thuế giá trị gia tăng dành cho dự án đầu tư (02/GTGT) 
+- Cập nhật tờ khai tháng có kỳ tính thuế từ tháng 01/2021, tờ khai quý có kỳ tính thuế từ quý 1/2021 trở đi cho phép kê khai nhiều tờ khai có mã dự án đầu tư khác nhau trong cùng 1 kỳ tính thuế.
+- Bổ sung các trường nhập dữ liệu về dự án đầu tư, bắt buộc nhập
+1.3. Cập nhật tờ khai thuế giá trị gia tăng (04/GTGT)
+- Cập nhật tờ khai tháng có kỳ tính thuế từ tháng 01/2021, tờ khai quý có kỳ tính thuế từ quý 1/2021, tờ khai lần phát sinh có kỳ tính thuế từ ngày 01/01/2021, cập nhật các nội dung như sau:
+    + Bổ sung checkbox Hoạt động thu hộ CQNN có thẩm quyền giao tại màn hình kỳ tính thuế
+    + Nếu tích chọn Hoạt động thu hộ CQNN có thẩm quyền giao tại màn hình kỳ tính thuế:
+	• Không cho nhập chỉ tiêu [22], [26]
+	• Tỷ lệ GTGT tại hoạt động kinh doanh khác mặc định là 10%
+    + Nếu không tích chọn Hoạt động thu hộ CQNN có thẩm quyền giao tại màn hình kỳ tính thuế:
+	• Tỷ lệ GTGT tại hoạt động kinh doanh khác mặc định là 2%
+    + Cho phép kê khai đồng thời tờ khai có tích chọn thu hộ và không tích chọn thu hộ trong cùng 1 kỳ tính thuế
+1.4. Cập nhật Tờ khai phí, lệ phí (01/PHLP)
+- Chặn các tiểu mục 2663, 2666, 3003 trên tờ khai 01/PHLP từ kỳ kê khai tháng 01/2021
+1.5. Cập nhật tờ khai quyết toán thuế, lệ phí (02/PHLP)
+- Chặn các tiểu mục 2663, 2666, tiểu mục lệ phí trên tờ khai 02/PHLP từ kỳ kê khai năm 2021
+2. Cập nhật địa bàn hành chính 
+2.1. Cập nhật địa bàn hành chính thuộc tỉnh Bình Định đáp ứng Nghị quyết số 1188/NQ-UBTVQH14
+- Cập nhật xã Cát Tiến thành Thị trấn Cát Tiến thuộc huyện Phù Cát, tỉnh Bình Định
+2.2. Cập nhật địa bàn hành chính thuộc tỉnh Hòa Bình đáp ứng Nghị quyết số 1189/NQ-UBTVQH14
+- Cập nhật xã Sủ Ngòi thành Phường Quỳnh Lâm thuộc Thành phố Hòa Bình, tỉnh Hòa Bình
+- Cập nhật xã Trung Minh thành phường Trung Minh thuộc Thành phố Hòa Bình, tỉnh Hòa Bình
+2.3. Cập nhật địa bàn hành chính thuộc tỉnh Bắc Ninh đáp ứng Nghị quyết số 1191/NQ-UBTVQH14
+- Cập nhật xã Hương Mạc thành phường Hương Mạc thuộc Thị xã Từ Sơn, tỉnh Bắc Ninh
+- Cập nhật xã Phù Chẩn thành phường Phù Chẩn thuộc Thị xã Từ Sơn, tỉnh Bắc Ninh
+- Cập nhật xã Phù Khê thành phường Phù Khê thuộc Thị xã Từ Sơn, tỉnh Bắc Ninh
+- Cập nhật xã Tam Sơn thành phường Tam Sơn thuộc Thị xã Từ Sơn, tỉnh Bắc Ninh
+- Cập nhật xã Tương Giang thành phường Tương Giang thuộc Thị xã Từ Sơn, tỉnh Bắc Ninh
+3. Cập nhật một số nội dung phát sinh
+- Cập nhật thị xã Sa Đéc thành Thành phố Sa Đéc thuộc tỉnh Đồng Tháp

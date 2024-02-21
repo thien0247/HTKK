@@ -1,0 +1,26 @@
+		NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.9.1
+
+1. Tờ khai thuế đối với hoạt động cho thuê tài sản (01/TTS)
+   - Cập nhật in đúng dữ liệu của chỉ tiêu [17] – Mã số thuế trên tờ khai
+2. Tờ khai thuế giá trị gia tăng (04/GTGT)
+   - Cập nhật tổng hợp đúng dữ liệu lên 01/KHBS khi điều chỉnh dữ liệu kê khai trong trường hợp tích chọn “Hoạt động thu hộ CQNN có thẩm quyền giao” 
+3. Tờ khai lệ phí môn bài (01/LPMB) 
+   - Cập nhật chỉ tiêu (4) - Mã số thuế người nộp lệ phí hoặc mã số địa điểm kinh doanh tại mục "1.Người nộp lệ phí môn bài" mặc định theo chỉ tiêu [05] – Mã số thuế trên tờ khai
+   - Cập nhật tổng hợp đúng dữ liệu lên 01/KHBS trong trường hợp làm thay đổi tiểu mục hạch toán
+4. Tờ khai quyết toán lợi nhuận sau thuế còn lại sau khi trích lập các quỹ phải nộp ngân sách nhà nước của doanh nghiệp do nhà nước nắm giữ 100% vốn điều lệ (01/QT-LNCL)
+   - Cập nhật tổng hợp đúng dữ liệu lên mục Số thuế phải nộp lên phụ lục phân bổ điều chỉnh tăng/giảm
+5. Tờ khai thuế giá trị gia tăng (01/GTGT)
+   - Cập nhật không cảnh báo vàng nếu Chỉ tiêu [33] = [32] * 10% - (tổng cột (6) trên PL giảm thuế)
+   - Cập nhật hiển thị mặc định STT thứ “1” đối với nhà máy đầu tiên trên phụ lục 01-2/GTGT
+6. Tờ khai danh sách số hiệu tài khoản thanh toán (01/DS-TK)
+   - Cập nhật bỏ kiểm tra ràng buộc trùng số tài khoản giữa các dòng
+7. Tờ khai thuế thu nhập cá nhân (04/CNV-TNCN)
+   - Cập nhật ràng buộc:
+      +	Mở cho phép sửa chỉ tiêu [45] trên tờ khai, kiểm tra phải = tổng [40] trên phụ lục, sai khác cảnh báo đỏ.
+      +	Mở cho phép sửa chỉ tiêu [41] trên tờ khai, kiểm tra phải = tổng [19] trên phụ lục, sai khác cảnh báo đỏ
+8. Tờ khai thuế đối với hộ kinh doanh, cá nhân kinh doanh (01/CNKD)
+   - Cập nhật cho phép kê khai thuế tiêu thụ đặc biệt đối với dịch vụ
+9. Tờ khai thuế tài nguyên (02/TAIN)
+   - Cập nhật không cho phép kê khai loại tài nguyên “Khoáng sản kim loại” (là tài nguyên có thuế suất = 0)
+10. Tờ khai thuế bảo vệ môi trường (01/TBVMT)
+   - Cập nhật tính đúng số thuế phải nộp theo từng tỉnh trên phụ lục 01-2/TBVMT

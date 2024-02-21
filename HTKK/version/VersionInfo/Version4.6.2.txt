@@ -1,0 +1,25 @@
+		NỘI DUNG NÂNG CẤP HTKK 4.6.2
+
+1. Miễn thuế đối với hộ kinh doanh, cá nhân kinh doanh
+- Bổ sung Bản xác định số thuế được miễn theo Nghị quyết số 406/NQ-UBTVQH15 (01-1/PL-CNKD) đính kèm tờ khai 01/CNKD, 01/XSBHĐC, 01/BC-SDHĐ-CNKD, 01/TTS, 01/TKN-XSBHĐC, cụ thể như sau:
+	+ Tờ khai 01/CNKD:
+		• Đối với tờ khai Quý: Quý 3/2021, 4/2021
+		• Đối với tờ khai lần phát sinh: Từ ngày 01/07/2021 đến 31/12/2021
+		• Đối với tờ khai tháng: Từ tháng 07/2021 đến tháng 12/21021
+	+ Tờ khai 01/XSBHĐC:
+		• Đối với tờ khai Quý: Quý 3/2021, 4/2021
+		• Đối với tờ khai tháng: Từ tháng 07/2021 đến tháng 12/21021
+	+ Tờ khai 01/BC-SDHĐ-CNKD:
+		• Đối với tờ khai: Quý 3/2021, 4/2021
+	+ Tờ khai 01/TTS:
+		• Đối với tờ khai năm: Năm 2021
+		• Đối với tờ khai lần phát sinh: có thời gian kỳ thanh toán liên quan ngày 01/07/2021 đến 31/12/2021
+	+ Tờ khai 01/TKN-XSBHĐC:
+		• Đối với tờ khai năm: Năm 2021
+2. Giảm thuế giá trị gia tăng
+- Bổ sung Phụ lục giảm thuế giá trị gia tăng theo Nghị quyết số 406/NQ-UBTVQH15 đính kèm tờ khai 01/GTGT, 04/GTGT, cụ thể như sau:
+	+ Tờ khai 01/GTGT: Chi áp dụng cho “Hoạt động sản xuất kinh doanh thông thường” với kỳ tính thuế tháng 11/2021, tháng 12/2021 và quý 4/2021
+	+ Tờ khai 04/GTGT: Chỉ áp dụng khi NNT khai trực tiếp, không áp dụng cho “Hoạt động thu hộ cơ quan nhà nước có thẩm quyền giao” với kỳ tính thuế
+		• Đối với tờ khai tháng: tháng 11/2021, 12/2021
+		• Đối với tờ khai quý: quý 4/2021
+		• Đối với tờ khai lần phát sinh: Từ ngày 01/11/2021 đến ngày 31/12/2021

@@ -1,0 +1,14 @@
+		NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.8.6
+
+1. Tờ khai thuế tiêu thụ đặc biệt (01/TTĐB):
+   -  Tại phụ lục 01-2/TTĐB: 
+      +  Mục I: Cập nhật cho phép sửa cột (14) – Thuế TTĐB chưa được khấu trừ chuyển kỳ sau 
+      +  Mục II: Cập nhật cho phép sửa cột (13) – Thuế TTĐB chưa được khấu trừ chuyển kỳ sau
+2. Tờ khai dữ liệu hóa đơn, chứng từ hàng hóa, dịch vụ bán ra (03/DL-HDDT)
+   -  Bổ sung 2 loại hóa đơn là “Hóa đơn GTGT (Đặc thù theo quy định của BTC)”, “Hóa đơn bán hàng (Đặc thù theo quy định của BTC)”. Nếu chọn 1 trong 2 loại hóa đơn trên thì:
+      +  Ký hiệu mẫu hóa đơn: Nhập tối đa 12 ký tự, không kiểm tra định dạng
+      +  Ký hiệu hóa đơn: Người nộp thuế nhập, không kiểm tra định dạng
+3. Tờ khai quyết toán thuế thu nhập cá nhân (02/QTT-TNCN)
+   -  Cập nhật bắt buộc nhập chỉ tiêu [07] – Quận/ Huyện, chỉ tiêu [08] – Tỉnh/Thành phố
+4. Văn bản đề nghị xử lý số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa (01/ĐNXLNT)
+   -  Cập nhật chỉ tiêu (8) – Số tiền phải nộp tại mục II.1: Cho phép nhập số >=0

@@ -1,0 +1,10 @@
+			NỘI DUNG NÂNG CẤP HTKK 4.4.5
+
+1. Cập nhật tên Chi cục Thuế khu vực thuộc Cục Thuế tỉnh Cao Bằng
+- Cập nhật Huyện Trùng Khánh - Chi cục khu vực Trùng Khánh - Trà Lĩnh (mã 20311) thành Chi cục Thuế huyện Trùng Khánh
+- Cập nhật Huyện Nguyên Bình - Chi cục Thuế khu vực Nguyên Bình - Thông Nông (mã 20313) thành Chi cục Thuế huyện Nguyên Bình
+- Cập nhật Huyện Quảng Uyên - Chi cục Thuế khu vực Phục Hòa - Quảng Uyên (mã 20317) thành Chi cục Thuế huyện Quảng Hòa
+2. Cập nhật danh mục phí, lệ phí
+- Cập nhật hiệu lực đến của Tiểu mục 3853: "Tiền thuê cơ sở hạ tầng đường sắt” là ngày 31/12/2019
+3. Cập nhật chức năng in tờ khai thuế đối với cá nhân kinh doanh (01/CNKD)
+- Cập nhật lỗi hiển thị khung “Mẫu số: 01/CNKD”

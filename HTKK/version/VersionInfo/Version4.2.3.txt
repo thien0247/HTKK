@@ -1,0 +1,11 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.2.3
+1.	Nâng cấp ứng dụng bổ sung mẫu biểu và các yêu cầu nghiệp vụ phát sinh:
+- Nâng cấp ứng dụng bổ sung chức năng lập Thông báo điều chỉnh thông tin tại thông báo phát hành biên lai theo Thông tư số 303/2016/TT-BTC: Hỗ trợ nhập, sửa, xóa, in, kết xuất XML, kết xuất Excel, tải thông báo từ XML, tra cứu hướng dẫn lập từng chỉ tiêu.
+- Nâng cấp ứng dụng bổ sung chức năng lập Bảng kê biên lai chưa sử dụng của cơ quan thu phí, lệ phí chuyển địa điểm khác địa bàn cơ quan thuế quản lý theo Thông tư số 303/2016/TT-BTC: Hỗ trợ nhập, sửa, xóa, in, kết xuất XML, kết xuất Excel, tải bảng kê từ XML, tra cứu hướng dẫn lập từng chỉ tiêu.
+- Nâng cấp chức năng lập các tờ khai Biên lai phí, lệ phí:
+    + Cập nhật ngày lập báo cáo tại màn hình kê khai mặc định là ngày hiện tại, không cho sửa
+    + Đối với ký hiệu biên lai kết thúc bằng ký hiệu “E” số liên bắt buộc bằng 0. Đối với ký hiệu biên lai kết thúc bằng “T” hoặc “P” số liên phải từ 1 đến 9.
+    + Cập nhật ràng buộc không cho nhập ký hiệu biên lai “E” đối với các kỳ tính thuế nhỏ hơn 01/01/2017
+- Nâng cấp chức năng đăng ký danh mục thuế tài nguyên: Cập nhật bổ sung danh mục tài nguyên theo Quyết định của UBND tỉnh.
+2.	Cập nhật lỗi của ứng dụng HTKK phiên bản 4.2.2
+- Chức năng Kết xuất XML tờ khai thuế nhà thầu nước ngoài (01/NTNN): Cập nhật sửa lỗi kết xuất XML trong trường hợp nhập dữ liệu tại cột (1) – Nội dung có chứa ký tự “&”

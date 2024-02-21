@@ -1,0 +1,10 @@
+  NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.6.7
+ 
+1. Tờ khai đăng ký thuế tổng hợp của cá nhân có thu nhập từ tiền công, tiền lương:
+- Cập nhật đối với trường hợp thay đổi thông tin đăng ký thuế thì không bắt buộc nhập “Loại giấy tờ tùy thân”.
+2. Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước 
+- Cập nhật xử lý khi NNT nộp đề nghị hoàn kết xuất từ ứng dụng HTKK nhận được cảnh báo “Loại thuế không tồn tại”
+3. Tờ khai thuế nhà thầu nước ngoài (01/NTNN)
+- Cập nhật kiểm tra chỉ tiêu [12] phải nhỏ hơn hoặc bằng giá trị sau khi làm tròn từ số thập phân của giá trị ([10] x [11])
+4. Tờ khai đăng ký thuế tổng hợp người phụ thuộc của cá nhân có thu nhập từ tiền công, tiền lương (20-ĐK-TH-TCT)
+- Cập nhật chức năng tải bảng kê

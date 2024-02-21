@@ -1,0 +1,4 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.8.5
+
+1. Nâng cấp bổ sung Giấy đề nghị gia hạn nộp thuế và tiền thuê đất đáp ứng Nghị định số 34/2022/NĐ-CP
+   - Bổ sung chức năng kê khai mẫu biểu Giấy đề nghị gia hạn nộp thuế và tiền thuê đất

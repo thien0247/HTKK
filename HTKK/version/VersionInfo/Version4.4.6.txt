@@ -1,0 +1,19 @@
+		NỘI DUNG NÂNG CẤP HTKK PHIÊN BẢN 4.4.6
+
+1. Cập nhật danh mục Thuế bảo vệ môi trường
+- Bổ sung 04 hàng hóa chịu thuế bảo vệ môi trường có hiệu lực từ 01/01/2020 như sau:
++ Mã 020206 - Thuế bảo vệ môi trường mặt hàng xăng E5 RON92 (trừ etanol) bán ra trong nước - Đơn vị tính: Lít – Mức thuế: cho phép NSD nhập
++ Mã 020207 - Thuế bảo vệ môi trường mặt hàng dầu mazut bán ra trong nước - Đơn vị tính: Lít – Mức thuế: 2.000
++ Mã 020208 - Thuế bảo vệ môi trường mặt hàng dầu nhờn bán ra trong nước - Đơn vị tính: Lít – Mức thuế: 2.000
++ Mã 020209 - Thuế bảo vệ môi trường mặt hàng dầu nhờn bán ra trong nước - Đơn vị tính: Kg – Mức thuế: 2.000
+- Cập nhật hiệu lực đến cho hàng hóa mã 020204: “Thuế bảo vệ môi trường mặt hàng dầu mazut, dầu mỡ nhờn bán ra trong nước” ngày 30/10/2020
+2. Cập nhật mức giảm trừ gia cảnh đáp ứng Nghị quyết số 954/2020/UBTVQH14
+2.1. Đối với tờ khai thuế thu nhập cá nhân (02/KK-TNCN): Áp dụng từ kỳ tính thuế Quý 3/2020
+- Chỉ tiêu [25]: Mặc định là số tháng * 11.000.000, cho phép người nộp thuế sửa bằng một trong các giá trị: 0; 11.000.000; 22.000.000; 33.000.000
+- Chỉ tiêu [26]: Người nộp thuế nhập giá trị là bội số của 4,4 triệu.
+2.2. Đối với tờ khai quyết toán thuế thu nhập cá nhân (02/QTT-TNCN)
+- Cập nhật mức giảm trừ gia cảnh đối với tờ khai vắt năm từ năm 2019 đến năm 2020: Cập nhật mức giảm trừ mới từ ngày 01/01/2020
++ Cập nhật mức giảm trừ cho bản thân = 11.000.000 VNĐ/người/tháng
++ Cập nhật mức giảm trừ cho người phụ thuộc = 4.400.000 VNĐ/người/tháng
+3. Cập nhật lỗi tải bảng kê 05-1BK-QTT-TNCN
+- Tại chỉ tiêu [14] – Số lượng NPT tính giảm trừ: chỉ cho phép nhập tối đa 2 ký tự.

@@ -1,0 +1,17 @@
+		NỘI DUNG NÂNG CẤP ƯNG DỤNG HTKK 4.7.2
+
+1. Tờ khai thuế tiêu thụ đặc biệt (01/TTĐB)
+- Cập nhật bổ sung chức năng tải bảng kê đối với phụ lục 01-2/TTĐB
+2. Tờ khai thuế đối với hộ kinh doanh, cá nhân kinh doanh (01/CNKD)
+- Cập nhật bổ sung chức năng tải bảng kê đối với phụ lục 01-1/BK-CNKD, 01-2/BK-HĐKD
+3. Tờ khai dữ liệu hóa đơn, chứng từ hàng hóa, dịch vụ bán ra (03/DL-HĐĐT)
+- Cập nhật cho phép người nộp thuế lập nhiều tờ khai 03/DL-HĐĐT trong cùng 1 kỳ tính thuế;
+- Bổ sung mức thuế suất 8%;
+- Cập nhật bỏ 2 loại hóa đơn 03XKNB và 04HGDL.
+4. Tờ khai thuế thu nhập cá nhân (05/KK-TNCN)
+- Cập nhật không bắt cảnh báo đỏ trong trường hợp Tổng cột [10] trên phụ lục 05-1/PBT-KK-TNCN bằng với chỉ tiêu [21] trên tờ khai
+5. Tờ khai thuế giá trị gia tăng dành cho dự án đầu tư (02/GTGT)
+- Cập nhật: Nếu nộp về Cơ quan thuế quản lý thì được nộp cho Chi cục Thuế. Nếu nộp cho nơi có dự án đầu tư khác tỉnh thì nộp cho Cục Thuế
+6. Tờ khai thuế thu nhập cá nhân (06/TNCN)
+- Cập nhật chỉ cho phép kê khai phụ lục 06-1/BK-TNCN đối với kỳ kê khai tháng/quý cuối cùng trong năm.
+

@@ -1,0 +1,10 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.1.0
+
+1. Cập nhật địa bàn hành chính thuộc tỉnh Hà Giang đáp ứng Nghị Quyết số 47/NQ-CP ngày 07/12/2010
+- Đổi tên: Xã Yên Bình (mã 2011811) thành Thị trấn Yên Bình, Huyện Quang Bình, tỉnh Hà Giang
+2. Cập nhật địa bàn hành chính thuộc tỉnh Gia Lai đáp ứng Nghị Định số 104/2002/NĐ-CP ngày 18/12/2002
+- Đổi tên: Xã Ia Ma Rơn (mã 6032015) thành Xã Ia Mrơn, thuộc huyện Huyện IaPa, tỉnh Gia Lai
+3. Nâng cấp tờ khai thuế thu nhập cá nhân – mẫu 06/TNCN (TT80/2021)
+- Cập nhật ứng dụng trong trường hợp tích chọn “Tổ chức khai thay” thì cho phép đồng thời có giá trị MST người nộp thuế (chỉ tiêu [04], [05]) và MST Tổ chức khai thay (chỉ tiêu [12], [13]).
+4. Nâng cấp tờ khai quyết toán phí, lệ phí và các khoản thu khác do cơ quan đại diện nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ở nước ngoài thực hiện thu – mẫu 02/PHLPNG (TT80/2021)
+- Nâng cấp bổ sung chức năng nhận dữ liệu từ bảng kê excel đối với mẫu 02-1/PHLPNG đính kèm tờ khai 02/PHLPNG

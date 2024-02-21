@@ -1,0 +1,8 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.5.6
+
+1. Cập nhật chức năng lập Giấy đề nghị hoàn trả khoản thu NSNN (01/ĐNHT)
+- Đối với Giấy đề nghị hoàn đến kỳ từ tháng 01/2021, quý 1/2021:
+    + Khi lập giấy đề nghị hoàn trả đối với loại hoàn thuế là Hoàn dự án đầu tư thì bắt buộc nhập thông tin dự án đầu tư
+    + Mỗi dự án đầu tư được phép lập 01 giấy đề nghị hoàn trả trong 1 kỳ tính thuế
+2. Cập nhật yêu cầu phát sinh trên tờ khai Quyết toán thuế thu nhập doanh nghiệp (03/TNDN)
+- Đối với tờ khai có kỳ tính thuế năm 2019: Cho phép kê khai phụ lục GDLK theo Nghị định số 20/2017/NĐ-CP hoặc Nghị định số 132/2017/NĐ-CP đính kèm tờ khai 03/TNDN

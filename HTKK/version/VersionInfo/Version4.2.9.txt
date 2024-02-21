@@ -1,0 +1,7 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.2.9
+
+Cập nhật một số yêu cầu phát sinh khi triển khai phiên bản HTKK 4.2.8, cụ thể như sau:
+1.	Cập nhật danh mục thuế tài nguyên
+-	Cập nhật chức năng Đăng ký danh mục thuế tài nguyên, chức năng kê khai các tờ khai 01/TAIN, 02/TAIN, 01/CNKD: Cập nhật danh mục thuế tài nguyên theo Công văn số 1611/BCT-CNNg ngày 25/2/2016 và Công văn số 15285/BTC-TCT ngày 17/12/2019.
+2.	Chức năng kê khai tờ khai đăng ký thuế tổng hợp có thu nhập từ tiền lương, tiền công thông qua cơ quan chi trả thu nhập (05-ĐK-TH-TCT)
+-	Cập nhật bổ sung Nơi cấp là “Cục cảnh sát quản lý hành chính về trật tự xã hội” khi chọn Loại giấy tờ là “Thẻ CCCD”.

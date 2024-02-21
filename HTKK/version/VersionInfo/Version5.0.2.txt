@@ -1,0 +1,21 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.0.2 
+
+1. Tờ khai quyết toán lợi nhuận sau thuế còn lại sau khi trích lập các quỹ phải nộp ngân sách nhà nước của doanh nghiệp do nhà nước nắm giữ 100% vốn điều lệ - mẫu 01/QT-LCNL (TT 80/2021)
+	- Cập nhật đưa số thuế phải nộp của trụ sở chính khi điều chỉnh thay đổi trên phụ lục 01-1/QT-LNCL lên 01/KHBS
+2. Tờ khai thuế đối với hộ kinh doanh, cá nhân kinh doanh – mẫu 01/CNKD (TT 40/2021)
+	- Cập nhật kết xuất đúng dữ liệu Từ ngày, đến ngày đối với tờ khai kỳ quý có thông tin Từ tháng không phải là tháng đầu tiên của quý, Đến tháng không phải là tháng cuối cùng của quý
+3. Tờ khai thuế thu nhập cá nhân – mẫu 06/TNCN (TT 80/2021)
+	- Cập nhật chỉ hiển thị 1 dòng thay đổi của cùng 1 thông tin điều chỉnh đối với phụ lục 06-1/BK-TNCN lên 01-1/KHBS
+4. Tờ khai quyết toán thuế thu nhập cá nhân – mẫu 02/QTT-TNCN (TT 80/2021)
+	- Cập nhật trong trường hợp quyết toán 12 tháng liên tục khác năm dương lịch thì ứng dụng tự động hiển thị đúng thông tin Đến tháng (dựa vào thông tin Từ tháng mà NNT đã nhập)
+5. Tờ khai thuế đối với hoạt động cho thuê tài sản – mẫu 01/TTS (TT 40/2021)
+	- Cập nhật bổ sung chức năng tải bảng kê đối với phụ lục 01-2/BK-TTS
+6. Tờ khai quyết toán thuế thu nhập doanh nghiệp – mẫu 03/TNDN (TT 80/2021)
+	- Cập nhật tại PL GDLK_01 theo NĐ 132, tại mục IV đối với các chỉ tiêu “Tỷ suất lợi nhuận sử dụng xác định giá giao dịch liên kết” cho phép nhập 3 chữ số phần nguyên, các chỉ tiêu cụ thể như sau:
+		+ 1. Dành cho NNT thuộc các ngành sản xuất, thương mại, dịch vụ: Chỉ tiêu [17a]
+		+ 2. Dành cho NNT thuộc các ngành ngân hàng, tín dụng: Chỉ tiêu [18a] 
+		+ 3. Dành cho NNT là các công ty chứng khoán: Chỉ tiêu [15a]
+7. Tờ khai thuế giá trị gia tăng – mẫu 01/GTGT (TT 80/2021)
+	- Cập nhật không kiểm tra ràng buộc chỉ tiêu “Thế GTGT của hàng hóa, dịch vụ mua vào được khấu trừ kỳ này [25]” phải <= chỉ tiêu “Giá trị và thuế giá trị gia tăng của hàng hóa, dịch vụ mua vào [24]” đối với tờ khai có kỳ kê khai tháng 12 hoặc quý 4 của năm.
+8. Báo cáo tình hình tài chính – mẫu B01a-DNN (TT133/2016)
+	- Cập nhật hiển thị đủ thông tin tên “Người nộp thuế” trên màn hình kê khai Báo cáo tình hình tài chính

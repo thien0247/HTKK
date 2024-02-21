@@ -1,0 +1,26 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.1.3
+
+1. Nâng cấp bổ sung các mẫu biểu đáp ứng Thông tư số 57/2022/TT-BTC
+Nâng cấp ứng dụng bổ sung các mẫu biểu tờ khai, gồm:
+	- Tờ khai số thu từ cổ phần hóa doanh nghiệp, đơn vị sự nghiệp công lập (mẫu 01/CPH)
+	- Tờ khai quyết toán số thu từ cổ phần hóa doanh nghiệp, đơn vị sự nghiệp công lập (mẫu 02/QT-CPH)
+	- Tờ khai số thu từ chuyển nhượng vốn nhà nước, thu từ chuyển nhượng quyền mua cổ phần và thu từ chuyển nhượng quyền góp vốn nhà nước tại doanh nghiệp (mẫu 01/CNV)
+	- Tờ khai quyết toán số thu từ chuyển nhượng vốn nhà nước, thu từ chuyển nhượng quyền mua cổ phần và thu từ chuyển nhượng quyền góp vốn nhà nước tại doanh nghiệp (mẫu 02/QT-CNV)
+	- Tờ khai quyết toán số thu từ các hình thức sắp xếp, chuyển đổi khác (mẫu 02/QT-SXCDK)
+	- Tờ khai số thu từ chênh lệch vốn chủ sở hữu lớn hơn vốn điều lệ tại doanh nghiệp (mẫu 01/CLVCSH-VDL)
+2. Nâng cấp các tờ khai dầu khí cho phép kê khai 2 tờ khai khác đơn vị tiền trong cùng 1 kỳ (1 tờ khai theo VNĐ, 1 tờ khai theo USD)
+Nâng cấp các tờ khai dầu khí của Thông tư số 80/2021/TT-BTC trong cùng 1 kỳ sẽ cho phép kê khai 2 tờ khai khác đơn vị tiền (1 tờ khai theo VNĐ, 1 tờ khai theo USD), gồm:
+	- Tờ khai thuế tài nguyên tạm tính đối với dầu khí (mẫu 01/TAIN-DK)
+	- Tờ khai thuế thu nhập doanh nghiệp tạm tính đối với dầu khí (mẫu 01/TNDN-DK)
+	- Tờ khai tạm tính tiền lãi dầu, khí nước chủ nhà (mẫu 01/LNCN-PSC)
+	- Tờ khai quyết toán thuế tài nguyên đối với dầu khí (mẫu 02/TAIN-DK)
+	- Tờ khai quyết toán thuế thu nhập doanh nghiệp đối với dầu khí (mẫu 02/TNDN-DK)
+	- Tờ khai quyết toán tiền lãi dầu, khí nước chủ nhà (mẫu 02/LNCN-PSC)
+3. Nâng cấp Tờ khai thuế GTGT dành cho dự án đầu tư – mẫu 02/GTGT (TT156/2013) 
+	- Cập nhật cho phép kết xuất đối với các tờ khai có kỳ trước tháng 01/2021 và trước quý 1/2021.
+4. Nâng cấp Tờ khai thuế thu nhập cá nhân – mẫu 05/KK-TNCN (TT80/2021) 
+	- Cập nhật in đúng dữ liệu chỉ tiêu [07] Quận/huyện khi chọn thông tin là Huyện Đắk R'Lấp.
+5. Nâng cấp Tờ khai phí bảo vệ môi trường – mẫu 01/PBVMT (TT80/2021) 
+	- Cập nhật tổng hợp đúng dữ liệu lên 01/KHBS khi thay đổi chỉ tiêu [9] số phí phải nộp trên tờ khai.
+6. Nâng cấp Tờ khai thuế giá trị gia tăng – mẫu 01/GTGT (TT80/2021)
+	- Cập nhật tổng hợp đúng dữ liệu lên 01-1/KHBS khi không thay đổi giá trị trên PL 101/2023/QH15.

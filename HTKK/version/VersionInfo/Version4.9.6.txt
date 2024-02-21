@@ -1,0 +1,27 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.9.6 
+
+1. Cập nhật bổ sung phụ lục phiếu tổng hợp doanh thu đáp ứng Thông tư số 146/2017/TT-BTC
+    - Đối với tờ khai Thuế tiêu thụ đặc biệt mẫu số 01/TTĐB (TT 195/2015): Bổ sung phụ lục Phiếu Tổng hợp doanh thu đính kèm tờ khai khi chọn ngành nghề là “Ngành hàng sản xuất, kinh doanh thông thường”
+    - Đối với tờ khai Thuế tiêu thụ đặc biệt mẫu số 01/TTĐB (TT 80/2021): Bổ sung ngành nghề “Hoạt động sản xuất kinh doanh thông thường bao gồm casino”, bắt buộc đính kèm phụ lục Phiếu Tổng hợp doanh thu nếu chọn ngành nghề này
+2. Tờ khai thuế nhà thầu nước ngoài mẫu số 01/NTNN (TT 80/2021)
+    - Cập nhật kiểm tra ràng buộc: “Chỉ tiêu [12] phải nhỏ hơn hoặc bằng giá trị làm tròn của chỉ tiêu ([10] x [11])”
+3. Tờ khai đăng ký thuế tổng hợp người phụ thuộc của cá nhân có thu nhập từ tiền lương, tiền công
+    - Cho phép hoàn thành và kết xuất tờ khai khi nhập <Ngày cấp> bằng <Ngày sinh>
+4. Tờ khai thuế đối với hoạt động cho thuê tài sản mẫu số 01/TTS (TT 40/2021)
+    - Cập nhật ứng dụng kết xuất đúng giá trị chỉ tiêu [22] – Số tháng cho thuê của hợp đồng tại phụ lục 01-2/BK-TTS
+5. Cập nhật danh mục thuế tiêu thụ đặc biệt 
+    - Bổ sung vào danh mục đối với nhóm hàng hóa “Xe ô tô chạy điện bằng pin” (Mã 10404075) hiệu lực từ ngày 01/03/2022 đến ngày 28/02/2027 như sau:
+	+ Loại chở người từ 9 chỗ trở xuống nhập khẩu bán ra trong nước (Mã 104040755): thuế suất 3%
+	+ Loại chở người từ 10 đến dưới 16 chỗ  nhập khẩu bán ra trong nước (Mã 104040756): thuế suất 2%
+	+ Loại chở người từ 16 đến dưới 24 chỗ nhập khẩu bán ra trong nước (Mã 104040757): thuế suất 1%
+	+ Loại thiết kế vừa chở người, vừa chở hàng nhập khẩu bán ra trong nước (Mã 104040758): thuế suất 2%
+    - Cập nhật thuế suất đối với nhóm hàng hóa “Xe ô tô chạy điện bằng pin” (Mã 10404075) từ ngày 01/03/2027 như sau:
+	+ Loại chở người từ 9 chỗ trở xuống (Mã 104040751): thuế suất 11%
+	+ Loại chở người từ 10 đến dưới 16 chỗ (Mã 104040752): thuế suất 7%
+	+ Loại chở người từ 16 đến dưới 24 chỗ (Mã 104040753): thuế suất 4%
+	+ Loại thiết kế vừa chở người, vừa chở hàng (Mã 104040754): thuất suất 7%
+	+ Loại chở người từ 9 chỗ trở xuống nhập khẩu bán ra trong nước (Mã 104040755): thuế suất 11%
+	+ Loại chở người từ 10 đến dưới 16 chỗ  nhập khẩu bán ra trong nước (Mã 104040756): thuế suất 7%
+	+ Loại chở người từ 16 đến dưới 24 chỗ nhập khẩu bán ra trong nước (Mã 104040757): thuế suất 4%
+	+ Loại thiết kế vừa chở người, vừa chở hàng nhập khẩu bán ra trong nước (Mã 104040758): thuế suất 7%
+

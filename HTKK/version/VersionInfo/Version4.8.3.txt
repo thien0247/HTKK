@@ -1,0 +1,13 @@
+   		NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.8.3
+
+1. Tờ khai quyết toán thuế thu nhập cá nhân (02/QTT-TNCN)
+	- Cập nhật nguyên tắc tính Số tăng/giảm phải nộp hạch toán = chênh lệch chỉ tiêu ([32]- [34] - [36] + [37] - [40] - [41] - [43])
+2. Tờ khai thuế thu nhập cá nhân (06/TNCN)
+	- Cập nhật tổng hợp đúng các chỉ tiêu [25], [28], [31], [34], [37], [40] trên tờ khai bổ sung là loại chỉ tiêu phải nộp
+3. Tờ khai quyết toán thuế thu nhập cá nhân (05/QTT-TNCN)
+	- Cập nhật hiển thị đúng dữ liệu cột (7) – Điều chỉnh tăng/giảm nghĩa vụ thuế trên phụ lục 01-1/KHBS khi mở lại tờ khai bổ sung 05/QTT-TNCN
+4. Tờ khai quyết toán lợi nhuận sau thuế còn lại (01/QT-LNCL)
+	- Cập nhật bắt buộc nhập Địa bàn nơi có hoạt động kinh doanh và Cơ quan thuế quản lý địa bàn nhận phân bổ trên phụ lục 01-1/QT-LNCL
+5. Tờ khai quyết toán thuế nhà thầu (02/NTNN)
+	- Cập nhật chức năng kết xuất tờ khai có “Kỳ kê khai” là năm quyết toán lấy theo năm của “Đến ngày” kết thúc hợp đồng.
+

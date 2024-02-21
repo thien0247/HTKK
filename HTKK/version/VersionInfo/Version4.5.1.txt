@@ -1,0 +1,30 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.5.1
+
+1. Cập nhật địa bàn hành chính các tỉnh An Giang, Bình Dương, Thanh Hóa 
+1.1. Cập nhật địa bàn hành chính tỉnh An Giang đáp ứng Nghị quyết số 1107/NQ-UBTVQH14 ngày 09/12/2020
+- Cập nhật Xã Vĩnh Thạnh Trung thành Thị trấn Vĩnh Thạnh Trung, huyện Châu Phú, tỉnh An Giang
+- Cập nhật Xã Cô Tô thành Thị trấn Cô Tô, huyện Huyện Tri Tôn, tỉnh An Giang
+- Cập nhật Xã Vĩnh Bình thành Thị trấn Vĩnh Bình, Huyện Châu Thành, tỉnh An Giang
+1.2. Cập nhật địa bàn hành chính tỉnh Thanh Hóa đáp ứng Nghị quyết số 1108/NQ-UBTVQH14 ngày 09/12/2020
+- Cập nhật Xã Quảng Phú thành Phường Quảng Phú, Thành phố Thanh Hóa, tỉnh Thanh Hóa
+- Cập nhật Xã Quảng Đông thành Phường Quảng Đông, Thành phố Thanh Hóa, tỉnh Thanh Hóa
+- Cập nhật Xã Quảng Thịnh thành Phường Quảng Thịnh, Thành phố Thanh Hóa, tỉnh Thanh Hóa
+- Cập nhật Xã Quảng Cát thành Phường Quảng Cát, Thành phố Thanh Hóa, tỉnh Thanh Hóa
+- Cập nhật Xã Thiệu Khánh thành Phường Thiệu Khánh, Thành phố Thanh Hóa, tỉnh Thanh Hóa
+- Cập nhật Xã Thiệu Dương thành Phường Thiệu Dương, Thành phố Thanh Hóa, tỉnh Thanh Hóa
+- Cập nhật Xã Đông Tân thành Phường Đông Tân, Thành phố Thanh Hóa, tỉnh Thanh Hóa
+- Cập nhật Xã Đông Lĩnh thành Phường Đông Lĩnh, Thành phố Thanh Hóa, tỉnh Thanh Hóa
+- Cập nhật Xã Long Anh thành Phường Long Anh, Thành phố Thanh Hóa, tỉnh Thanh Hóa
+1.3. Cập nhật địa bàn hành chính tỉnh Bình Dương đáp ứng Nghị Quyết số 1110/NQ-UBTVQH14 ngày 09/12/2020
+- Cập nhật Xã Tân Bình thành Thị trấn Tân Bình, Huyện Bắc Tân Uyên, tỉnh Bình Dương
+2. Cập nhật lỗi bảng kê 01/BK-TTS đính kèm tờ khai 01/TTS 
+- Cập nhật lỗi sau khi sửa giá trị của chỉ tiêu [20] trên bảng kê 01/BK-TTS và nhấn ghi, ứng dụng phải lưu lại giá trị được sửa.
+3. Cập nhật lỗi chọn địa bàn hành chính thuộc Quận 4, Quận 12 - Thành phố Hồ Chí Minh 
+- Cập nhật sửa lỗi trên tờ khai đăng ký thuế tổng hợp cho cá nhân có thu nhập từ tiền công, tiền lương thông qua cơ quan chi trả thu nhập (05-ĐK-TH-TCT) và tờ khai Đăng ký người phụ thuộc giảm trừ gia cảnh: Khi chọn địa bàn Phường/Xã thuộc Quận 4, Quận 12 - Thành phố Hồ Chí Minh phải hiển thị giá trị được chọn.
+4. Cập nhật Tờ khai quyết toán thuế TNDN (03/TNDN) 
+- Cập nhật lỗi không kết xuất thành công tờ khai 03/TNDN với kỳ tính thuế 2019 có đính kèm phụ lục giao dịch liên kết theo Nghị định 20/2017/NĐ-CP.
+- Cập nhật yêu cầu cho phép sửa chỉ tiêu [12] trên tờ khai 03/TNDN
+5. Cập nhật lỗi hiển thị danh mục tài nguyên trên tờ khai quyết toán thuế tài nguyên (02/TAIN)
+- Cập nhật hiển thị danh mục tài nguyên đối với tài nguyên II301 thuộc kỳ tính thuế 2020 với MST kê khai thuộc CQT tỉnh Quảng Ninh: Hiển thị đủ 2 dòng tài nguyên II301 tương ứng với 2 bảng giá có hiệu lực trong năm 2020 theo Quyết định số 15/2019/QĐ-UBND có giá là 161.000, theo Quyết định số 38/2020/QĐ-UBND có giá là 63.000
+6. Cập nhật chức năng đăng ký danh mục phí, lệ phí
+- Cập nhật hiển thị danh mục phí, lệ phí trên tờ khai 01/PHLP, 02/PHLP tương ứng với các loại phí, lệ phí đã chọn tại chức năng đăng ký danh mục phí, lệ phí.

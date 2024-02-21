@@ -1,0 +1,14 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.9.2 
+
+1. Tờ khai lệ phí (01/LP)
+- Cập nhật đúng mã Loại lệ phí “Lệ phí đi qua vùng đất, vùng biển (không bao gồm lệ phí hàng hóa phương tiện quá cảnh)” khi kết xuất XML.
+2. Bảng kê chứng từ khấu trừ thuế TNCN
+- Bổ sung chức năng tải bảng kê đối với Phụ lục Bảng kê sử dụng chứng từ khấu trừ thuế thu nhập cá nhân theo Thông tư số 37/2010/TT-BTC.
+3. Tờ khai thuế giá trị gia tăng (01/GTGT)
+- Cập nhật kiểm tra cảnh báo đỏ khi thiếu mã địa bàn ở bộ chỉ tiêu [11]-Địa chỉ nơi có hoạt động sản xuất kinh doanh khác tỉnh nơi đóng trụ sở chính.
+4. Tờ khai thuế giá trị gia tăng kinh doanh ngoại tỉnh (05/GTGT)
+- Cập nhật kiểm tra ràng buộc Cơ quan thuế nộp tờ khai phải khác tỉnh với trụ sở chính.
+5. Tờ khai đăng ký thuế (05-ĐK-TH-TCT, 20-ĐK-TH-TCT) 
+- Cập nhật kiểm tra nếu phường/xã không thuộc quận huyện hoặc quận huyện không thuộc tỉnh/Thành phố  tương ứng thì  cảnh báo đỏ.
+- Cập nhật nếu chọn tỉnh là "Bạc Liêu" thì danh mục Quận/Huyện hiển thị giá trị tương ứng.
+

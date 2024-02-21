@@ -1,0 +1,9 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.3.9
+
+	Nâng cấp chức năng kê khai tờ khai “Gia hạn nộp thuế và tiền thuê đất” đáp ứng 03 yêu cầu nghiệp vụ phát sinh của Vụ Kê khai và Kế toán thuế:
+-	Không bắt buộc nhập “Doanh thu” của doanh nghiệp khi tích chọn mục a hoặc mục b tại chỉ tiêu [08] – phần I.
+-	Đối với chỉ tiêu khu đất thuê tại chỉ tiêu [07]: Ứng dụng hỗ trợ tự động hiển thị Tỉnh/Thành phố, Quận/Huyện khi chọn Cơ quan Thuế:
++	Nếu chọn CQT quản lý là Cục Thuế thì ứng dụng hiển thị “Tỉnh/Thành phố” tương ứng với CQT đã chọn (không cho sửa), cho phép chọn “Quận/Huyện” trong danh sách các huyện thuộc Tỉnh/Thành phố đó
++	Nếu chọn CQT quản lý là Chi cục Thuế thì ứng dụng hiển thị “Tỉnh/Thành phố” và “Quận/Huyện” tương ứng với CQT đã chọn, không cho sửa.
+-	Khi tích chọn mục a hoặc b tại mục I – chỉ tiêu [08]: Chỉ cho chọn 1 trong 3 lĩnh vực hoạt động trong danh mục.
+

@@ -1,0 +1,15 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.8.9
+
+1. Cập nhật địa bàn hành chính trực thuộc tỉnh Bắc Giang đáp ứng Nghị quyết số 510/NQ-UBTVQH15 ngày 12/05/2022
+	- Cập nhật xã Phương Sơn thành Thị trấn Phương Sơn, Huyện Lục Nam, tỉnh Bắc Giang
+	- Cập nhật Xã Bắc Lý thành Thị trấn Bắc Lý, Huyện Hiệp Hoà, tỉnh Bắc Giang
+2. Tờ khai thuế thu nhập cá nhân (04/ĐTV-TNCN)
+	- Bổ sung chức năng tải bảng kê đối với phụ lục bảng kê chi tiết (04-1/ĐTV-TNCN)
+3. Tờ khai thuế Giá trị gia tăng (01/GTGT)
+	- Cập nhật bỏ điều kiện kiểm tra ràng buộc [24] <= [23], [25] <= [24]. Bổ sung kiểm tra ràng buộc |24|<=|23|, |25|<=|24|
+4. Tờ khai quyết toán thuế thu nhập doanh nghiệp (03/TNDN)
+	- Cập nhật phụ lục 03-8/TNDN: Đối với tờ khai nộp về Cục Thuế Doanh nghiệp lớn, nếu chọn loại chỉ tiêu là “Tỉnh nơi đóng trụ sở chính” thì ứng dụng hiển thị mặc định Cột 6 - “Cơ quan thuế quản lý” là “Cục Thuế Doanh nghiệp lớn”
+5. Tờ khai thuế tiêu thụ đặc biệt (01/TTĐB)
+	- Cập nhật khi chọn Hàng hóa, dịch vụ trong danh mục tại III.Hàng hóa thuộc trường hợp không phải chịu thuế TTĐB thì ứng dụng không cảnh báo đỏ.
+6. Tờ khai thuế tài nguyên tạm tính đối với dầu khí (01/TAIN-DK)
+	- Cập nhật trường hợp kê khai tổng cột (5) – Số thuế phát sinh phải nộp = chỉ tiêu [09] – Số thuế phải nộp thì ứng dụng không cảnh báo đỏ.

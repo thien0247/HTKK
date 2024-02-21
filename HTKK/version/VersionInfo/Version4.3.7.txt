@@ -1,0 +1,21 @@
+	NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.3.7
+1.	Nâng cấp cập nhật địa bàn hành chính tỉnh Đắk Lắk
+-	Cập nhật tên địa bàn hành chính thuộc Huyện Ea H'Leo:
+	+	Cập nhật xã Cư Amung thành xã Cư A Mung
+	+	Cập nhật xã Dlê Yang thành xã Dliê Yang
+	+	Cập nhật xã Ea H-leo thành xã Ea H'Leo
+	+	Cập nhật xã Ea Khal thành xã Ea Khăl
+	-	Cập nhật tên địa bàn hành chính thuộc Huyện Krông Búk:
+	+	Cập nhật xã Cư Kpô thành xã Chứ Kbô
+	+	Cập nhật xã Pơng Đrang thành xã Pơng Drang
+2.	Nâng cấp chặn không cho nhập thông tin đối với các chỉ tiêu miễn giảm trong khu kinh tế đối với tờ khai 01/CNKD, 01/TTS, 02/KK-TNCN đáp ứng Nghị định 82/2018/NĐ-CP
+-	Chỉ tiêu tại các Tờ khai:
+	+	Tờ khai 01/CNKD là chỉ tiêu [35], [36]; bảng kê 01-1/BK-CNKD là chỉ tiêu[12], [15]
+	+	Tờ khai 01/TTS là chỉ tiêu [32], [33];
+	+	Tờ khai 02/KK-TNCN là chỉ tiêu [32], [33]
+	-	Về kỳ tính thuế:
+	+	Tờ khai năm: Từ kỳ 2019
+	+	Tờ khai quý: Từ kỳ quý 4/2018
+	+	Tờ khai tháng, Tờ khai từng lần phát sinh: Từ kỳ tháng 8/2018
+3.	Nâng cấp chức năng kê khai tờ khai quyết toán phí bảo vệ môi trường (02/BVMT) và tờ khai thuế đối với cá nhân kinh doanh (01/CNKD)
+-	Đối với tờ khai có kỳ tính thuế năm 2019, ứng dụng chỉ cho phép chọn các loại phí bảo vệ môi trường trong danh mục đáp ứng Nghị định số 164/2016/NĐ-CP ngày 24/12/2016.

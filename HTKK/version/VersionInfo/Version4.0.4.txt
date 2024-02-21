@@ -1,0 +1,14 @@
+﻿THÔNG BÁO NỘI DUNG NÂNG CẤP HTKK 4.0.4
+
+1.	Nâng cấp ứng dụng cập nhật một số chức năng kê khai tờ khai trên ứng dụng, cụ thể:
+-	Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước:
+	+	Bổ sung thông tin của Lý do đề nghị hoàn trả trong file XML kết xuất từ ứng dụng
+	+	Cập nhật hiển thị thông tin Cục thuế/Chi cục Thuế gửi đến trên Giấy đề nghị hoàn
+-	Báo cáo tình hình sử dụng hóa đơn:Bổ sung điều kiện bắt buộc nhập trường thông tin Cơ quan thuế chuyển đến (trong trường hợp chuyển địa điểm) trên mẫu 3.12 (Kỳ báo cáo cuối cùng) đính kèm mẫu BC26/AC
+-	Tờ khai Quyết toán thuế thu nhập cá nhân (mẫu 05/QTT-TNCN): Cập nhật không cho phép in/kết xuất tờ khai trong trường hợp tổ chức không phát sinh trả thu nhập vì không phải kê khai quyết toán thuế thu nhập cá nhân trong trường hợp này.
+-	Nâng cấp danh mục một số địa bàn hành chính thay đổi tên tại mục Thông tin chung
+2.	Cập nhật một số lỗi trong giai đoạn triển khai thí điểm, bao gồm:
+-	Cập nhật chức năng Tổng hợp lên KHBS khi lập Tờ khai thuế GTGT (mẫu 01/GTGT) điều chỉnh, bổ sung.
+-	Cập nhật phiên bản trên màn hình chính của ứng dụng sau khi cài đặt phiên bản mới mà không gỡ ứng dụng./.
+
+

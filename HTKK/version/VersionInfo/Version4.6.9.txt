@@ -1,0 +1,19 @@
+   				NỘI DUNG NẦNG CẤP HTKK 4.6.9 
+
+1. Nâng cấp các mẫu biểu tờ khai bổ sung đáp ứng Thông tư số 80/2021/TT-BTC, có hiệu lực từ ngày 01/01/2022, bao gồm:
+Các mẫu biểu tờ khai bổ sung theo Thông tư số 80/2021/TT-BTC áp dụng cho các kỳ tính thuế từ 01/01/2022, bao gồm:
+- Tờ khai thuế giá trị gia tăng mẫu 01/GTGT, 02/GTGT, 03/GTGT, 04/GTGT (kỳ tháng/quý), 05/GTGT (kỳ tháng) (bao gồm cả phụ lục miễn giảm 
+đáp ứng Nghị quyết số 43/2022/QH15 về giảm thuế GTGT từ 10% xuống 8% trong năm 2022)
+- Tờ khai thuế tiêu thụ đặc biệt mẫu 01/TTĐB, 02/TTĐB (kỳ tháng).
+- Tờ khai thuế tài nguyên mẫu 01/TAIN (kỳ tháng).
+- Tờ khai phí bảo vệ môi trường mẫu 01/PBVMT (kỳ tháng/quý).
+- Tờ khai phí, lệ phí mẫu 01/PH, 01/LP (kỳ tháng)
+- Tờ khai thuế nhà thầu nước ngoài mẫu 01/NTNN, 03/NTNN (kỳ tháng).
+- Tờ khai thuế bảo vệ môi trường mẫu 01/TBVMT (kỳ tháng)
+- Tờ khai các khoản thu về đất mẫu 01/SDDNN, 03/SDDNN, 01/TMĐN (kỳ năm).
+- Tờ khai dầu khí mẫu 01/LNCN-PSC, 01/TAIN-DK, 01/TNDN-DK, 01/LNCN-VSP, 01/TK-VSP (kỳ tháng ), 01/BCTL-DK (kỳ năm).
+- Tờ khai nhà cung cấp nước ngoài mẫu 03/NCCNN (kỳ tháng)
+- Tờ khai thuế thu nhập cá nhân mẫu số 04/CNV-TNCN, 04/ĐTV-TNCN 02/KK-TNCN, 05/KK-TNCN, 06/TNCN (kỳ tháng/quý)
+ 
+
+

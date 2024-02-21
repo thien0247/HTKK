@@ -1,0 +1,26 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.4.2
+
+1.	Cập nhật danh mục thuế bảo vệ môi trường đáp ứng Thông tư số 93/2019/TT-BTC
+-	Bổ sung các tiểu mục thuộc mục 2000 như sau:
++	Tiểu mục 2022 “Thuế bảo vệ môi trường mặt hàng xăng (trừ etanol) bán ra trong nước;
++	Tiểu mục 2023 “Thuế bảo vệ môi trường mặt hàng dầu diezel bán ra trong nước”;
++	Tiểu mục 2024 “Thuế bảo vệ môi trường mặt hàng dầu hỏa bán ra trong nước”;
++	Tiểu mục 2025 “Thuế bảo vệ môi trường mặt hàng dầu mazut, dầu mỡ nhờn bán ra trong nước”;
++	Tiểu mục 2026 “Thuế bảo vệ môi trường mặt hàng nhiên liệu bay bán ra trong nước”;
+-	Cập nhật mức thuế bảo vệ môi trường cho tiểu mục thuộc mục 2000 như sau:
++	Cập nhật mức thuế cho tiểu mục 2042 “Nhiên liệu bay nhập khẩu bán ra trong nước” là 0, cho phép NNT tự nhập
+2.	Cập nhật danh mục phí, lệ phí đáp ứng Thông tư số 93/2019/TT-BTC
+-	Sửa đổi tên và bổ sung Tiểu mục thuộc Mục 2300 “Phí thuộc lĩnh vực giao thông vận tải”:
++	Sửa đổi tên tiểu mục 2301 “Phí thuộc lĩnh vực đường bộ (sử dụng đường bộ, sử dụng tạm thời lòng đường, hè phố, sát hạch lái xe)” thành “Phí thuộc lĩnh vực đường bộ (không bao gồm phí sử dụng đường bộ thu qua đầu phương tiện ô tô)”.
++	Sửa đổi tên Tiểu mục 2303 “Phí thuộc lĩnh vực đường biển” thành “Phí thuộc lĩnh vực đường biển (không bao gồm phí bảo đảm hàng hải)”.
++	Bổ sung Tiểu mục 2324 “Phí sử dụng đường bộ thu qua đầu phương tiện ô tô”.
++	 Bổ sung Tiểu mục 2325 “Phí bảo đảm hàng hải.
+-	Bổ sung Tiểu mục thuộc Mục 2650 “Phí thuộc lĩnh vực tài chính, ngân hàng, bảo hiểm:
++	Tiểu mục 2663 “Phí hải quan”.
++	Tiểu mục 2666 “Phí hải quan đối với chuyến bay của nước ngoài đến các Cảng hàng không Việt Nam”.
+-	Sửa đổi tên và bổ sung Tiểu mục thuộc Mục 3000 “Lệ phí quản lý nhà nước đặc biệt về chủ quyền quốc gia”:
++	Sửa đổi tên Tiểu mục 3002 “Lệ phí đi qua vùng đất, vùng biển” thành “Lệ phí đi qua vùng đất, vùng biển (không bao gồm lệ phí hàng hóa phương tiện quá cảnh)”.
++	Bổ sung Tiểu mục 3003 “Lệ phí hàng hóa, phương tiện quá cảnh”.
+3.	Cập nhật nội dung phát sinh của ứng dụng HTKK 4.4.1
+-	Sửa thuế suất của tài nguyên V30302 “Nước thiên nhiên dùng cho mục đích khác (làm mát, vệ sinh công nghiệp, xây dựng, dùng cho sản xuất, chế biến thủy sản, hải sản, nông sản…) – Nước dưới đất (nước ngầm) từ 3% thành 8%.
+

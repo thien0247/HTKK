@@ -1,0 +1,35 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.0.0 
+
+1. Cập nhật mức thuế bảo vệ môi trường đáp ứng Nghị quyết số 30/2022/UBTVQH15
+	- Cập nhật mức thuế có hiệu lực từ ngày 01/01/2023 đến ngày 31/12/2023 đối với các hàng hóa sau:
+		+ Thuế bảo vệ môi trường mặt hàng xăng (trừ etanol) bán ra trong nước (Mã 020201): 2.000 (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng dầu diezel bán ra trong nước (Mã 020202): 1.000  (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng dầu hỏa bán ra trong nước (Mã 020203): 600 (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng nhiên liệu bay bán ra trong nước (Mã 020205): 1.000 (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng xăng E5 RON92 (trừ etanol) bán ra trong nước (Mã 020206): 2.000 (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng dầu mazut bán ra trong nước (Mã 020207): 1.000 (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng dầu nhờn bán ra trong nước (Mã 020208): 1.000 (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng mỡ nhờn bán ra trong nước (Mã 020209): 1.000 (đồng)
+	- Cập nhật mức thuế có hiệu lực từ ngày 01/01/2024 đối với các hàng hóa sau:
+		+ Thuế bảo vệ môi trường mặt hàng xăng (trừ etanol) bán ra trong nước (Mã 020201): 4.000 (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng dầu diezel bán ra trong nước (Mã 020202): 2.000  (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng dầu hỏa bán ra trong nước (Mã 020203): 1.000 (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng nhiên liệu bay bán ra trong nước (Mã 020205): 3.000 (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng xăng E5 RON92 (trừ etanol) bán ra trong nước (Mã 020206): 4.000 (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng dầu mazut bán ra trong nước (Mã 020207): 2.000 (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng dầu nhờn bán ra trong nước (Mã 020208): 2.000 (đồng)
+		+ Thuế bảo vệ môi trường mặt hàng mỡ nhờn bán ra trong nước (Mã 020209): 2.000 (đồng)
+2. Tờ khai thuế đối với hoạt động cho thuê tài sản - mẫu 01/TTS (TT40/2021)
+	- Cập nhật cho phép kê khai bảng kê 01-2/BK-TTS trong trường hợp lớn hơn 10 hợp đồng.
+3. Tờ khai lệ phí môn bài – mẫu 01/LPMB (TT80/2021)
+	- Cập nhật chức năng in tờ khai: Hiển thị đủ dữ liệu chỉ tiêu [04] - Người nộp lệ phí và chỉ tiêu [05] – Mã số thuế
+4. Tờ khai thuế giá trị gia tăng – mẫu 01/GTGT (TT80/2021)
+	- Cập nhật chức năng kê khai: Chỉ kiểm tra [31] phải <= [30] nếu nhập [30] là số dương, [33] phải <= [32] nếu nhập [32] là số dương.
+5. Tờ khai quyết toán phí bảo vệ môi trường – mẫu 02/PBVMT (TT80/2021)
+	- Cập nhật tờ khai bổ sung tổng hợp đúng dữ liệu điều chỉnh lên 01-1/KHBS và 01/KHBS
+6. Tờ khai thuế tài nguyên – mẫu 01/TAIN (TT80/2021)
+	- Cập nhật tờ khai bổ sung tổng hợp đúng dữ liệu điều chỉnh lên 01-1/KHBS và 01/KHBS
+7. Tờ khai đối với hộ kinh doanh, cá nhân kinh doanh – mẫu 01/CNKD (TT40/2021)
+	- Cập nhật nếu tích chọn “Tổ chức, cá nhân khai thuế thay, nộp thuế thay” thì chỉ tiêu [28c] -> [31c] không cho phép sửa
+8. Tờ khai thuế bảo vệ môi trường – mẫu 01/TBVMT (TT80/2021)
+	- Cập nhật cho phép kết xuất XML tờ khai trong trường hợp nhập cột (9) – Sản lượng xăng dầu do doanh nghiệp/ đơn vị phụ thuộc bán ra thuộc đối tượng phải kê khai, tính thuế BVMT.

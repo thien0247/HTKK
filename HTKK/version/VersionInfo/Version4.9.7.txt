@@ -1,0 +1,8 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.9.7
+
+1. Biểu tổng hợp thông tin của thương nhân, tổ chức, cá nhân bán hàng hóa, dịch vụ trên sàn giao dịch TMĐT (01/CCTT-TMĐT)
+   - Cập nhật mẫu biểu 01/CCTT-TMĐT theo Công văn số 4205/TCT-DNNCN ngày 14/11/2022 của Tổng cục Thuế về việc tổ chức triển khai hướng dẫn các tổ chức là chủ sở hữu Sàn giao dịch TMĐT cung cấp thông tin theo quy định tại Nghị định số 91/2022/NĐ-CP: Cho phép nhập (nhập trực tiếp trên màn hình kê khai, tải bảng kê từ file excel, tải tờ khai XML), sửa, xóa, kết xuất XML, kết xuất excel, in tờ khai.
+2. Báo cáo dự kiến sản lượng dầu khí khai thác và tỷ lệ tạm nộp thuế (01/BCTL-DK)
+   - Cập nhật cho phép kê khai Năm = (Năm hiện tại + 1).
+3. Bảng tổng hợp đăng ký người phụ thuộc giảm trừ gia cảnh
+   - Cập nhật ứng dụng không cảnh báo đỏ trong trường hợp đăng ký cấp mã cho người phụ thuộc là người nước ngoài nhập thông tin về địa chỉ nơi đăng ký là “Khác”.

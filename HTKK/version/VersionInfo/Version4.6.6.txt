@@ -1,0 +1,12 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.6.6
+
+1. Nâng cấp Tờ khai Dữ liệu hóa đơn, chứng từ hàng hóa, dịch vụ bán ra (03/DL-HDDT):
+- Bổ sung chức năng tải bảng kê.
+- Mở cho phép nhập âm tại chỉ tiêu (9) Doanh thu chưa có thuế GTGT.
+2. Cập nhật một số nội dung phát sinh 
+2.1. Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước (01/HT)
+- Cập nhật sửa lỗi chức năng kết xuất XML
+2.2. Tờ khai cổ tức, lợi nhuận được chia cho phần vốn nhà nước (01/CTLNĐC)
+- Chỉ tiêu [14] – Số cổ tức, lợi nhuận được chia cho phần vốn nhà nước phải nộp ngân sách nhà nước của công ty cổ phần, công ty trách nhiệm hữu hạn hai thành viên trở lên: mở cho phép sửa trong ngưỡng 100.000 hoặc 0.1% vượt quá cảnh báo đỏ
+2.3. Tờ khai lệ phí môn bài (01/LPMB)
+- Cập nhật chức năng kê khai đối với tờ khai nộp đến Cục thuế Doanh nghiệp lớn: Sửa lỗi không chọn được Quận/Huyện, Tỉnh/Thành phố ở cột (3) – Địa chỉ

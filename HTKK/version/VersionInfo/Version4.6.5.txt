@@ -1,0 +1,17 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.6.5
+
+1. Nâng cấp các mẫu biểu tờ khai theo lần phát sinh đáp ứng Thông tư số 80/2021/TT-BTC, có hiệu lực từ 01/01/2022, bao gồm:
+- Tờ khai thuế giá trị gia tăng mẫu 04/GTGT, 05/GTGT.
+- Tờ khai thuế thu nhập doanh nghiệp mẫu 02/TNDN, 04/TNDN, 05/TNDN, 06/TNDN.
+- Tờ khai thuế tiêu thụ đặc biệt mẫu 01/TTĐB, 02/TTĐB.
+- Tờ khai thuế tài nguyên mẫu 01/TAIN.
+- Tờ khai thuế thu nhập cá nhân mẫu số 04/CNV-TNCN, 04/ĐTV-TNCN, 04/TKQT-TNCN, 04/NNG-TNCN.
+- Tờ khai phí bảo vệ môi trường mẫu 01/PBVMT.
+- Tờ khai thuế nhà thầu nước ngoài mẫu 01/NTNN, 03/NTNN.
+- Tờ khai dầu khí mẫu 03/TNDN-DK, 01/LNCN-PSC, 01/TAIN-DK, 01/TNDN-DK, 01/TNS-DK, 01-1/TNDN-VSP, 01/LNCN-VSP, 01/TK-VSP, 01-1/PTHU-VSP.
+- Tờ khai cổ tức, lợi nhuận được chia cho phần vốn nhà nước tại công ty cổ phần, công ty trách nhiệm hữu hạn hai thành viên trở lên mẫu 01/CTLNĐC.
+- Tờ khai lệ phí môn bài mẫu 01/LPMB.
+- Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước mẫu số 01/HT
+- Cập nhật hết hiệu lực các tờ khai mẫu cũ trước hiệu lực của Thông tư số 80/2021/TT-BTC: Tổ chức, cá nhân kê khai tờ khai tháng/quý/năm và lần phát sinh của kỳ tính thuế từ 01/01/2022 trở đi và kê khai tờ khai quyết toán năm của kỳ tính thuế năm 2021 trở đi thực hiện kê khai theo mẫu biểu của Thông tư số 80/2021/TT-BTC; 
+	
+

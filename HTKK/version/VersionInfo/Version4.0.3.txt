@@ -1,0 +1,5 @@
+﻿NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.0.3
+
+- Cập nhật chức năng kê khai và tra cứu báo cáo về biên lai thu tiền phí, lệ phí theo Thông tư số 303/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính hướng dẫn việc in, phát hành, quản lý và sử dụng các loại chứng từ thu tiền phí, lệ phí thuộc ngân sách nhà nước bao gồm: Thông báo phát hành biên lai; Báo cáo tình hình sử dụng biên lai thu phí, lệ phí; Thông báo kết quả hủy biên lai thu tiền phí, lệ phí; Báo cáo mất cháy hỏng biên lai; Báo cáo nhận in, cung cấp phần mềm tự in biên lai.
+- Bổ sung chức năng kê khai và tra cứu Bảng kê sử dụng chứng từ khấu trừ thuế TNCN ban hành kèm Thông tư số 37/2010/TT-BTC ngày 18/3/2010 của Bộ Tài chính hướng dẫn về việc phát hành, sử dụng, quản lý chứng từ khấu trừ thuế thu nhập cá nhân tự in trên máy tính.
+- Cập nhật sửa lỗi liên quan đến việc khai bổ sung, điều chỉnh tờ khai quyết toán thuế TNDN (mẫu 03/TNDN) và tờ khai thuế Tiêu thụ đặc biệt (mẫu 01/TTĐB).

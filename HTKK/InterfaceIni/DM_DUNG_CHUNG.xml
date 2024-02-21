@@ -1,0 +1,620 @@
+﻿<!-- chú ý: Không được có dấu cách ở đầu và cuối -->
+
+<Sections Version="463">
+	<Section Dynamic="0" MaxRows="0">
+		<Items>
+			<Map Controltype="DC_01">
+				<Item Value ="01###Nơi có văn phòng điều hành nhà máy"/>
+				<Item Value ="02###Nơi có nhà máy thủy điện (khác nơi có văn phòng điều hành)"/>				
+			</Map>
+			<Map Controltype="DC_02">
+				<Item Value ="0###0 %"/>
+				<Item Value ="5###5 %"/>
+				<Item Value ="10###10 %"/>				
+			</Map>
+			
+			<Map Controltype="DC_03">
+				<Item Value ="VND###Đồng Việt Nam"/>
+				<Item Value ="USD###Đô la Mỹ"/>
+			</Map>
+			<Map Controltype="DC_04">
+				<Item Value ="AF###Afghanistan"/>
+				<Item Value ="IE###Ailen (Ireland)"/>
+				<Item Value ="DZ###Algeria"/>
+				<Item Value ="VI###Amer.Virgin Is."/>
+				<Item Value ="AL###An Ba Ni"/>
+				<Item Value ="IN###Ấn Độ"/>
+				<Item Value ="AD###Andorran"/>
+				<Item Value ="AO###Angola"/>
+				<Item Value ="AI###Anguilla"/>
+				<Item Value ="GB###Anh"/>
+				<Item Value ="AQ###Antarctica"/>
+				<Item Value ="AG###Antigua/Barbuda"/>
+				<Item Value ="AT###Áo"/>
+				<Item Value ="AR###Argentina"/>
+				<Item Value ="AM###Armenia"/>
+				<Item Value ="AW###Aruba"/>
+				<Item Value ="AZ###Azerbaijan"/>
+				<Item Value ="PL###Ba Lan"/>
+				<Item Value ="KP###Bắc Triều Tiên"/>
+				<Item Value ="BS###Bahamas"/>
+				<Item Value ="BH###Bahrain"/>
+				<Item Value ="FQ###Baker Island"/>
+				<Item Value ="BD###Bangladesh"/>
+				<Item Value ="BB###Barbados"/>
+				<Item Value ="BY###Belarus"/>
+				<Item Value ="BZ###Belize"/>
+				<Item Value ="BJ###Benin"/>
+				<Item Value ="BM###Bermuda"/>
+				<Item Value ="BT###Bhutan"/>
+				<Item Value ="BE###Bỉ"/>
+				<Item Value ="BL###Blue"/>
+				<Item Value ="PT###Bồ Đào Nha"/>
+				<Item Value ="BO###Bolivia"/>
+				<Item Value ="BA###Bosnia-Herz."/>
+				<Item Value ="BW###Botswana"/>
+				<Item Value ="BV###Bouvet Islands"/>
+				<Item Value ="BR###Brazil"/>
+				<Item Value ="IO###Brit.Ind.Oc.Ter"/>
+				<Item Value ="VG###Brit.Virgin Is."/>
+				<Item Value ="BN###Brunei Daruss."/>
+				<Item Value ="BG###Bun Ga Ri"/>
+				<Item Value ="BF###Burkina Faso"/>
+				<Item Value ="MM###Burma"/>
+				<Item Value ="BI###Burundi"/>
+				<Item Value ="CA###Ca na da"/>
+				<Item Value ="CM###Cameroon"/>
+				<Item Value ="KH###Cămpuchia"/>
+				<Item Value ="CV###Cape Verde"/>
+				<Item Value ="CF###CAR"/>
+				<Item Value ="KY###Cayman Islands"/>
+				<Item Value ="TD###Chad"/>
+				<Item Value ="CP###Channel Islands"/>
+				<Item Value ="CL###Chile"/>
+				<Item Value ="KT###Christmas Islan"/>
+				<Item Value ="CX###Christmas Islnd"/>
+				<Item Value ="IP###Clipperton Isla"/>
+				<Item Value ="CC###Coconut Islands"/>
+				<Item Value ="CO###Columbia"/>
+				<Item Value ="KM###Comoros"/>
+				<Item Value ="CK###Cook Islands"/>
+				<Item Value ="VP###Corsica"/>
+				<Item Value ="CR###Costa Rica"/>
+				<Item Value ="CI###Cote d'Ivoire"/>
+				<Item Value ="CU###Cuba"/>
+				<Item Value ="CY###Cyprus"/>
+				<Item Value ="TW###Đài Loan"/>
+				<Item Value ="DK###Đan Mạch"/>
+				<Item Value ="CD###Dem. Rep. Congo"/>
+				<Item Value ="DJ###Djibouti"/>
+				<Item Value ="DM###Dominica"/>
+				<Item Value ="DO###Dominican Rep."/>
+				<Item Value ="DE###Đức"/>
+				<Item Value ="AN###Dutch Antilles"/>
+				<Item Value ="TL###East Timor"/>
+				<Item Value ="TP###East Timor"/>
+				<Item Value ="EC###Ecuador"/>
+				<Item Value ="EG###Egypt"/>
+				<Item Value ="SV###El Salvador"/>
+				<Item Value ="GQ###Equatorial Guin"/>
+				<Item Value ="ER###Eritrea"/>
+				<Item Value ="EE###Estonia"/>
+				<Item Value ="ET###Ethiopia"/>
+				<Item Value ="EU###European Union"/>
+				<Item Value ="FK###Falkland Islnds"/>
+				<Item Value ="FO###Faroe Islands"/>
+				<Item Value ="FJ###Fiji"/>
+				<Item Value ="FI###Finland"/>
+				<Item Value ="FX###France, Metropo"/>
+				<Item Value ="PF###Frenc.Polynesia"/>
+				<Item Value ="GF###French Guayana"/>
+				<Item Value ="TF###French S.Territ"/>
+				<Item Value ="FS###French Southern"/>
+				<Item Value ="GA###Gabon"/>
+				<Item Value ="GM###Gambia"/>
+				<Item Value ="GZ###Gaza Strip"/>
+				<Item Value ="GE###Georgia"/>
+				<Item Value ="GH###Ghana"/>
+				<Item Value ="GI###Gibraltar"/>
+				<Item Value ="GO###Glorioso Island"/>
+				<Item Value ="GR###Greece"/>
+				<Item Value ="GL###Greenland"/>
+				<Item Value ="GD###Grenada"/>
+				<Item Value ="GP###Guadeloupe"/>
+				<Item Value ="GU###Guam"/>
+				<Item Value ="GT###Guatemala"/>
+				<Item Value ="GK###Guernsey"/>
+				<Item Value ="GN###Guinea"/>
+				<Item Value ="GW###Guinea-Bissau"/>
+				<Item Value ="GY###Guyana"/>
+				<Item Value ="NL###Hà Lan"/>
+				<Item Value ="HT###Haiti"/>
+				<Item Value ="KR###Hàn Quốc"/>
+				<Item Value ="HM###Heard/McDon.Isl"/>
+				<Item Value ="US###Hoa kỳ"/>
+				<Item Value ="HN###Honduras"/>
+				<Item Value ="HK###Hong Kong"/>
+				<Item Value ="HQ###Howland Island"/>
+				<Item Value ="HU###Hung ga ri"/>
+				<Item Value ="IT###I ta li a"/>
+				<Item Value ="IS###Iceland"/>
+				<Item Value ="ID###Indonesia"/>
+				<Item Value ="IR###Iran"/>
+				<Item Value ="IQ###Iraq"/>
+				<Item Value ="IM###Isle of Man"/>
+				<Item Value ="IL###Israel"/>
+				<Item Value ="JM###Jamaica"/>
+				<Item Value ="JN###Jan Mayen"/>
+				<Item Value ="JA###Japan   Ryukyu"/>
+				<Item Value ="DQ###Jarvis Island"/>
+				<Item Value ="JE###Jersey"/>
+				<Item Value ="JQ###Johnston Atoll"/>
+				<Item Value ="JO###Jordan"/>
+				<Item Value ="JU###Juan de Nova Is"/>
+				<Item Value ="KZ###Kazakhstan"/>
+				<Item Value ="KE###Kenya"/>
+				<Item Value ="KQ###Kingman Reef"/>
+				<Item Value ="KI###Kiribati"/>
+				<Item Value ="KW###Kuwait"/>
+				<Item Value ="KG###Kyrgyzstan"/>
+				<Item Value ="LA###Lào"/>
+				<Item Value ="LV###Latvia"/>
+				<Item Value ="LB###Lebanon"/>
+				<Item Value ="LS###Lesotho"/>
+				<Item Value ="LR###Liberia"/>
+				<Item Value ="LY###LiBi"/>
+				<Item Value ="LI###Liechtenstein"/>
+				<Item Value ="LT###Lithuania"/>
+				<Item Value ="LU###Luxembourg"/>
+				<Item Value ="MO###Macau"/>
+				<Item Value ="MK###Macedonia"/>
+				<Item Value ="MG###Madagascar"/>
+				<Item Value ="MW###Malawi"/>
+				<Item Value ="MY###Malaysia"/>
+				<Item Value ="MV###Maldives"/>
+				<Item Value ="ML###Mali"/>
+				<Item Value ="MT###Malta"/>
+				<Item Value ="MH###Marshall Islnds"/>
+				<Item Value ="MQ###Martinique"/>
+				<Item Value ="MR###Mauretania"/>
+				<Item Value ="MU###Mauritius"/>
+				<Item Value ="YT###Mayotte"/>
+				<Item Value ="MX###Mexico"/>
+				<Item Value ="FM###Micronesia"/>
+				<Item Value ="UM###Minor Outl.Isl."/>
+				<Item Value ="MD###Moldova"/>
+				<Item Value ="MC###Monaco"/>
+				<Item Value ="MN###Mông Cổ"/>
+				<Item Value ="ME###Montenegro"/>
+				<Item Value ="MS###Montserrat"/>
+				<Item Value ="MA###Morocco"/>
+				<Item Value ="MZ###Mozambique"/>
+				<Item Value ="MP###N.Mariana Islnd"/>
+				<Item Value ="HR###Nam Tư"/>
+				<Item Value ="NA###Namibia"/>
+				<Item Value ="NT###NATO"/>
+				<Item Value ="NR###Nauru"/>
+				<Item Value ="BQ###Navassa Island"/>
+				<Item Value ="NP###Nepal"/>
+				<Item Value ="NC###New Caledonia"/>
+				<Item Value ="NZ###New Zealand"/>
+				<Item Value ="RU###Nga"/>
+				<Item Value ="JP###Nhật"/>
+				<Item Value ="NI###Nicaragua"/>
+				<Item Value ="NE###Niger"/>
+				<Item Value ="NG###Nigeria"/>
+				<Item Value ="NU###Niue"/>
+				<Item Value ="NF###Norfolk Islands"/>
+				<Item Value ="NO###Norway"/>
+				<Item Value ="OM###Oman"/>
+				<Item Value ="OR###Orange"/>
+				<Item Value ="OC###Other Country"/>
+				<Item Value ="PK###Pakistan"/>
+				<Item Value ="PW###Palau"/>
+				<Item Value ="PS###Palestine"/>
+				<Item Value ="LQ###Palmyra Atoll"/>
+				<Item Value ="PA###Panama"/>
+				<Item Value ="PG###Pap. New Guinea"/>
+				<Item Value ="PY###Paraguay"/>
+				<Item Value ="PE###Peru"/>
+				<Item Value ="FR###Pháp"/>
+				<Item Value ="PH###Philippin"/>
+				<Item Value ="PN###Pitcairn Islnds"/>
+				<Item Value ="PR###Puerto Rico"/>
+				<Item Value ="QA###Qatar"/>
+				<Item Value ="CG###Rep.of Congo"/>
+				<Item Value ="RE###Reunion"/>
+				<Item Value ="RO###Ru Ma Ni"/>
+				<Item Value ="RW###Rwanda"/>
+				<Item Value ="GS###S. Sandwich Ins"/>
+				<Item Value ="ST###S.Tome,Principe"/>
+				<Item Value ="SH###Saint Helena"/>
+				<Item Value ="WS###Samoa"/>
+				<Item Value ="AS###Samoa, America"/>
+				<Item Value ="SM###San Marino"/>
+				<Item Value ="SA###Saudi Arabia"/>
+				<Item Value ="CZ###Séc"/>
+				<Item Value ="SN###Senegal"/>
+				<Item Value ="RS###Serbia"/>
+				<Item Value ="YU###Serbia Mtnegro"/>
+				<Item Value ="CS###Serbia/Monten."/>
+				<Item Value ="SC###Seychelles"/>
+				<Item Value ="SL###Sierra Leone"/>
+				<Item Value ="SG###Singapore"/>
+				<Item Value ="SK###Slovakia"/>
+				<Item Value ="SI###Slovenia"/>
+				<Item Value ="SB###Solomon Islands"/>
+				<Item Value ="SO###Somalia"/>
+				<Item Value ="ZA###South Africa"/>
+				<Item Value ="LK###Sri Lanka"/>
+				<Item Value ="KN###St Kitts Nevis"/>
+				<Item Value ="LC###St. Lucia"/>
+				<Item Value ="VC###St. Vincent"/>
+				<Item Value ="PM###St.Pier,Miquel."/>
+				<Item Value ="SD###Sudan"/>
+				<Item Value ="SR###Suriname"/>
+				<Item Value ="SJ###Svalbard"/>
+				<Item Value ="SZ###Swaziland"/>
+				<Item Value ="CH###Switzerland"/>
+				<Item Value ="SY###Syria"/>
+				<Item Value ="TJ###Tajikistan"/>
+				<Item Value ="TZ###Tanzania"/>
+				<Item Value ="ES###Tây Ban Nha"/>
+				<Item Value ="TH###Thái Lan"/>
+				<Item Value ="SE###Thụy Điển"/>
+				<Item Value ="TG###Togo"/>
+				<Item Value ="TK###Tokelau Islands"/>
+				<Item Value ="TO###Tonga"/>
+				<Item Value ="TT###Trinidad,Tobago"/>
+				<Item Value ="TE###Tromelin Island"/>
+				<Item Value ="CN###Trung Quốc"/>
+				<Item Value ="TN###Tunisia"/>
+				<Item Value ="TR###Turkey"/>
+				<Item Value ="TM###Turkmenistan"/>
+				<Item Value ="TC###Turksh Caicosin"/>
+				<Item Value ="TV###Tuvalu"/>
+				<Item Value ="AU###Úc"/>
+				<Item Value ="UG###Uganda"/>
+				<Item Value ="UA###Ukraine"/>
+				<Item Value ="UE###United Arab Emi"/>
+				<Item Value ="UN###United Nations"/>
+				<Item Value ="UC###Unknown Country"/>
+				<Item Value ="UY###Uruguay"/>
+				<Item Value ="AE###Utd.Arab Emir."/>
+				<Item Value ="UZ###Uzbekistan"/>
+				<Item Value ="VU###Vanuatu"/>
+				<Item Value ="VA###Vatican City"/>
+				<Item Value ="VE###Venezuela"/>			
+				<Item Value ="WF###Wallis,Futuna"/>
+				<Item Value ="EH###West Sahara"/>
+				<Item Value ="YE###Yemen"/>
+				<Item Value ="ZM###Zambia"/>
+				<Item Value ="ZW###Zimbabwe"/>
+			</Map>
+			<Map Controltype="DC_05">
+				<Item Value ="01###Loại hình 1"/>
+				<Item Value ="02###Loại hình 2"/>
+			</Map>
+			
+			<Map Controltype="DC_06">
+				<Item Value ="01###Đơn vị phụ thuộc khác tỉnh với nơi NNT đóng trụ sở chính"/>
+				<Item Value ="02###Địa điểm kinh doanh khác tỉnh với nơi NNT đóng trụ sở chính"/>
+				<Item Value ="03###Nơi không có đơn vị phụ thuộc/địa điểm kinh doanh"/>				
+			</Map>
+			<Map Controltype="DC_07">
+				<Item Value ="01###Đơn vị phụ thuộc khác tỉnh với nơi NNT đóng trụ sở chính"/>
+				<Item Value ="02###Địa điểm kinh doanh khác tỉnh với nơi NNT đóng trụ sở chính"/>		
+			</Map>
+			<Map Controltype="DC_08">
+				<Item Value ="01###Thu nhập từ trồng trọt, chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản, sản xuất muối của hợp tác xã;"/>
+				<Item Value ="02###Thu nhập của hợp tác xã hoạt động trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp ở địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn;"/>
+				<Item Value ="03###Thu nhập của doanh nghiệp từ trồng trọt, chăn nuôi, nuôi trồng, chế biến nông sản, thủy sản ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn;"/>
+				<Item Value ="04###Thu nhập từ hoạt động đánh bắt hải sản."/>
+				<Item Value ="05###Thu nhập từ việc thực hiện dịch vụ kỹ thuật trực tiếp phục vụ nông nghiệp."/>
+				<Item Value ="06###Thu nhập từ việc thực hiện hợp đồng nghiên cứu khoa học và phát triển công nghệ, sản phẩm đang trong thời kỳ sản xuất thử nghiệm, sản phẩm làm ra từ công nghệ mới lần đầu áp dụng tại Việt Nam."/>
+				<Item Value ="07###Thu nhập từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ của doanh nghiệp có từ 30% số lao động bình quân trong năm trở lên là người khuyết tật, người sau cai nghiện, người nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS) và có số lao động bình quân trong năm từ hai mươi người trở lên, không bao gồm doanh nghiệp hoạt động trong lĩnh vực tài chính, kinh doanh bất động sản."/>
+				<Item Value ="08###Thu nhập từ hoạt động dạy nghề dành riêng cho người dân tộc thiểu số, người tàn tật, trẻ em có hoàn cảnh đặc biệt khó khăn, đối tượng tệ nạn xã hội."/>
+				<Item Value ="09###Thu nhập được chia từ hoạt động góp vốn, liên doanh, liên kết với doanh nghiệp trong nước, sau khi đã nộp thuế thu nhập doanh nghiệp."/>
+				<Item Value ="10###Khoản tài trợ nhận được để sử dụng cho hoạt động giáo dục, nghiên cứu khoa học, văn hóa, nghệ thuật, từ thiện, nhân đạo và hoạt động xã hội khác tại Việt Nam."/>
+				<Item Value ="11###Thu nhập từ chuyển nhượng chứng chỉ giảm phát thải (CERs) của doanh nghiệp được cấp chứng chỉ giảm phát thải."/>
+				<Item Value ="12###Thu nhập từ thực hiện nhiệm vụ Nhà nước giao của Ngân hàng Phát triển Việt Nam trong hoạt động tín dụng đầu tư phát triển, tín dụng xuất khẩu;"/>
+				<Item Value ="13###Thu nhập từ hoạt động tín dụng cho người nghèo và các đối tượng chính sách khác của Ngân hàng Chính sách xã hội;"/>
+				<Item Value ="14###Thu nhập của các quỹ tài chính nhà nước và quỹ khác của Nhà nước hoạt động không vì mục tiêu lợi nhuận theo quy định của pháp luật;"/>
+				<Item Value ="15###Thu nhập của tổ chức mà Nhà nước sở hữu 100% vốn điều lệ do Chính phủ thành lập để xử lý nợ xấu của các tổ chức tín dụng Việt Nam."/>
+				<Item Value ="16###Phần thu nhập không chia của cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục - đào tạo, y tế và lĩnh vực xã hội hóa khác để lại để đầu tư phát triển cơ sở đó."/>
+				<Item Value ="17###Phần thu nhập hình thành tài sản không chia của hợp tác xã"/>
+				<Item Value ="18###Thu nhập từ chuyển giao công nghệ thuộc lĩnh vực ưu tiên chuyển giao cho tổ chức, cá nhân ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn."/>
+		
+			</Map>
+			<Map Controltype="DC_09">
+				<Item Value ="01###Tỉnh nơi đóng trụ sở chính"/>
+				<Item Value ="02###Cơ sở sản xuất khác tỉnh (trừ nhà máy thủy điện nằm trên nhiều tỉnh)"/>
+				<Item Value ="03###Cơ sở sản xuất khác tỉnh là nhà máy thủy điện nằm trên nhiều tỉnh"/>		
+			</Map>
+			<Map Controltype="DC_10">
+				<Item Value ="1052###Hoạt động sản xuất kinh doanh (gồm cả dịch vụ trong lĩnh vực dầu khí)"/>
+				<Item Value ="1056###Hoạt động thăm dò, phát triển mỏ và khai thác dầu, khí thiên nhiên"/>
+				<Item Value ="1099###Khác"/>		
+			</Map>
+			<Map Controltype="DC_11">
+				<Item Value ="01###Nơi đóng trụ sở chính"/>
+				<Item Value ="02###Đơn vị phụ thuộc khác tỉnh với nơi NNT đóng trụ sở chính"/>
+				<Item Value ="03###Địa điểm kinh doanh khác tỉnh với nơi NNT đóng trụ sở chính"/>
+				<Item Value ="04###Nơi không có đơn vị phụ thuộc/địa điểm kinh doanh"/>			
+			</Map>
+			<Map Controltype="DC_12">
+				<Item Value ="50###50 %"/>
+				<Item Value ="100###100 %"/>				
+			</Map>
+			<Map Controltype="DC_13">
+				<Item Value ="0101###Nghiên cứu khoa học và phát triển công nghệ"/>
+				<Item Value ="0102###Ứng dụng công nghệ cao"/>
+				<Item Value ="0103###Ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao"/>
+				<Item Value ="0104###Đầu tư mạo hiểm cho phát triển công nghệ cao"/>
+				<Item Value ="0105###Đầu tư xây dựng - kinh doanh cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao"/>
+				<Item Value ="0106###Doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao"/>
+				<Item Value ="0107###Đầu tư phát triển cơ sở hạ tầng đặc biệt quan trọng của Nhà nước"/>
+				<Item Value ="0108###Sản xuất sản phẩm phần mềm"/>
+				<Item Value ="0109###Sản xuất năng lượng tái tạo, năng lượng sạch, năng lượng từ việc tiêu hủy chất thải"/>
+				<Item Value ="0110###Phát triển công nghệ sinh học"/>
+				<Item Value ="0111###Sản xuất vật liệu composit, các loại vật liệu xây dựng nhẹ, vật liệu quý hiếm"/>
+				<Item Value ="0112###Bảo vệ môi trường"/>
+				<Item Value ="0113###Dự án có quy mô vốn đầu tư tối thiểu sáu nghìn tỷ đồng"/>
+				<Item Value ="0114###Sản xuất sản phẩm công nghiệp hỗ trợ ưu tiên phát triển"/>
+				<Item Value ="0115###Dự án có quy mô vốn đầu tư tối thiểu mười hai nghìn tỷ đồng"/>
+				<Item Value ="0116###Hoạt động xã hội hóa trong lĩnh vực giáo dục - đào tạo, dạy nghề, y tế, văn hóa, thể thao và môi trường"/>
+				<Item Value ="0117###Dự án đầu tư - kinh doanh nhà ở xã hội"/>
+				<Item Value ="0118###Hoạt động báo in, kể cả quảng cáo trên báo in của cơ quan báo chí theo quy định của Luật báo chí; Hoạt động xuất bản của cơ quan xuất bản theo quy định của Luật Xuất bản"/>
+				<Item Value ="0119###Trồng, chăm sóc, bảo vệ rừng"/>
+				<Item Value ="0120###Nuôi trồng, chế biến nông sản, thủy sản ở địa bàn có điều kiện kinh tế - xã hội khó khăn"/>
+				<Item Value ="0121###Nuôi trồng lâm sản ở địa bàn có điều kiện kinh tế - xã hội khó khăn"/>
+				<Item Value ="0122###Sản xuất, nhân và lai tạo giống cây trồng, vật nuôi"/>
+				<Item Value ="0123###Chế biến nông sản, thủy sản"/>
+				<Item Value ="0124###Sản xuất, khai thác và tinh chế muối"/>
+				<Item Value ="0125###Đầu tư bảo quản nông sản sau thu hoạch, bảo quản nông sản, thủy sản và thực phẩm;"/>
+				<Item Value ="0126###Thu nhập của hợp tác xã hoạt động trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp không thuộc địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn"/>
+				<Item Value ="0127###Sản xuất thép cao cấp"/>
+				<Item Value ="0128###Sản xuất sản phẩm tiết kiệm năng lượng"/>
+				<Item Value ="0129###Sản xuất máy móc, thiết bị phục vụ cho sản xuất nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp"/>
+				<Item Value ="0130###Sản xuất thiết bị tưới tiêu"/>
+				<Item Value ="0131###Sản xuất, tinh chế thức ăn gia súc, gia cầm, thủy sản"/>
+				<Item Value ="0132###Phát triển ngành nghề truyền thống."/>
+				<Item Value ="0133###Thu nhập của doanh nghiệp trồng trọt, chăn nuôi, chế biến trong lĩnh vực nông nghiệp và thủy sản không thuộc địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn"/>
+				<Item Value ="0134###Thu nhập của Quỹ tín dụng nhân dân và tổ chức tài chính vi mô."/>
+				<Item Value ="0135###Dự án đầu tư thành lập mới các trung tâm đổi mới sáng tạo, trung tâm nghiên cứu và phát triển; trung tâm đổi mới sáng tạo quốc gia được thành lập theo quyết định của Thủ tướng Chính phủ"/>
+				<Item Value ="0136###Dự án đầu tư thuộc ngành, nghề đặc biệt ưu đãi đầu tư có quy mô vốn đầu tư từ 30.000 tỷ đồng trở lên"/>
+				<Item Value ="0137###Điều kiện ưu đãi khác về lĩnh vực, ngành nghề"/>
+				<Item Value ="0201###Địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn"/>
+				<Item Value ="0202###Địa bàn có điều kiện kinh tế - xã hội khó khăn"/>
+				<Item Value ="0203###Khu kinh tế"/>
+				<Item Value ="0204###Khu công nghệ cao"/>
+				<Item Value ="0205###Khu công nghệ thông tin tập trung"/>
+				<Item Value ="0206###Khu công nghiệp"/>
+				<Item Value ="0207###Điều kiện ưu đãi khác về địa bàn"/>
+
+
+			</Map>
+			<Map Controltype="DC_14">
+				<Item Value ="01###Test 1"/>
+				<Item Value ="02###Test 1"/>
+			</Map>
+			<Map Controltype="DC_15">
+				<Item Value ="01###Nguyên giá tài sản cố định tăng thêm"/>
+				<Item Value ="02###Tỷ trọng nguyên giá tài sản cố định tăng thêm"/>
+				<Item Value ="03###Công suất thiết kế tăng thêm"/>
+			</Map>
+			<Map Controltype="DC_16">
+				<Item Value ="01###Ưu đãi cùng tỉnh"/>
+				<Item Value ="02###Ưu đãi khác tỉnh"/>
+			</Map>
+			<Map Controltype="DC_18">
+				<Item Value ="0.1###0,1 %"/>
+				<Item Value ="1###1 %"/>
+				<Item Value ="2###2 %"/>
+				<Item Value ="5###5 %"/>
+				<Item Value ="10###10 %"/>
+			</Map>
+			<Map Controltype="DC_90">
+				<Item Value ="01###Thùng"/>
+				<Item Value ="02###m3"/>				
+			</Map>
+			<Map Controltype="DC_91">
+				<Item Value ="04###Tấn"/>
+				<Item Value ="05###MMBTU"/>
+				<Item Value ="06###GJ"/>				
+			</Map>	
+			<Map Controltype="DC_92">
+				<Item Value ="07###Thùng/tấn"/>
+				<Item Value ="08###m3/MMBTU"/>
+				<Item Value ="09###m3/GJ"/>				
+			</Map>	
+			<Map Controltype="DC_93">
+				<Item Value ="12###USD/thùng"/>
+				<Item Value ="13###USD/m3"/>
+				<Item Value ="14###VND/thùng"/>	
+				<Item Value ="15###VND/m3"/>			
+			</Map>
+			<Map Controltype="DC_104">
+				<Item Value ="12###USD/thùng"/>
+				<Item Value ="13###USD/m3"/>	
+				<Item Value ="14###VND/thùng"/>	
+				<Item Value ="15###VND/m3"/>					
+			</Map>
+			<Map Controltype="DC_94">
+				<Item Value ="2###2"/>
+				<Item Value ="5###5"/>			
+			</Map>	
+			
+			<Map Controltype="DC_95">
+				<Item Value ="1###Kiểm toán nhà nước"/>
+				<Item Value ="2###Thanh tra tài chính"/>
+				<Item Value ="3###Thanh tra chính phủ"/>
+				<Item Value ="4###Cơ quan có thẩm quyền khác (nếu có)"/>
+				<Item Value ="5###Khác"/>			
+			</Map>
+			
+			<Map Controltype="DC_96">
+				<Item Value ="2###2%"/>
+				<Item Value ="3###3%"/>
+				<Item Value ="5###5%"/>			
+			</Map>
+			
+			<Map Controltype="DC_97">
+				<Item Value ="0,1###0,1%"/>
+				<Item Value ="1###1%"/>
+				<Item Value ="2###2%"/>	
+				<Item Value ="5###5%"/>
+				<Item Value ="10###10%"/>		
+			</Map>
+			<Map Controltype="DC_98">
+				<Item Value ="5###Khoản thu hộ chịu thuế GTGT 5%"/>
+				<Item Value ="10###Khoản thu hộ chịu thuế GTGT 10%"/>					
+			</Map>
+			<Map Controltype="DC_99">
+				<Item Value ="EUR###EUR"/>
+				<Item Value ="GBP###GBP"/>
+				<Item Value ="USD###USD"/>
+				<Item Value ="CHF###CHF"/>
+				<Item Value ="JPY###JPY"/>
+				<Item Value ="CAD###CAD"/>
+				<Item Value ="SGD###SGD"/>
+				<Item Value ="VND###VND"/>
+				<Item Value ="HKD###HKD"/>
+				<Item Value ="THB###THB"/>
+				<Item Value ="SEK###SEK"/>
+				<Item Value ="NOK###NOK"/>
+				<Item Value ="DKK###DKK"/>
+				<Item Value ="AUD###AUD"/>			
+			</Map>
+			<Map Controltype="DC_100">
+				<Item Value ="01###Tên doanh nghiệp trụ sở chính"/>
+				<Item Value ="02###Tên Chi nhánh"/>					
+			</Map>
+			<Map Controltype="DC_101">
+				<Item Value ="01###Trụ sở chính"/>
+				<Item Value ="02###Chi nhánh"/>					
+			</Map>
+			<Map Controltype="DC_102">
+				<Item Value ="01###Đơn vị phụ thuộc"/>
+				<Item Value ="02###Địa điểm kinh doanh"/>	
+				<Item Value ="03###Nơi không có đơn vị phụ thuộc/địa điểm kinh doanh"/>					
+			</Map>
+			<Map Controltype="DC_103">
+				<Item Value="01###CMND"/>			
+				<Item Value="03###Thẻ CCCD"/>
+				<Item Value="02###Hộ chiếu"/>
+				<Item Value="04###Giấy khai sinh"/>
+				<Item Value="05###Khác"/>	
+			</Map>
+			<Map Controltype="DC_105">
+				<Item Value="0.1###0,1 %"/>			
+				<Item Value="1###1 %"/>
+				<Item Value="2###2 %"/>
+				<Item Value="5###5 %"/>
+				<Item Value="10###10 %"/>	
+				
+			</Map>
+			
+			<Map Controltype="DC_106">
+				<Item Value="01###Hợp đồng TBH PI"/>			
+				<Item Value="02###Hợp đồng TBH kỹ thuật"/>
+				
+			</Map>
+			<Map Controltype="DC_107">
+				<Item Value="01###Tên đơn vị phụ thuộc khác tỉnh với nơi NNT đóng trụ sở chính"/>			
+				<Item Value="02###Tên địa điểm kinh doanh khác tỉnh với nơi NNT đóng trụ sở chính"/>
+				<Item Value="03###Nơi không có đơn vị phụ thuộc/địa điểm kinh doanh"/>
+			</Map>
+			<Map Controltype="DC_108">
+				<Item Value ="01###Nơi có văn phòng điều hành nhà máy"/>
+				<Item Value ="02###Nơi có nhà máy thủy điện (khác nơi có văn phòng điều hành)"/>				
+			</Map>
+			<Map Controltype="DC_109">
+				<Item Value ="01###Dự án dầu khí khuyến khích đầu tư"/>
+				<Item Value ="02###Dự án dầu khí không khuyến khích đầu tư"/>				
+			</Map>
+			<Map Controltype="DC_110">
+				<Item Value ="01###Giá trị gia tăng"/>
+				<Item Value ="02###Thu nhập cá nhân"/>				
+			</Map>
+			<Map Controltype="DC_111">
+				<Item Value ="01###Phân phối, cung cấp hàng hóa"/>
+				<Item Value ="02###Dịch vụ, xây dựng không bao thầu nguyên vật liệu"/>		
+				<Item Value ="03###Sản xuất, vận tải, dịch vụ có gắn với hàng hóa, xây dựng có bao thầu nguyên vật liệu"/>		
+				<Item Value ="04###Hoạt động kinh doanh khác"/>						
+			</Map>
+			<Map Controltype="DC_112">
+				<Item Value ="01###Nơi có văn phòng điều hành nhà máy"/>
+				<Item Value ="02###Nơi có lòng hồ thủy điện (khác nơi có văn phòng điều hành nhà máy)"/>				
+			</Map>
+			<Map Controltype="DC_113">
+				<Item Value ="1###Mã số doanh nghiệp"/>
+				<Item Value ="2###Số của giấy tờ chứng minh  việc tổ chức được thành lập theo quy định của pháp luật"/>	
+				<Item Value ="3###CMT"/>
+				<Item Value ="4###Thẻ căn cước"/>
+				<Item Value ="5###Hộ chiếu"/>							
+			</Map>
+			<Map Controltype="DC_114">
+				<Item Value ="01###Tổ chức"/>
+				<Item Value ="02###Cá nhân"/>				
+			</Map>
+			<Map Controltype="DC_115">
+				<Item Value ="01###Tài khoản cung cấp lần đầu"/>
+				<Item Value ="02###Bổ sung thông tin của tài khoản đã cung cấp"/>
+				<Item Value ="03###TK mở mới trong kỳ"/>					
+			</Map>
+			
+			<Map Controltype="DC_116">
+				<Item Value ="842###01/GTGT"/>
+				<Item Value ="844###02/GTGT"/>
+				<Item Value ="846###03/GTGT"/>					
+				<Item Value ="847###04/GTGT"/>					
+			</Map>
+			
+			<Map Controltype="DC_117">
+				<Item Value ="01###Tổ chức VN"/>
+				<Item Value ="02###Cá nhân/hộ kinh doanh VN"/>
+				<Item Value ="03###Tổ chức nước ngoài"/>					
+				<Item Value ="04###Cá nhân/hộ kinh doanh nước ngoài (không cư trú)"/>					
+			</Map>
+			<Map Controltype="DC_118">
+				<Item Value="01###Thẻ CCCD"/>	
+				<Item Value="02###CMND"/>	
+				<Item Value="03###Hộ chiếu"/>
+			</Map>
+			<Map Controltype="DC_119">
+				<Item Value="01###Thêm mới"/>	
+				<Item Value="02###Thay đổi"/>	
+				<Item Value="03###Đóng TK"/>
+				<Item Value="04###Thay thế"/>
+			</Map>
+			<Map Controltype="DC_120">
+				<Item Value ="01###Tổ chức VN"/>
+				<Item Value ="02###Cá nhân/hộ kinh doanh VN"/>			
+			</Map>
+			<Map Controltype="DC_121">
+				<Item Value ="03###Tổ chức nước ngoài"/>					
+				<Item Value ="04###Cá nhân/hộ kinh doanh nước ngoài (không cư trú)"/>					
+			</Map>
+			<Map Controltype="DC_122">
+				<Item Value ="USD###USD"/>
+				<Item Value ="VND###VND"/>
+				<Item Value ="HKD###HKD"/>
+			</Map>
+			
+			<Map Controltype="DC_123">
+				<Item Value ="842###01/GTGT"/>
+				<Item Value ="844###02/GTGT"/>
+				<Item Value ="846###03/GTGT"/>					
+				<Item Value ="847###04/GTGT"/>					
+			</Map>
+			<Map Controltype="DC_124">
+				<Item Value ="1###1"/>
+				<Item Value ="2###2"/>
+				<Item Value ="3###3"/>
+				<Item Value ="5###5"/>			
+			</Map>
+			
+		</Items>
+	</Section>	
+</Sections>

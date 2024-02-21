@@ -1,0 +1,11 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.0.8
+
+1. Nâng cấp giá tính thuế tài nguyên đáp ứng Quyết định số 1062/QĐ-BCT ngày 04/05/2023
+	- Nới độ rộng trường Giá tính thuế đơn vị tài nguyên, từ 2 chữ số sau thập phân thành 4 chữ số thập phân đối với các chỉ tiêu:
+		+ Chỉ tiêu (5) trên tờ khai 01/TAIN (TT80/2021)
+		+ Chỉ tiêu (5) trên tờ khai 02/TAIN (TT80/2021)
+		+ Chỉ tiêu (6) tại mục C.1 – Khai thuế tài nguyên tờ khai 01/CNKD (TT40/2021)
+2. Tờ khai đăng ký thuế tổng hợp của cá nhân có thu nhập từ tiền lương, tiền công (05-ĐK-TH-TCT)
+	- Cập nhật chức năng tải bảng kê hiển thị đủ giá trị Quận/Huyện theo giá trị đã nhập tại file excel
+3. Văn bản đề nghị hủy hồ sơ đề nghị hoàn thuế (01/ĐNHUY)
+	- Cập nhật kết xuất XML thành công tờ khai trong trường hợp kê khai bằng Mã số thuế 13 số

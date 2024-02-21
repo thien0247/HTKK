@@ -1,0 +1,19 @@
+<dmconfig version ="419">
+	<dmcfs>
+		<dmcf type="DANH_MUC_GIA" checkbox="">
+			<start>3</start>
+			<active></active>
+			<cells>
+				<cell col="C" field="id" ctltype="0"/>
+				<cell col="D" field="ma" ctltype="0"/>
+				<cell col="E" field="macha" ctltype="0"/>
+				<cell col="F" field="ten" ctltype="0"/>
+				<cell col="G" field="cqtgia" ctltype="16"/>
+				<cell col="H" field="cqtsoqd" ctltype="0"/>
+				<cell col="I" field="cqtngayqd" ctltype="0"/>
+				<cell col="J" field="cqthltu" ctltype="0"/>
+				<cell col="K" field="cqthlden" ctltype="0"/>
+			</cells>
+		</dmcf>
+	</dmcfs>
+</dmconfig>

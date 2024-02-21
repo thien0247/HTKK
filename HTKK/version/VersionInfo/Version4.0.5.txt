@@ -1,0 +1,17 @@
+﻿NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.0.5
+
+1. Nâng cấp một số chức năng kê khai tờ khai: 
+
+- Tờ khai khấu trừ thuế thu nhập cá nhân (Áp dụng cho tổ chức, cá nhân trả các khoản thu nhập từ tiền lương, tiền công) mẫu 05/KK-TNCN: Cập nhật các chỉ tiêu, bao gồm: chỉ tiêu [21] – Tổng số người lao động, chỉ tiêu [22] – Trong đó: cá nhân cư trú có hợp đồng lao động, chỉ tiêu [24] – Cá nhân cư trú, chỉ tiêu [25] – Cá nhân không cư trú hỗ trợ nhập dạng số tối đa 13 ký tự.
+- Tờ khai quyết toán thuế thu nhập cá nhân (dành cho tổ chức, cá nhận trả thu nhập chịu thuế từ tiền lương, tiền công cho cá nhân) mẫu 05/QTT-TNCN: Cập nhật các chỉ tiêu, bao gồm: chỉ tiêu [21] – Tổng số người lao động, chỉ tiêu [24] – Cá nhân cư trú, chỉ tiêu [26] – Tổng số cá nhân thuộc diện được miễn, giảm thuế theo Hiệp định tránh đánh thuế hai lần hỗ trợ nhập dạng số tối đa 13 ký tự.
+- Tờ khai thuế tiêu thụ đặc biệt mẫu 01/TTĐB: Cập nhật ứng dụng cho phép người nộp thuế có thể kê khai nhiều dòng cho một tên loại hàng hóa nhưng khác đơn vị tính.
+- Tờ khai thuế GTGT dành dự án đầu tư mẫu 02/GTGT: Cập nhật bỏ ràng buộc chỉ tiêu [28a] - Thuế GTGT mua vào của dự án đầu tư (cùng tỉnh, thành phố trực thuộc trung ương) bù trừ với thuế GTGT phải nộp của hoạt động sản xuất kinh doanh cùng kỳ tính thuế phải nhỏ hơn hoặc bằng chỉ tiêu [28] - Tổng số thuế GTGT đầu vào của hàng hóa dịch vụ mua vào.
+
+2. Cập nhật một số lỗi của ứng dụng HTKK phiên bản 4.0.4:
+
+- Chức năng Kê khai Tờ khai phí lệ phí (01/PHLP): Cập nhật hỗ trợ tự động hiển thị tiểu mục tương ứng khi NNT chọn 1 loại phí, lệ phí để kê khai đối với kỳ tính thuế thuộc năm 2018.
+- Chức năng Lập Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước (01/ĐNHT): Cập nhật bỏ điều kiện ràng buộc “Kỳ tính thuế không được vượt quá 15 tháng”. 
+- Chức năng Lập Báo cáo tình hình nhận in hóa đơn (BC01/AC): Cập nhật cho phép kết xuất báo cáo ra file XML với dữ liệu của cột “Tên Tổ chức, cá nhân đặt in/sử dụng phần mềm tự in hóa đơn” có chứa các ký tự đặc biệt: <  > & ‘ ” 
+- Chức năng Lập Thông báo phát hành hóa đơn (TB01/AC): Cập nhật mẫu in bỏ hiển thị thừa Mã số thuế dưới Tên cơ quan thuế tiếp nhận thông báo 
+- Chức năng Kê khai Tờ khai quyết toán thuế TNCN dành cho tổ chức, cá nhận trả thu nhập chịu thuế từ tiền lương, tiền công cho cá nhân mẫu 05/QTT-TNCN: Cập nhật lỗi kết xuất ra file XML với dữ liệu phụ lục 05-1/BK-QTT-TNCN lên đến 87.000 dòng.
+- Chức năng Lập Báo cáo tình hình nhận in biên lai thu phí, lệ phí: Cập nhật kiểm tra khoảng (Từ số - đến số) không được giao nhau trong cùng một loại biên lai thu phí, lệ phí, cùng mẫu số, cùng ký hiệu, cùng MST

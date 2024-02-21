@@ -1,0 +1,16 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.1.6
+
+1.	Chức năng in Bộ báo cáo tài chính năm (TT200/2014/TT-BTC)
+	-	Cập nhật đúng mã số của các chỉ tiêu của Bảng cân đối kế toán:
+			Chi phí sản xuất, kinh doanh dở dang dài hạn – mã số 241
+			Chi phí xây dựng cơ bản dở dang – mã số 242
+	-	Cập nhật đúng vị trí hiển thị tên “Kế toán trưởng” trên Bảng báo cáo kết quả hoạt động sản xuất kinh doanh.
+2.	Chức năng tải bảng kê tờ khai khấu trừ thuế thu nhập cá nhân cho công ty xổ số, bảo hiểm (01/XSBHĐC)
+	-	Cập nhật tự động tính tổng chỉ tiêu [12] khi sử dụng chức năng tải bảng kê trên ứng dụng.
+3.	Chức năng kết xuất XML tờ khai quyết toán thuế thu nhập cá nhân (05/QTT-TNCN)
+	-	Cập nhật chức năng kết xuất XML: không kết xuất dữ liệu Bảng kê 05-2BK/QTT-TNCN có dữ liệu rỗng.
+4.	Chức năng in tờ khai mã vạch Tờ khai quyết toán thuế thu nhập cá nhân (02/QTT-TNCN)
+	-	Cập nhật đúng tên chỉ tiêu “Tổng số thuế đã tạm nộp, đã khấu trừ, đã nộp trong kỳ [36] = [37] + [38] + [39] – [40]”.
+5.	Chức năng kê khai tờ khai thuế tiêu thụ đặc biệt (01/TTĐB)
+	-	Cập nhật bỏ ràng buộc lỗi cảnh bảo đỏ ở dòng tổng cộng cột 8 (chỉ tiêu [I] cộng chỉ tiêu [II]) trên tờ khai 01/TTĐB với cột 7 ở Bảng II trên Phụ lục 01-1/TTĐB)
+

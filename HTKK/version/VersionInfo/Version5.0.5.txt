@@ -1,0 +1,15 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 5.0.5
+
+		Tổng cục Thuế thông báo nâng cấp ứng dụng Hỗ trợ kê khai (HTKK) phiên bản 5.0.5 cập nhật thay đổi một số ràng buộc trên Biểu tổng hợp thông tin của thương nhân, tổ chức, cá nhân bán hàng hóa, dịch vụ trên sàn giao dịch TMĐT (01/CCTT-TMĐT), cụ thể như sau:
+- Cập nhật bỏ loại “Tờ khai bổ sung”, các sàn TMĐT kê khai theo 2 loại tờ khai là “Tờ khai lần đầu” hoặc “Tờ khai thay thế”
+- Sửa tên chỉ tiêu "Mã quản lý trên sàn giao dịch TMĐT của người bán là thương nhân, tổ chức, cá nhân (Nhà cung cấp)" thành " Mã quản lý trên sàn giao dịch TMĐT của nhà cung cấp".
+- Sửa tên Loại hình:
+	+ Sửa tên “Cá nhân kinh doanh VN” thành “Cá nhân/hộ kinh doanh VN”
+	+ Sửa tên "Cá nhân kinh doanh nước ngoài" thành "Cá nhân/hộ kinh doanh nước ngoài (không cư trú)"
+- Cập nhật chỉ tiêu “Trạng thái” như sau:
+	+ Nếu loại tờ khai là “Lần đầu” thì trạng thái mặc định “Thêm mới”
+	+ Nếu loại tờ khai là “Thay thế” thì trạng thái mặc định “Thay thế”
+- Cật nhật bổ sung bắt buộc nhập các chỉ tiêu trên tờ khai và phụ lục như sau:
+	+ Đối với tờ khai chính 01/CCTT-TMĐT: Bắt buộc nhập “Tên nhà cung cấp”, “Loại hình”
+	+ Đối với phụ lục 01-1/CCTT-TMĐT: Bắt buộc nhập “Loại hình”
+- Cập nhật danh sách “Tên ngân hàng”, bổ sung 2 giá trị vào danh mục là “Khác” và “Ví điện tử”

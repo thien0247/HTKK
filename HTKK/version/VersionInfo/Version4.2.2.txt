@@ -1,0 +1,250 @@
+NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.2.2
+1.	Cập nhật danh mục cơ quan thuế của các chức năng liên quan trên ứng dụng HTKK:
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Bà Rịa – Vũng Tàu  theo Quyết định số 1671/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Long Điền thành Huyện Long Điền - Chi cục Thuế khu vực Long Điền - Đất Đỏ
+	+ Cập nhật Chi cục Thuế huyện Đất Đỏ thành Huyện Đất Đỏ - Chi cục Thuế khu vực Long Điền - Đất Đỏ
+	+ Cập nhật Chi cục Thuế huyện Xuyên Mộc thành Huyện Xuyên Mộc - Chi cục Thuế khu vực Xuyên Mộc - Châu Đức
+	+ Cập nhật Chi cục Thuế huyện Châu Đức thành Huyện Châu Đức - Chi cục Thuế khu vực Xuyên Mộc - Châu Đức
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Bắc Giang theo Quyết định số 1672/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Lục Ngạn thành Huyện Lục Ngạn - Chi cục Thuế khu vực Lục Ngạn - Sơn Động
+	+ Cập nhật Chi cục Thuế huyện Sơn Động thành Huyện Sơn Động - Chi cục Thuế khu vực Lục Ngạn - Sơn Động
+	+ Cập nhật Chi cục Thuế huyện Lạng Giang thành Huyện Lạng Giang - Chi cục Thuế khu vực Lạng Giang - Lục Nam
+	+ Cập nhật Chi cục Thuế huyện Lục Nam thành Huyện Lục Nam - Chi cục Thuế khu vực Lạng Giang - Lục Nam
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Bạc Liêu theo Quyết định số 1673/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Hoà Bình thành Huyện Hòa Bình - Chi cục Thuế khu vực Hòa Bình - Vĩnh Lợi
+	+ Cập nhật Chi cục Thuế huyện Vĩnh Lợi thành Huyện Vĩnh Lợi - Chi cục Thuế khu vực Hòa Bình - Vĩnh Lợi
+	+ Cập nhật Chi cục Thuế huyện Phước Long thành Huyện Phước Long - Chi cục Thuế khu vực Phước Long - Hồng Dân
+	+ Cập nhật Chi cục Thuế huyện Hồng Dân thành Huyện Hồng Dân - Chi cục Thuế khu vực Phước Long - Hồng Dân
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Bắc Ninh theo Quyết định số 1674/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Thuận Thành thành Huyện Thuận Thành - Chi cục Thuế khu vực Gia Thuận
+	+ Cập nhật Chi cục Thuế huyện Gia Bình thành Huyện Gia Bình - Chi cục Thuế khu vực Gia Thuận
+	+ Cập nhật Chi cục Thuế huyện Lương Tài thành Huyện Lương Tài - Chi cục Thuế khu vực Gia Thuận
+	+ Cập nhật Chi cục Thuế huyện Tiên Du thành Huyện Tiên Du - Chi cục Thuế khu vực Tiên Du - Quế Võ
+	+ Cập nhật Chi cục Thuế huyện Quế Võ thành Huyện Quế Võ - Chi cục Thuế khu vực Tiên Du - Quế Võ
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Bến Tre theo Quyết định số 1675/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Chợ Lách thành Huyện Chợ Lách - Chi cục Thuế khu vực Chợ Lách - Mỏ Cày Bắc
+	+ Cập nhật Chi cục Thuế huyện Mỏ Cày Bắc thành Huyện Mỏ Cày Bắc - Chi cục Thuế khu vực Chợ Lách - Mỏ Cày Bắc
+	+ Cập nhật Chi cục Thuế thành phố Bến Tre thành Thành phố Bến Tre - Chi cục Thuế khu vực Bến Tre - Châu Thành
+	+ Cập nhật Chi cục Thuế huyện Châu Thành thành Huyện Châu Thành - Chi cục Thuế khu vực Bến Tre - Châu Thành
+	+ Cập nhật Chi cục Thuế huyện Mỏ Cày Nam thành Huyện Mỏ Cày Nam - Chi cục Thuế khu vực Mỏ Cày Nam - Thạnh Phú
+	+ Cập nhật Chi cục Thuế huyện Thạnh Phú thành Huyện Thạnh Phú - Chi cục Thuế khu vực Mỏ Cày Nam - Thạnh Phú
+	+ Cập nhật Chi cục Thuế huyện Ba Tri thành Huyện Ba Tri - Chi cục Thuế khu vực Ba Tri - Giồng Trôm
+	+ Cập nhật Chi cục Thuế huyện Giồng Trôm thành Huyện Giồng Trôm - Chi cục Thuế khu vực Ba Tri - Giồng Trôm
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Bình Dương theo Quyết định số 1677/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế thị xã Tân Uyên thành Thị xã Tân Uyên - Chi cục Thuế khu vực Tân Uyên
+	+ Cập nhật Chi cục Thuế huyện Bắc Tân Uyên thành Huyện Bắc Tân Uyên - Chi cục Thuế khu vực Tân Uyên
+	+ Cập nhật Chi cục Thuế huyện Phú Giáo thành Huyện Phú Giáo - Chi cục Thuế khu vực Tân Uyên
+	+ Cập nhật Chi cục Thuế thị xã Bến Cát thành Thị xã Bến Cát - Chi cục Thuế khu vực Bến Cát
+	+ Cập nhật Chi cục Thuế huyện Bàu Bàng thành Huyện Bàu Bàng - Chi cục Thuế khu vực Bến Cát
+	+ Cập nhật Chi cục Thuế huyện Dầu Tiếng thành Huyện Dầu Tiếng - Chi cục Thuế khu vực Bến Cát
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Bình Phước theo Quyết định số 1678/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế thị xã Bình Long thành Thị xã Bình Long - Chi cục Thuế khu vực Bình Long - Hớn Quản
+	+ Cập nhật Chi cục Thuế huyện Hớn Quản thành Huyện Hớn Quản - Chi cục Thuế khu vực Bình Long - Hớn Quản
+	+ Cập nhật Chi cục Thuế thành phố Đồng Xoài thành Thành phố Đồng Xoài - Chi cục Thuế khu vực Đồng Xoài - Đồng Phú
+	+ Cập nhật Chi cục Thuế huyện Đồng Phú thành Huyện Đồng Phú - Chi cục Thuế khu vực Đồng Xoài - Đồng Phú
+	+ Cập nhật Chi cục Thuế huyện Lộc Ninh thành Huyện Lộc Ninh - Chi cục Thuế khu vực Lộc Ninh - Bù Đốp
+	+ Cập nhật Chi cục Thuế huyện Bù Đốp thành Huyện Bù Đốp - Chi cục Thuế khu vực Lộc Ninh - Bù Đốp
+	+ Cập nhật Chi cục Thuế thị xã Phước Long thành Thị xã Phước Long - Chi cục Thuế khu vực Phước Long - Bù Gia Mập - Phú Riềng
+	+ Cập nhật Chi cục Thuế huyện Bù Gia Mập thành Huyện Bù Gia Mập - Chi cục Thuế khu vực Phước Long - Bù Gia Mập - Phú Riềng
+	+ Cập nhật Chi cục Thuế huyện Phú Riềng thành Huyện Phú Riềng - Chi cục Thuế khu vực Phước Long - Bù Gia Mập - Phú Riềng
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Cà Mau theo Quyết định số 1679/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế thành phố Cà Mau thành Thành phố Cà Mau - Chi cục Thuế khu vực II
+	+ Cập nhật Chi cục Thuế huyện Đầm Dơi thành Huyện Đầm Dơi - Chi cục Thuế khu vực II
+	+ Cập nhật Chi cục Thuế huyện Cái Nước thành Huyện Cái Nước - Chi cục Thuế khu vực III
+	+ Cập nhật Chi cục Thuế huyện Phú Tân thành Huyện Phú Tân - Chi cục Thuế khu vực III
+	+ Cập nhật Chi cục Thuế huyện Trần Văn Thời thành Huyện Trần Văn Thời - Chi cục Thuế khu vực III
+	+ Cập nhật Chi cục Thuế huyện Thới Bình thành Huyện Thới Bình - Chi cục Thuế khu vực IV
+	+ Cập nhật Chi cục Thuế huyện U Minh thành Huyện U Minh - Chi cục Thuế khu vực IV
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế Thành phố Cần Thơ theo Quyết định số 1680/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Cờ Đỏ thành Huyện Cờ Đỏ - Chi cục Thuế khu vực Cờ Đỏ - Thới Lai
+	+ Cập nhật Chi cục Thuế huyện Thới Lai thành Huyện Thới Lai - Chi cục Thuế khu vực Cờ Đỏ - Thới Lai
+	+ Cập nhật Chi cục Thuế quận Thốt Nốt thành Quận Thốt Nốt - Chi cục Thuế khu vực Thốt Nốt - Vĩnh Thạnh
+	+ Cập nhật Chi cục Thuế huyện Vĩnh Thạnh thành Huyện Vĩnh Thạnh - Chi cục Thuế khu vực Thốt Nốt - Vĩnh Thạnh
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Kiên Giang theo Quyết định số 1681/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện An Biên thành Huyện An Biên - Chi cục Thuế khu vực An Biên - An Minh
+	+ Cập nhật Chi cục Thuế huyện An Minh thành Huyện An Minh - Chi cục Thuế khu vực An Biên - An Minh
+	+ Cập nhật Chi cục Thuế huyện Hòn Đất thành Huyện Hòn Đất - Chi cục Thuế khu vực Hòn Đất - Kiên Lương
+	+ Cập nhật Chi cục Thuế huyện Kiên Lương thành Huyện Kiên Lương - Chi cục Thuế khu vực Hòn Đất - Kiên Lương
+	+ Cập nhật Chi cục Thuế huyện Châu Thành thành Huyện Châu Thành - Chi cục Thuế khu vực Châu Thành - Tân Hiệp
+	+ Cập nhật Chi cục Thuế huyện Tân Hiệp thành Huyện Tân Hiệp - Chi cục Thuế khu vực Châu Thành - Tân Hiệp
+	+ Cập nhật Chi cục Thuế huyện Giồng Riềng thành Huyện Giồng Riềng - Chi cục Thuế khu vực Giồng Riềng - Gò Quao
+	+ Cập nhật Chi cục Thuế huyện Gò Quao thành Huyện Gò Quao - Chi cục Thuế khu vực Giồng Riềng - Gò Quao
+	+ Cập nhật Chi cục Thuế huyện Vĩnh Thuận thành Huyện Vĩnh Thuận - Chi cục Thuế khu vực Vĩnh Thuận - U Minh Thượng
+	+ Cập nhật Chi cục Thuế huyện U Minh Thượng thành Huyện U Minh Thượng - Chi cục Thuế khu vực Vĩnh Thuận - U Minh Thượng
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Cao Bằng theo Quyết định số 1682/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Phục Hòa thành Huyện Phục Hòa - Chi cục Thuế khu vực Phục Hòa - Quảng Uyên
+	+ Cập nhật Chi cục Thuế huyện Quảng Uyên thành Huyện Quảng Uyên - Chi cục Thuế khu vực Phục Hòa - Quảng Uyên
+	+ Cập nhật Chi cục Thuế huyện Nguyên Bình thành Huyện Nguyên Bình - Chi cục Thuế khu vực Nguyên Bình - Thông Nông
+	+ Cập nhật Chi cục Thuế huyện Thông Nông thành Huyện Thông Nông - Chi cục Thuế khu vực Nguyên Bình - Thông Nông
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Đắk Nông theo Quyết định số 1683/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế thị xã Gia Nghĩa thành Thị xã Gia Nghĩa - Chi cục Thuế khu vực Gia Nghĩa - Đắk Glong
+	+ Cập nhật Chi cục Thuế huyện Đắk Glong thành Huyện Đắk Glong - Chi cục Thuế khu vực Gia Nghĩa - Đắk Glong
+	+ Cập nhật Chi cục Thuế huyện Đắk R'Lấp thành Huyện Đắk R'Lấp - Chi cục Thuế khu vực Đắk R'Lấp - Tuy Đức
+	+ Cập nhật Chi cục Thuế huyện Tuy Đức thành Huyện Tuy Đức - Chi cục Thuế khu vực Đắk R'Lấp - Tuy Đức
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Đồng Nai theo Quyết định số 1684/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế thành phố Long Khánh thành Thành phố Long Khánh - Chi cục Thuế khu vực Long Khánh - Cẩm Mỹ
+	+ Cập nhật Chi cục Thuế huyện Cẩm Mỹ thành Huyện Cẩm Mỹ - Chi cục Thuế khu vực Long Khánh - Cẩm Mỹ
+	+ Cập nhật Chi cục Thuế huyện Định Quán thành Huyện Định Quán - Chi cục Thuế khu vực Định Quán - Tân Phú
+	+ Cập nhật Chi cục Thuế huyện Tân Phú thành Huyện Tân Phú - Chi cục Thuế khu vực Định Quán - Tân Phú
+	+ Cập nhật Chi cục Thuế huyện Long Thành thành Huyện Long Thành - Chi cục Thuế khu vực Long Thành - Nhơn Trạch
+	+ Cập nhật Chi cục Thuế huyện Nhơn Trạch thành Huyện Nhơn Trạch - Chi cục Thuế khu vực Long Thành - Nhơn Trạch
+	+ Cập nhật Chi cục Thuế huyện Trảng Bom thành Huyện Trảng Bom - Chi cục Thuế khu vực Trảng Bom - Thống Nhất
+	+ Cập nhật Chi cục Thuế huyện Thống Nhất thành Huyện Thống Nhất - Chi cục Thuế khu vực Trảng Bom - Thống Nhất
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Đồng Tháp theo Quyết định số 1685/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế thị xã Hồng Ngự thành Thị xã Hồng Ngự - Chi cục Thuế khu vực 3
+	+ Cập nhật Chi cục Thuế huyện Hồng Ngự thành Huyện Hồng Ngự - Chi cục Thuế khu vực 3
+	+ Cập nhật Chi cục Thuế huyện Tháp Mười thành Huyện Tháp Mười - Chi cục Thuế khu vực 4
+	+ Cập nhật Chi cục Thuế huyện Cao Lãnh thành Huyện Cao Lãnh - Chi cục Thuế khu vực 4
+	+ Cập nhật Chi cục Thuế huyện Lấp Vò thành Huyện Lấp Vò - Chi cục Thuế khu vực 5
+	+ Cập nhật Chi cục Thuế huyện Lai Vung thành Huyện Lai Vung - Chi cục Thuế khu vực 5
+	+ Cập nhật Chi cục Thuế huyện Tam Nông thành Huyện Tam Nông - Chi cục Thuế khu vực 6
+	+ Cập nhật Chi cục Thuế huyện Tân Hồng thành Huyện Tân Hồng - Chi cục Thuế khu vực 6
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Hà Giang theo Quyết định số 1686/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Quản Bạ thành Huyện Quản Bạ - Chi cục Thuế khu vực Quản Bạ - Yên Minh
+	+ Cập nhật Chi cục Thuế huyện Yên Minh thành Huyện Yên Minh - Chi cục Thuế khu vực Quản Bạ - Yên Minh
+	+ Cập nhật Chi cục Thuế huyện Đồng Văn thành Huyện Đồng Văn - Chi cục Thuế khu vực Đồng Văn - Mèo Vạc
+	+ Cập nhật Chi cục Thuế huyện Mèo Vạc thành Huyện Mèo Vạc - Chi cục Thuế khu vực Đồng Văn - Mèo Vạc
+	+ Cập nhật Chi cục Thuế huyện Bắc Quang thành Huyện Bắc Quang - Chi cục Thuế khu vực Bắc Quang - Quang Bình
+	+ Cập nhật Chi cục Thuế huyện Quang Bình thành Huyện Quang Bình - Chi cục Thuế khu vực Bắc Quang - Quang Bình
+	+ Cập nhật Chi cục Thuế huyện Hoàng Su Phì thành Huyện Hoàng Su Phì - Chi cục Thuế khu vực Hoàng Su Phì - Xín Mần
+	+ Cập nhật Chi cục Thuế huyện Xín Mần thành Huyện Xín Mần - Chi cục Thuế khu vực Hoàng Su Phì - Xín Mần
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Hà Tĩnh theo Quyết định số 1687/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế thành phố Hà Tĩnh thành Thành phố Hà Tĩnh - Chi cục Thuế khu vực thành phố Hà Tĩnh - Cẩm Xuyên
+	+ Cập nhật Chi cục Thuế huyện Cẩm Xuyên thành Huyện Cẩm Xuyên - Chi cục Thuế khu vực thành phố Hà Tĩnh - Cẩm Xuyên
+	+ Cập nhật Chi cục Thuế huyện Thạch Hà thành Huyện Thạch Hà - Chi cục Thuế khu vực Thạch Hà - Lộc Hà
+	+ Cập nhật Chi cục Thuế huyện Lộc Hà thành Huyện Lộc Hà - Chi cục Thuế khu vực Thạch Hà - Lộc Hà
+	+ Cập nhật Chi cục Thuế huyện Hương Khê thành Huyện Hương Khê - Chi cục Thuế khu vực Hương Khê - Vũ Quang
+	+ Cập nhật Chi cục Thuế huyện Vũ Quang thành Huyện Vũ Quang - Chi cục Thuế khu vực Hương Khê - Vũ Quang
+	+ Cập nhật Chi cục Thuế thị xã Hồng Lĩnh thành Thị xã Hồng Lĩnh - Chi cục Thuế khu vực thị xã Hồng Lĩnh - Can Lộc
+	+ Cập nhật Chi cục Thuế huyện Can Lộc thành Huyện Can Lộc - Chi cục Thuế khu vực thị xã Hồng Lĩnh - Can Lộc
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Hậu Giang theo Quyết định số 1688/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế thành phố Vị Thanh thành Thành phố Vị Thanh - Chi cục Thuế khu vực I
+	+ Cập nhật Chi cục Thuế huyện Vị Thủy thành Huyện Vị Thủy - Chi cục Thuế khu vực I
+	+ Cập nhật Chi cục Thuế huyện Châu Thành A thành Huyện Châu Thành A - Chi cục Thuế khu vực IV
+	+ Cập nhật Chi cục Thuế huyện Châu Thành thành Huyện Châu Thành - Chi cục Thuế khu vực IV
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Hòa Bình theo Quyết định số 1689/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Cao Phong thành Huyện Cao Phong - Chi cục Thuế khu vực Cao Phong - Tân Lạc
+	+ Cập nhật Chi cục Thuế huyện Tân Lạc thành Huyện Tân Lạc - Chi cục Thuế khu vực Cao Phong - Tân Lạc
+	+ Cập nhật Chi cục Thuế huyện Lạc Sơn thành Huyện Lạc Sơn - Chi cục Thuế khu vực Lạc Sơn - Yên Thủy
+	+ Cập nhật Chi cục Thuế huyện Yên Thủy thành Huyện Yên Thủy - Chi cục Thuế khu vực Lạc Sơn - Yên Thủy
+	+ Cập nhật Chi cục Thuế huyện Kim Bôi thành Huyện Kim Bôi - Chi cục Thuế khu vực Kim Bôi - Lạc Thủy
+	+ Cập nhật Chi cục Thuế huyện Lạc Thủy thành Huyện Lạc Thủy - Chi cục Thuế khu vực Kim Bôi - Lạc Thủy
+	+ Cập nhật Chi cục Thuế thành phố Hòa Bình thành Thành phố Hòa Bình - Chi cục Thuế khu vực Hòa Bình - Đà Bắc
+	+ Cập nhật Chi cục Thuế huyện Đà Bắc thành Huyện Đà Bắc - Chi cục Thuế khu vực Hòa Bình - Đà Bắc
+	+ Cập nhật Chi cục Thuế huyện Kỳ Sơn thành Huyện Kỳ Sơn - Chi cục Thuế khu vực Hòa Bình - Đà Bắc
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Lai Châu theo Quyết định số 1690/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Than Uyên thành Huyện Than Uyên - Chi cục Thuế khu vực Than Uyên - Tân Uyên
+	+ Cập nhật Chi cục Thuế huyện Tân Uyên thành Huyện Tân Uyên - Chi cục Thuế khu vực Than Uyên - Tân Uyên
+	+ Cập nhật Chi cục Thuế thành phố Lai Châu thành Thành phố Lai Châu - Chi cục Thuế khu vực Thành phố Lai Châu - Tam Đường
+	+ Cập nhật Chi cục Thuế huyện Tam Đường thành Huyện Tam Đường - Chi cục Thuế khu vực Thành phố Lai Châu - Tam Đường
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Lào Cai theo Quyết định số 1691/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Bắc Hà thành Huyện Bắc Hà - Chi cục Thuế khu vực Bắc Hà - Si Ma Cai
+	+ Cập nhật Chi cục Thuế huyện Si Ma Cai thành Huyện Si Ma Cai - Chi cục Thuế khu vực Bắc Hà - Si Ma Cai
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Ninh Bình theo Quyết định số 1692/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế thành phố Tam Điệp thành Thành phố Tam Điệp - Chi cục Thuế khu vực Tam Điệp - Yên Mô
+	+ Cập nhật Chi cục Thuế huyện Yên Mô thành Huyện Yên Mô - Chi cục Thuế khu vực Tam Điệp - Yên Mô
+	+ Cập nhật Chi cục Thuế thành phố Ninh Bình thành Thành phố Ninh Bình - Chi cục Thuế khu vực Ninh Bình - Hoa Lư
+	+ Cập nhật Chi cục Thuế huyện Hoa Lư thành Huyện Hoa Lư - Chi cục Thuế khu vực Ninh Bình - Hoa Lư
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Quảng Nam theo Quyết định số 1693/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Bắc Trà My thành Huyện Bắc Trà My - Chi cục Thuế khu vực Trà My - Tiên Phước
+	+ Cập nhật Chi cục Thuế huyện Nam Trà My thành Huyện Nam Trà My - Chi cục Thuế khu vực Trà My - Tiên Phước
+	+ Cập nhật Chi cục Thuế huyện Tiên Phước thành Huyện Tiên Phước - Chi cục Thuế khu vực Trà My - Tiên Phước
+	+ Cập nhật Chi cục Thuế huyện Đông Giang thành Huyện Đông Giang - Chi cục Thuế khu vực Đông Giang - Tây Giang
+	+ Cập nhật Chi cục Thuế huyện Tây Giang thành Huyện Tây Giang - Chi cục Thuế khu vực Đông Giang - Tây Giang
+	+ Cập nhật Chi cục Thuế huyện Quế Sơn thành Huyện Quế Sơn - Chi cục Thuế khu vực Quế Sơn - Nông Sơn - Hiệp Đức
+	+ Cập nhật Chi cục Thuế huyện Nông Sơn thành Huyện Nông Sơn - Chi cục Thuế khu vực Quế Sơn - Nông Sơn - Hiệp Đức
+	+ Cập nhật Chi cục Thuế huyện Hiệp Đức thành Huyện Hiệp Đức - Chi cục Thuế khu vực Quế Sơn - Nông Sơn - Hiệp Đức
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Quảng Ninh theo Quyết định số 1694/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế thành phố Cẩm Phả thành Thành phố Cẩm Phả - Chi cục Thuế khu vực Cẩm Phả - Vân Đồn - Cô Tô
+	+ Cập nhật Chi cục Thuế huyện Vân Đồn thành Huyện Vân Đồn - Chi cục Thuế khu vực Cẩm Phả - Vân Đồn - Cô Tô
+	+ Cập nhật Chi cục Thuế huyện Cô Tô thành Huyện Cô Tô - Chi cục Thuế khu vực Cẩm Phả - Vân Đồn - Cô Tô
+	+ Cập nhật Chi cục Thuế thành phố Hạ Long thành Thành phố Hạ Long - Chi cục Thuế khu vực Hạ Long - Hoành Bồ
+	+ Cập nhật Chi cục Thuế huyện Hoành Bồ thành Huyện Hoành Bồ - Chi cục Thuế khu vực Hạ Long - Hoành Bồ
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Quảng Trị theo Quyết định số 1695/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Vĩnh Linh thành Huyện Vĩnh Linh - Chi cục Thuế khu vực Vĩnh Linh - Gio Linh
+	+ Cập nhật Chi cục Thuế huyện Gio Linh thành Huyện Gio Linh - Chi cục Thuế khu vực Vĩnh Linh - Gio Linh
+	+ Cập nhật Chi cục Thuế thành phố Đông Hà thành Thành phố Đông Hà - Chi cục Thuế khu vực Đông Hà - Cam Lộ
+	+ Cập nhật Chi cục Thuế huyện Cam Lộ thành Huyện Cam Lộ - Chi cục Thuế khu vực Đông Hà - Cam Lộ
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Thái Bình theo Quyết định số 1696/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Tiền Hải thành Huyện Tiền Hải - Chi cục Thuế khu vực Tiền Hải - Kiến Xương
+	+ Cập nhật Chi cục Thuế huyện Kiến Xương thành Huyện Kiến Xương - Chi cục Thuế khu vực Tiền Hải - Kiến Xương
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Thanh Hóa theo Quyết định số 1697/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Vĩnh Lộc thành Huyện Vĩnh Lộc - Chi cục Thuế khu vực Vĩnh Lộc - Thạch Thành
+	+ Cập nhật Chi cục Thuế huyện Thạch Thành thành Huyện Thạch Thành - Chi cục Thuế khu vực Vĩnh Lộc - Thạch Thành
+	+ Cập nhật Chi cục Thuế huyện Quan Hóa thành Huyện Quan Hóa - Chi cục Thuế khu vực Quan Hóa - Quan Sơn - Mường Lát
+	+ Cập nhật Chi cục Thuế huyện Quan Sơn thành Huyện Quan Sơn - Chi cục Thuế khu vực Quan Hóa - Quan Sơn - Mường Lát
+	+ Cập nhật Chi cục Thuế huyện Mường Lát thành Huyện Mường Lát - Chi cục Thuế khu vực Quan Hóa - Quan Sơn - Mường Lát
+	+ Cập nhật Chi cục Thuế huyện Ngọc Lặc thành Huyện Ngọc Lặc - Chi cục Thuế khu vực Ngọc Lặc - Lang Chánh
+	+ Cập nhật Chi cục Thuế huyện Lang Chánh thành Huyện Lang Chánh - Chi cục Thuế khu vực Ngọc Lặc - Lang Chánh
+	+ Cập nhật Chi cục Thuế huyện Cẩm Thủy thành Huyện Cẩm Thủy - Chi cục Thuế khu vực Cẩm Thủy - Bá Thước
+	+ Cập nhật Chi cục Thuế huyện Bá Thước thành Huyện Bá Thước - Chi cục Thuế khu vực Cẩm Thủy - Bá Thước
+	+ Cập nhật Chi cục Thuế huyện Nga Sơn thành Huyện Nga Sơn - Chi cục Thuế khu vực Nga Sơn - Hậu Lộc
+	+ Cập nhật Chi cục Thuế huyện Hậu Lộc thành Huyện Hậu Lộc - Chi cục Thuế khu vực Nga Sơn - Hậu Lộc
+	+ Cập nhật Chi cục Thuế thành phố Thanh Hóa thành Thành phố Thanh Hóa - Chi cục Thuế khu vực thành phố Thanh Hóa - Đông Sơn
+	+ Cập nhật Chi cục Thuế huyện Đông Sơn thành Huyện Đông Sơn - Chi cục Thuế khu vực thành phố Thanh Hóa - Đông Sơn
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Trà Vinh theo Quyết định số 1698/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế thị xã Duyên Hải thành Thị xã Duyên Hải - Chi cục Thuế khu vực Duyên Hải
+	+ Cập nhật Chi cục Thuế huyện Duyên Hải thành Huyện Duyên Hải - Chi cục Thuế khu vực Duyên Hải
+	+ Cập nhật Chi cục Thuế huyện Tiểu Cần thành Huyện Tiểu Cần - Chi cục Thuế khu vực Tiểu Cần - Cầu Kè
+	+ Cập nhật Chi cục Thuế huyện Cầu Kè thành Huyện Cầu Kè - Chi cục Thuế khu vực Tiểu Cần - Cầu Kè
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Tuyên Quang theo Quyết định số 1699/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Na Hang thành Huyện Na Hang - Chi cục Thuế khu vực Na Hang - Lâm Bình
+	+ Cập nhật Chi cục Thuế huyện Lâm Bình thành Huyện Lâm Bình - Chi cục Thuế khu vực Na Hang - Lâm Bình
+	+ Cập nhật Chi cục Thuế huyện Chiêm Hóa thành Huyện Chiêm Hóa - Chi cục Thuế khu vực Chiêm Hóa - Hàm Yên
+	+ Cập nhật Chi cục Thuế huyện Hàm Yên thành Huyện Hàm Yên - Chi cục Thuế khu vực Chiêm Hóa - Hàm Yên
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Vĩnh Long theo Quyết định số 1700/QĐ-BTC ngày 28/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế thị xã Bình Minh thành Thị xã Bình Minh - Chi cục Thuế khu vực II
+	+ Cập nhật Chi cục Thuế huyện Bình Tân thành Huyện Bình Tân - Chi cục Thuế khu vực II
+	+ Cập nhật Chi cục Thuế huyện Tam Bình thành Huyện Tam Bình - Chi cục Thuế khu vực III
+	+ Cập nhật Chi cục Thuế huyện Trà Ôn thành Huyện Trà Ôn - Chi cục Thuế khu vực III
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Bình Thuận theo Quyết định số 1743/QĐ-BTC ngày 30/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Đức Linh thành Huyện Đức Linh - Chi cục Thuế khu vực Đức Linh - Tánh Linh
+	+ Cập nhật Chi cục Thuế huyện Tánh Linh thành Huyện Tánh Linh - Chi cục Thuế khu vực Đức Linh - Tánh Linh
+	+ Cập nhật Chi cục Thuế huyện Bắc Bình thành Huyện Bắc Bình - Chi cục Thuế khu vực Bắc Bình - Tuy Phong
+	+ Cập nhật Chi cục Thuế huyện Tuy Phong thành Huyện Tuy Phong - Chi cục Thuế khu vực Bắc Bình - Tuy Phong
+	+ Cập nhật Chi cục Thuế huyện Hàm Thuận Nam thành Huyện Hàm Thuận Nam - Chi cục Thuế khu vực Hàm Thuận Nam - Hàm Thuận Bắc
+	+ Cập nhật Chi cục Thuế huyện Hàm Thuận Bắc thành Huyện Hàm Thuận Bắc - Chi cục Thuế khu vực Hàm Thuận Nam - Hàm Thuận Bắc
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Tây Ninh theo Quyết định số 1744/QĐ-BTC ngày 30/08/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Hòa Thành thành Huyện Hòa Thành - Chi cục Thuế khu vực Hòa Thành - Dương Minh Châu
+	+ Cập nhật Chi cục Thuế huyện Dương Minh Châu thành Huyện Dương Minh Châu - Chi cục Thuế khu vực Hòa Thành - Dương Minh Châu
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế Thành phố Hải Phòng theo Quyết định số 1878/QĐ-BTC ngày 20/09/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế quận Đồ Sơn thành Quận Đồ Sơn - Chi cục Thuế khu vực Đồ Sơn - Kiến Thụy
+	+ Cập nhật Chi cục Thuế huyện Kiến Thụy thành Huyện Kiến Thụy - Chi cục Thuế khu vực Đồ Sơn - Kiến Thụy
+	+ Cập nhật Chi cục Thuế huyện Vĩnh Bảo thành Huyện Vĩnh Bảo - Chi cục Thuế khu vực Vĩnh Bảo - Tiên Lãng
+	+ Cập nhật Chi cục Thuế huyện Tiên Lãng thành Huyện Tiên Lãng - Chi cục Thuế khu vực Vĩnh Bảo - Tiên Lãng
+	+ Cập nhật Chi cục Thuế quận Kiến An thành Quận Kiến An -  Chi cục Thuế khu vực Kiến An - An Lão
+	+ Cập nhật Chi cục Thuế huyện An Lão thành Huyện An Lão -  Chi cục Thuế khu vực Kiến An - An Lão
+	+ Cập nhật Chi cục Thuế quận Hồng Bàng thành Quận Hồng Bàng - Chi cục Thuế khu vực Hồng Bàng - An Dương
+	+ Cập nhật Chi cục Thuế huyện An Dương thành Huyện An Dương - Chi cục Thuế khu vực Hồng Bàng - An Dương
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Nam Định theo Quyết định số 1879/QĐ-BTC ngày 20/09/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế thành phố Nam Định thành Thành phố Nam Định - Chi cục Thuế khu vực Thành phố Nam Định - Mỹ Lộc
+	+ Cập nhật Chi cục Thuế huyện Mỹ Lộc thành Huyện Mỹ Lộc - Chi cục Thuế khu vực Thành phố Nam Định - Mỹ Lộc
+	+ Cập nhật Chi cục Thuế huyện Ý Yên thành Huyện Ý Yên - Chi cục Thuế khu vực Ý Yên - Vụ Bản
+	+ Cập nhật Chi cục Thuế huyện Vụ Bản thành Huyện Vụ Bản - Chi cục Thuế khu vực Ý Yên - Vụ Bản
+	+ Cập nhật Chi cục Thuế huyện Nam Trực thành Huyện Nam Trực - Chi cục Thuế khu vực Nam Ninh
+	+ Cập nhật Chi cục Thuế huyện Trực Ninh thành Huyện Trực Ninh - Chi cục Thuế khu vực Nam Ninh
+- Cập nhật tên các Chi cục Thuế trực thuộc Cục Thuế tỉnh Gia Lai theo Quyết định số 1908/QĐ-BTC ngày 26/09/2019 của Bộ trưởng Bộ Tài chính, cụ thể:
+	+ Cập nhật Chi cục Thuế huyện Chư Sê thành Huyện Chư Sê - Chi cục Thuế khu vực Chư Sê - Chư Pưh
+	+ Cập nhật Chi cục Thuế huyện Chư Pưh thành Huyện Chư Pưh - Chi cục Thuế khu vực Chư Sê - Chư Pưh
+	+ Cập nhật Chi cục Thuế huyện Ia Grai thành Huyện Ia Grai -  Chi cục Thuế khu vực Ia Grai - Chư Păh
+	+ Cập nhật Chi cục Thuế huyện Chư Păh thành Huyện Chư Păh -  Chi cục Thuế khu vực Ia Grai - Chư Păh
+	+ Cập nhật Chi cục Thuế huyện Đak Đoa thành Huyện Đak Đoa - Chi cục Thuế khu vực Đak Đoa - Mang Yang
+	+ Cập nhật Chi cục Thuế huyện Mang Yang thành Huyện Mang Yang - Chi cục Thuế khu vực Đak Đoa - Mang Yang
+	+ Cập nhật Chi cục Thuế thị xã An Khê thành Thị xã An Khê - Chi cục Thuế khu vực An Khê - Đak Pơ - Kông Chro
+	+ Cập nhật Chi cục Thuế huyện Đak Pơ thành Huyện Đak Pơ - Chi cục Thuế khu vực An Khê - Đak Pơ - Kông Chro
+	+ Cập nhật Chi cục Thuế huyện Kông Chro thành Huyện Kông Chro - Chi cục Thuế khu vực An Khê - Đak Pơ - Kông Chro
+2.	Cập nhật một số lỗi và yêu cầu nghiệp vụ phát sinh của ứng dụng HTKK 4.2.1
+2.1.	Cập nhật địa bàn hành chính
+- Đổi tên xã Đắk Long thành Thị trấn Măng Đen, Huyện Kon Plong, tỉnh Kon Tum
+- Đổi tên xã Lộc Hòa thành phường Lộc Hòa, Thành phố Nam Định, tỉnh Nam Định.
+- Đổi tên xã Mỹ Xá thành phường Mỹ Xá, Thành phố Nam Định, tỉnh Nam Định.
+2.2.	Chức năng kê khai tờ khai Giấy đề nghị hoàn trả khoản thu ngân sách nhà nước (01/ĐNHT)
+- Cập nhật chức năng kết xuất XML hiển thị đúng dữ liệu chỉ tiêu “Chủ tài khoản” khi nhập ký tự đặc biệt.
+2.3.	Chức năng kê khai tờ khai thuế giá trị gia tăng (01/GTGT)
+- Cập nhật chỉ tiêu [26] – Hàng hóa, dịch vụ bán ra không chịu thuế GTGT: cho phép nhập tối đa 15 ký tự.
+2.4.	Chức năng kê khai tờ khai cá nhân kinh doanh (01/CNKD)
+- Cập nhật không bắt ràng buộc “Đến tháng” phải nhỏ hơn hoặc bằng tháng hiện tại trên form kỳ tính thuế, cho phép sửa.
+2.5.	Chức năng lập thông báo phát hành hóa đơn (TB01/AC)
+- Cập nhật cho phép nhập cột “Từ số”, “Đến số” = 0, không hiển thị cảnh báo.
+2.6.	Chức năng kê khai tờ khai đối với hoạt động cho thuê tài sản (01/TTS)
+- Cập nhật sửa lỗi tự động tính chỉ tiêu [29] – Tổng doanh thu tính thuế trên tờ khai chính trong trường hợp không phát sinh Doanh thu tính thuế trong kỳ (chỉ tiêu [21] trên bảng kê 01/BK-TTS bằng 0).

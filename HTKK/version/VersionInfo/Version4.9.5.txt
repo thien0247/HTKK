@@ -1,0 +1,24 @@
+				NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.9.5
+
+1. Biểu thông tin của tổ chức, cá nhân cung cấp hàng hóa, dịch vụ thông qua sàn giao dịch thương mại điện tử (01/CCTT-TMĐT)
+   - Bổ sung mẫu biểu 01/CCTT-TMĐT: Cho phép nhập (nhập trực tiếp trên màn hình kê khai, tải bảng kê từ file excel, tải tờ khai XML), sửa, xóa, kết xuất XML, kết xuất excel.
+2. Cập nhật địa bàn hành chính tỉnh Tiền Giang theo Nghị quyết số 569/NQ-UBTVQH15 ngày11/08/2022
+   - Cập nhật xã Phú Bình thành Thị trấn Phú Bình, huyện Cai Lậy, tỉnh Tiền Giang.
+3. Cập nhật danh mục tài nguyên 
+   - Thêm mới các tài nguyên có hiệu lực từ ngày 01/11/2022 như sau:
+	+ V30101 - Nước thiên nhiên dùng trong sản xuất rượu, bia, nước giải khát, nước đá (Sử dụng nước mặt)
+	+ V30102 - Nước thiên nhiên dùng trong sản xuất rượu, bia, nước giải khát, nước đá (Sử dụng nước dưới đất)
+	+ V30201 - Nước thiên nhiên dùng cho khai khoáng (Sử dụng nước mặt)
+	+ V30202 - Nước thiên nhiên dùng cho khai khoáng (Sử dụng nước dưới đất)
+	+ V30401 - Nước thiên nhiên dùng mục đích khác (Sử dụng nước mặt)
+	+ V30402 - Nước thiên nhiên dùng mục đích khác (Sử dụng nước dưới đất)
+   - Cập nhật tên mới của các tài nguyên từ ngày 01/11/2022 như sau:
+	+ V30301 - Nước thiên nhiên dùng mục đích khác như làm mát, vệ sinh công nghiệp, xây dựng (Sử dụng nước mặt)
+	+ V30302 - Nước thiên nhiên dùng mục đích khác như làm mát, vệ sinh công nghiệp, xây dựng (Sử dụng nước dưới đất)
+   - Cập nhật không cho phép kê khai đối với các tài nguyên (cập nhật bỏ thuế suất) từ ngày 01/11/2022 như sau:
+	+ V301 - Nước thiên nhiên dùng trong sản xuất rượu, bia, nước giải khát, nước đá
+	+ V302 - Nước thiên nhiên dùng cho khai khoáng
+	+ V303 - Nước thiên nhiên dùng mục đích khác như làm mát, vệ sinh công nghiệp, xây dựng
+	+ V304 - Nước thiên nhiên dùng mục đích khác
+4. Danh sách số hiệu tài khoản thanh toán
+   - Cập nhật chức năng kết xuất XML trong trường hợp không nhập danh sách tài khoản thanh toán của khách hàng thì không kết xuất ra thông tin mã hóa Số hiệu tài khoản.

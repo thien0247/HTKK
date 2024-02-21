@@ -1,0 +1,6 @@
+				NỘI DUNG NÂNG CẤP HTKK PHIÊN BẢN 5.0.3
+
+1. Tờ khai thuế thu nhập doanh nghiệp đối với hãng hàng không nước ngoài – mẫu 01/HKNN (TT 80/2021)
+	- Bổ sung mẫu phụ lục 01-1/HKNN, 01-2/HKNN đính kèm tờ khai 01/HKNN
+2. Tờ khai quyết toán thuế thu nhập cá nhân – mẫu 05/QTT-TNCN (TT 80/2021)
+	- Cập nhật phụ lục 05-1/BK-QTT-TNCN: tính lại đúng giá trị chỉ tiêu [24] - Tổng số thuế phải nộp trong trường hợp thay đổi giá trị chỉ tiêu [20] – Quỹ hưu trí tự nguyện được trừ

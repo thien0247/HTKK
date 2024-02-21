@@ -1,0 +1,6 @@
+		NỘI DUNG NÂNG CẤP HTKK PHIÊN BẢN 4.4.4
+
+1. Cập nhật mức thuế bảo vệ môi trường
+-Cập nhật mức thuế cho mặt hàng mã 010102 “Nhiên liệu bay sản xuất trong nước” là 0, cho phép NNT tự nhập.
+2. Cập nhật chức năng kết xuất tờ khai Tờ khai thuế thu nhập doanh nghiệp (03/TNDN)
+-Cập nhật không cho phép kết xuất thiếu thẻ <ma_quocGia> tại phụ lục thông tin về quan hệ liên kết và giao dịch liên kết (GDLK 01), tờ khai quyết toán thuế thu nhập doanh nghiệp (03/TNDN).

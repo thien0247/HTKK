@@ -1,0 +1,13 @@
+
+Product name :HỖ TRỢ KÊ KHAI THUẾ
+Version :5.0.0
+30/01/2023 16:29:32:GetValueFromChildCell
+Message :Object reference not set to an instance of an object.
+StackTrace :    at HTKK.WinDoWorkEvent.GetValueFromChildCell(HTKKCMCRowValue tableCellRowValue, String strControltype, Int32 idxCell, Int32 idxChildCell) in c:\Users\Administrator\Desktop\SourceDangTK\HTKK\Class\WinDoWorkEvent.cs:line 7654
+
+Product name :HỖ TRỢ KÊ KHAI THUẾ
+Version :5.0.0
+30/01/2023 16:29:32:ProcessSelectedCell
+Message :Object reference not set to an instance of an object.
+StackTrace :    at HTKK.WinDoWorkEvent.GetValueFromChildCell(HTKKCMCRowValue tableCellRowValue, String strControltype, Int32 idxCell, Int32 idxChildCell) in c:\Users\Administrator\Desktop\SourceDangTK\HTKK\Class\WinDoWorkEvent.cs:line 7665
+   at HTKK.WinDoWorkEvent.ProcessSelectedCell(HTKKCMCSheetInfo sInfo) in c:\Users\Administrator\Desktop\SourceDangTK\HTKK\Class\WinDoWorkEvent.cs:line 6782

@@ -1,0 +1,12 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.9.9
+
+1. Nâng cấp chức năng Kê khai Thông tin doanh nghiệp/ Người nộp thuế
+	- Nâng cấp chuyển đổi định dạng dữ liệu địa chỉ người nộp thuế từ dạng text thành danh mục.
+2. Nâng cấp chức năng kê khai tờ khai bổ sung theo mẫu biểu của Thông tư số 80/2021/TT-BTC đối với các tờ khai phân bổ, vãng lai.
+	- Tờ khai thuế giá trị gia tăng: 01/GTGT (TT26/2015), 05/GTGT (TT156/2013)
+	- Tờ khai thuế thu nhập doanh nghiệp: 03/TNDN (TT151/2014)
+	- Tờ khai tiêu thụ đặc biệt: 01/TTĐB (TT195/2015)
+	- Tờ khai thuế bảo vệ môi trường: 01/TBVMT (TT156/2013)
+	- Tờ khai thủy điện: 01/TĐ-GTGT (TT156/2013), 03/TĐ-TAIN (156/2013), 03A/TĐ-TAIN (156/2013)
+3. Nâng cấp chức năng kê khai Văn bản đề nghị xử lý số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa (01/ĐNXLNT)
+	- Nâng cấp mẫu biểu 01/ĐNXLNT bổ sung các trường hợp hoàn nộp thừa đáp ứng Thông tư số 111/2021/TT-BTC .

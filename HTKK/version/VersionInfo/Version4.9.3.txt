@@ -1,0 +1,13 @@
+			NỘI DUNG NÂNG CẤP ỨNG DỤNG HTKK 4.9.3
+
+1. Danh sách số hiệu tài khoản thanh toán
+   - Cập nhật bắt buộc nhập thông tin “Mã số thuế” của khách hàng là người nộp thuế.
+2. Tờ khai thuế giá trị gia tăng (02/GTGT)
+   - Cập nhật khi kê khai đối với kỳ quý, khi kê khai tờ khai bổ sung lần 2 hỗ trợ hiển thị thông tin của tờ khai bổ sung lần 1.
+3. Văn bản đề nghị xử lý số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa (01/ĐNXLNT)
+   - Cập nhật độ rộng khi hiển thị trên màn hình kê khai của danh mục “Tiểu mục”
+4. Tờ khai thuế giá trị gia tăng kinh doanh ngoại tỉnh (05/GTGT)
+   - Cập nhật cho phép kê khai được tờ khai ngoại tỉnh.
+5. Tờ khai quyết toán thuế thu nhập cá nhân (02/QTT-TNCN)
+   - Cập nhật trường hợp không kê khai chỉ tiêu [47] Số thuế bù trừ cho khoản phải nộp ngân sách nhà nước thì không kết xuất ra giá trị các chỉ tiêu (6), (7), (8), (9) tại mục “Khoản nợ, khoản thu phát sinh đề nghị được bù trừ”
+
